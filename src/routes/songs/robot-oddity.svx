@@ -7,6 +7,8 @@ youtube_embed_src: "https://www.youtube.com/embed/-phPAiOZCUE"
 soundcloud_embed_src: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1177856479&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
+## {title}
+### {subtitle}
 
 I was born and raised in a robot factory.
 I run on oxygen and a lifetime warranty.
@@ -44,6 +46,4 @@ So let’s get away for awhile to Magic Town.
 And they called me the Magic Man
 Warm and wild inside an iron can.
 
-<br style="margin-bottom: 4rem;">
-
-### A cerulean blue android spins his regretful victory song on a keyboard odyssey from a bric-a-brac robot factory to a sunny, magic beach town finale, while riding sonic waves of piano, synth and brassy percussion shuffles. The ROBOT ODDiTY song release includes an edgy music video with a psychedelic twist painting a tale of indoctrination and moral discovery, with a near-death experience in a raging fire at a power plant, while living as “wires inside an iron can.” Based on a true life experience from long ago, this song was inspired by events that are still too intimate to reveal publicly.
+***A cerulean blue android spins his regretful victory song on a keyboard odyssey from a bric-a-brac robot factory to a sunny, magic beach town finale, while riding sonic waves of piano, synth and brassy percussion shuffles. The ROBOT ODDiTY song release includes an edgy music video with a psychedelic twist painting a tale of indoctrination and moral discovery, with a near-death experience in a raging fire at a power plant, while living as “wires inside an iron can.” Based on a true life experience from long ago, this song was inspired by events that are still too intimate to reveal publicly.***

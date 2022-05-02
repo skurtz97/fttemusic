@@ -8,58 +8,61 @@ youtube_embed_src: "https://www.youtube.com/embed/KXCDUpA3fEg?feature=oembed"
 soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F593102922&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
 ---
 
-Are you coming to the Club Iguana?
-Will you stay up all night long with me?
-Will you set your hair for the Club Iguana, my love?
-Tell me tales of the things you see:
-There’s a bear on the bass and a bull on the drums.  Gonna
-Jam all the creatures in here into the Iguana Club!
-Into the Iguana Club!
+## {title}
+### {subtitle}
 
-Won’t you tune in to the Club Iguana?
-Blast that horn with the sound of gold.
-Set your ears on the Club Iguana, my love?
-Kick the blues, don’t you act so old!
-Gonna play hot, gonna push and shove,
-Everybody, calm down, play the Iguana Club.
-(Kimi Wa) Play the Iguana Club,
-(A-ji)  O – O – O!  Play the Iguana Club,
-(Yo-i) O – O – O!  Play the Iguana Club,
-(Ana-ta no-O)   O – O – O!
+Are you coming to the Club Iguana?  
+Will you stay up all night long with me?  
+Will you set your hair for the Club Iguana, my love?  
+Tell me tales of the things you see:  
+There’s a bear on the bass and a bull on the drums.  Gonna  
+Jam all the creatures in here into the Iguana Club!  
+Into the Iguana Club!  
 
-I like your amber eyes, your lizard intellect.
-My, how you tantalize!  May I interject?
-“What’s wrong with this picture?”    (Strike up the old gang song!)
-“What’s wrong with this picture?”    (Strike up the old gang song!)
-“What’s wrong with this picture?”
-I look into your face,  I feel the warmth and grace.
-I see beautiful rays, just as the music plays,
-“What’s wrong with this picture?”    (Strike up the old gang song!)
-“What’s wrong with this picture?”    (Strike up the old gang song!)
-“What’s wrong with this picture?”
+Won’t you tune in to the Club Iguana?  
+Blast that horn with the sound of gold.  
+Set your ears on the Club Iguana, my love?  
+Kick the blues, don’t you act so old!  
+Gonna play hot, gonna push and shove,  
+Everybody, calm down, play the Iguana Club.  
+(Kimi Wa) Play the Iguana Club,  
+(A-ji)  O – O – O!  Play the Iguana Club,  
+(Yo-i) O – O – O!  Play the Iguana Club,  
+(Ana-ta no-O)   O – O – O!  
 
-(bridge instrumental)
-Did you take names at the Club Iguana?
-Who’s gonna say, “How’s your future paved?”
-Do put it down to the Club Iguana, my love,
-When they ask you, “Have you been saved?”
-There’s brandy at the bar and bourbon and rum.  Gonna
-Tear up the place just to get into the Iguana Club!
-Into the Iguana Club!
+I like your amber eyes, your lizard intellect.  
+My, how you tantalize!  May I interject?  
+“What’s wrong with this picture?”    (Strike up the old gang song!)  
+“What’s wrong with this picture?”    (Strike up the old gang song!)  
+“What’s wrong with this picture?”  
+I look into your face,  I feel the warmth and grace.  
+I see beautiful rays, just as the music plays,  
+“What’s wrong with this picture?”    (Strike up the old gang song!)  
+“What’s wrong with this picture?”    (Strike up the old gang song!)  
+“What’s wrong with this picture?”  
 
-Have you ever been to the Club Iguana?
-Will you let me in on the real you?
-Open your mind to the Club Iguana, my love.
-I know you hear when I talk to you.
-Gonna play hot, gonna push and shove,
-Everybody, calm down, play the Iguana Club.
-(Kimi Wa) Play the Iguana Club,
-(A-ji)  O – O – O!  Play the Iguana Club,
-(Yo-i) O – O – O!  Play the Iguana Club,
-(Ana-ta no-O)   O – O – O!
+(bridge instrumental)  
+Did you take names at the Club Iguana?  
+Who’s gonna say, “How’s your future paved?”  
+Do put it down to the Club Iguana, my love,  
+When they ask you, “Have you been saved?”  
+There’s brandy at the bar and bourbon and rum.  Gonna  
+Tear up the place just to get into the Iguana Club!  
+Into the Iguana Club!  
 
-<br style="margin-bottom: 4rem;">
+Have you ever been to the Club Iguana?  
+Will you let me in on the real you?  
+Open your mind to the Club Iguana, my love.  
+I know you hear when I talk to you.  
+Gonna play hot, gonna push and shove,  
+Everybody, calm down, play the Iguana Club.  
+(Kimi Wa) Play the Iguana Club,  
+(A-ji)  O – O – O!  Play the Iguana Club,  
+(Yo-i) O – O – O!  Play the Iguana Club,  
+(Ana-ta no-O)   O – O – O!  
 
-### This song started life in the early 1980s as a loud, piano banging number on my trusty console piano that I purchased a few years before on credit when there was still a family run piano store on Martin Luther King Jr Blvd. near UT.  So I went out and got a Saturday job at Mike & Charlie’s near 38th St. and Lamar.  Which led to me working for Mike Young and John Zapp (founders of Chuy’s) downtown on 5th Street across from a warehouse studio, where now stands the downtown Austin Hilton Hotel.  Which led to several other stories and songs written about the same time which you may come across.
 
-### More recently I was sincerely amazed at the results after arranging “Club Iguana” with freeware on my decades old Windows XP computer.  Now my studio version is finished and live performances are going to be astounding.  Even just watching the demo video shows the inspiration we have to work from.  I wonder what anyone will make of the silly Japanese girl backing vocals in the refrains that go with **“Play the Iguana Club, O-O-O!”** and Lonnie Trevino’s lizard howl.
+
+***This song started life in the early 1980s as a loud, piano banging number on my trusty console piano that I purchased a few years before on credit when there was still a family run piano store on Martin Luther King Jr Blvd. near UT.  So I went out and got a Saturday job at Mike & Charlie’s near 38th St. and Lamar.  Which led to me working for Mike Young and John Zapp (founders of Chuy’s) downtown on 5th Street across from a warehouse studio, where now stands the downtown Austin Hilton Hotel.  Which led to several other stories and songs written about the same time which you may come across.***
+
+***More recently I was sincerely amazed at the results after arranging “Club Iguana” with freeware on my decades old Windows XP computer.  Now my studio version is finished and live performances are going to be astounding.  Even just watching the demo video shows the inspiration we have to work from.  I wonder what anyone will make of the silly Japanese girl backing vocals in the refrains that go with “Play the Iguana Club, O-O-O!” and Lonnie Trevino’s lizard howl.***

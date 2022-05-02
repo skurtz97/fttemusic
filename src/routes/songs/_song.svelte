@@ -7,18 +7,41 @@
   <title>{title}</title>
 </svelte:head>
 
-<div class="container">
-  <slot name="content" />
-  <slot name="embeds" />
+<div class="outer">
+  <div class="inner">
+    <div class="content">
+      <slot />
+    </div>
+    <div class="embeds">
+      <slot name="embeds" />
+    </div>
+  </div>
 </div>
 
 <style>
-  .container {
+  .outer {
+    width: 90%;
+    margin: 0 auto;
+    flex: 1;
+  }
+
+  .inner {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    width: 90%;
-    margin: 0 auto;
+  }
+  .content {
+    max-width: 80ch;
+    width: 80ch;
+  }
+  .embeds {
+    margin-left: 4rem;
+  }
+  :global(.embeds > div) {
+    width: 475px;
+  }
+  :global(.embeds > div > iframe) {
+    margin-bottom: 1rem;
   }
 </style>

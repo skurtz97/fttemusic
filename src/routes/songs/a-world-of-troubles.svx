@@ -5,42 +5,42 @@ subtitle: "( And they called me the Magic Man )"
 date: "2022-04-04"
 ---
 
-# {title}
-## {subtitle}
+## {title}
+### {subtitle}
 
 
-A world of troubles is far too many pins bursting bubbles, 
-Even though you didn’t ask for any. 
-Bad luck doubles, even though you thought you had plenty.
+A world of troubles is far too many pins bursting bubbles,   
+Even though you didn’t ask for any.  
+Bad luck doubles, even though you thought you had plenty.  
 
-The wind on the ocean lasts forever. “Destiny’s out of fashion,”
-Old men tell of a great defender 
-With Peyton Place passion, but the nation held with a safe surrender.
+The wind on the ocean lasts forever. “Destiny’s out of fashion,”  
+Old men tell of a great defender  
+With Peyton Place passion, but the nation held with a safe surrender.  
 
-Far away in a thousand years there burns a light.
-The people say without a fear, “No one will fight.”
-The science is clear, but the strategy is dark as night.
+Far away in a thousand years there burns a light.  
+The people say without a fear, “No one will fight.”  
+The science is clear, but the strategy is dark as night.  
 
-The air in the sky is the universal soldier for liberty
-With an eye for the simple facts, 
-Invincibly stands supporting every honest act.
+The air in the sky is the universal soldier for liberty  
+With an eye for the simple facts,   
+Invincibly stands supporting every honest act.  
 
-The salts in the sea are eternal. Vapors rise and it rains constantly
-The tears of maidens bunkhouse bathing, 
-And she thinks that he’s her baby. 
-A pirate appears. . . . A pirate appears.
+The salts in the sea are eternal. Vapors rise and it rains constantly  
+The tears of maidens bunkhouse bathing,   
+And she thinks that he’s her baby.   
+A pirate appears. . . . A pirate appears.  
 
-Far away in a thousand years there burns a light.
-The people say without a fear, “No one will fight.”
-The science is clear, but the strategy is dark as night.
+Far away in a thousand years there burns a light.  
+The people say without a fear, “No one will fight.”  
+The science is clear, but the strategy is dark as night.  
 
-A world of troubles is far too many pins bursting bubbles, 
-Even though you didn’t ask for any. 
-Bad luck doubles, even though you thought you had plenty.
+A world of troubles is far too many pins bursting bubbles,   
+Even though you didn’t ask for any.   
+Bad luck doubles, even though you thought you had plenty.  
 
-Far away in a thousand years there burns a light.
-The people say without a fear, “No one will fight.”
-The science is clear, but the strategy is dark as night.
+Far away in a thousand years there burns a light.  
+The people say without a fear, “No one will fight.”  
+The science is clear, but the strategy is dark as night.  
 
 
 
@@ -68,11 +68,3 @@ The science is clear, but the strategy is dark as night.
         />
 </div>
 
-<style>
-        div{
-                width: 475px;
-        }
-        iframe {
-                margin-bottom: 1rem;
-        }
-</style>
