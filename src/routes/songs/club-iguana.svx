@@ -66,3 +66,23 @@ Everybody, calm down, play the Iguana Club.
 ***This song started life in the early 1980s as a loud, piano banging number on my trusty console piano that I purchased a few years before on credit when there was still a family run piano store on Martin Luther King Jr Blvd. near UT.  So I went out and got a Saturday job at Mike & Charlie’s near 38th St. and Lamar.  Which led to me working for Mike Young and John Zapp (founders of Chuy’s) downtown on 5th Street across from a warehouse studio, where now stands the downtown Austin Hilton Hotel.  Which led to several other stories and songs written about the same time which you may come across.***
 
 ***More recently I was sincerely amazed at the results after arranging “Club Iguana” with freeware on my decades old Windows XP computer.  Now my studio version is finished and live performances are going to be astounding.  Even just watching the demo video shows the inspiration we have to work from.  I wonder what anyone will make of the silly Japanese girl backing vocals in the refrains that go with “Play the Iguana Club, O-O-O!” and Lonnie Trevino’s lizard howl.***
+
+<div slot="embeds">
+  <iframe
+        src="https://www.youtube.com/embed/KXCDUpA3fEg?feature=oembed"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        width="475"
+        height="315"
+        frameborder="0"
+  />
+  <iframe
+          scrolling="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F593102922&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
+          width="475"
+          height="300"
+          frameborder="no"
+          title="Soundcloud embed"
+        />
+</div>

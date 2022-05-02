@@ -50,3 +50,23 @@ Friends to the end, to the end.
 ### My theme song, “Friends to the End,” has a lot of history.  My top favorite things in this recording are the unusual piano riff and very catchy bass line.  There’s a lot to like in this simple track with a real groove.
 
 ### I used to be a little coy about the true meaning about “Friends to the End,” that this band project is named after the collection of songs, not any particular humans.  This song goes way back, and a few of the sounds used here may take you back to the late 1960s.
+
+<div slot="embeds">
+  <iframe
+        src="https://www.youtube.com/embed/MKIV8L-ZB4Y?feature=oembed"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        width="475"
+        height="315"
+        frameborder="0"
+  />
+  <iframe
+          scrolling="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F342356130&amp;show_artwork=true&amp;"
+          width="475"
+          height="300"
+          frameborder="no"
+          title="Soundcloud embed"
+        />
+</div>

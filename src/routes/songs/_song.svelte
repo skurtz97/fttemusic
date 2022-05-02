@@ -21,7 +21,9 @@
 <style>
   .outer {
     width: 90%;
-    margin: 0 auto;
+    margin: 4rem auto;
+    display: flex;
+    flex-direction: column;
     flex: 1;
   }
 
@@ -34,12 +36,19 @@
   .content {
     max-width: 80ch;
     width: 80ch;
+    min-width: 40%;
   }
   .embeds {
     margin-left: 4rem;
+    min-width: 40%;
+    height: 100%;
   }
   :global(.embeds > div) {
-    width: 475px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
   }
   :global(.embeds > div > iframe) {
     margin-bottom: 1rem;

@@ -10,7 +10,6 @@ youtube_embed_src: "https://www.youtube.com/embed/iZA1eU6o4og?feature=oembed"
 ## {title}
 ### {subtitle}
 
-
 A praying mantis, cocky caterpillar — 
 After the bricks drop and the dust settles
 On all the artists up in their attics.
@@ -21,100 +20,69 @@ To a dirty warehouse,
 The air gets heavy scented with
 The best Bar-B-Q (this side of Philly).
 
-
-
-
 Sift through the people.
-
 You gotta dig in the gutter.
-
 Flash your eyes like a camera shutter.
-
 The flora and fauna, they beat the heat,
-
 But life ain’t what it used to be on
-
 Old Pecan Street . . . Old Pecan Street . . . Old Pecan Street.
-
-<br style="margin-bottom: 2rem;">
 
 Harper’s Blue Room, it’s on the northwest corner
-
 For a great performance
-
 By the simple sinner and for the animal voyeur.
-
 Not as crazy as the dancing lady —
-
 She’s clean off her quilt 
-
 Doin’ the Quick Lunch Old Man Griff built.
-
 Wherever your heart lies, whatever your pleasure,
-
 You better make no mistakes
-
 She’s tucked away, if you got what it takes,
-
 Like a buried treasure. 
 
-<br style="margin-bottom: 2rem;">
-
 Sift through the people.
-
 You gotta dig in the gutter.
-
 Flash your eyes like a camera shutter.
-
-Check my vehicle seat by seat,
-
-But gold ain’t what it used to be on
-
-Old Pecan Street . . . Old Pecan Street . . . Old Pecan Street.
-
-<br style="margin-bottom: 2rem;">
-
 I had a dream once up on the rooftops were a thousand people
-
 With their belongings climbing the exotic steeple.
-
 Sliding on power lines, hanging on phone towers —
-
 It’s the unified treatment!
-
 Even La Plaza — Viva Mexicanas Saludos! 
-
 Joining the breezes beyond the circle of buildings
-
 Way on out past your reasons,
-
 They can’t say, “No.” In fact, they’re very willing.
-
 They’re all free wheeling. 
 
-<br style="margin-bottom: 2rem;">
-
 Sift through the people. 
-
 You gotta dig in the gutter. 
-
 Flash your eyes like a camera shutter. 
-
 And count it out and keep the beat,
-
 But time ain’t what it used to be on 
-
 Old Pecan Street . . . Old Pecan Street . . . Old Pecan Street.
-
 Ain’t what it used to be . . . Ain’t what it used to be . . . 
-
 Ain’t what it used to be . . . Ain’t what it used to be . . .
 
+***I actually spent 5 months making and releasing the music video for this demo, due to using 100s of clips, and all the effort to use only material where I had received actual official permission from the rights holders, or public domain, fair use, or creative common licenses. I think the result is unlike most other music videos, whether low budget or even high budget. A lot of that is due to the lyrics that start by depicting low rent districts and the occupying artists to the crazy dream sequence at the end.***
 
-<br style="margin-bottom: 2rem;">
+***This song was inspired when I rented a small space across the street from a restaurant where I worked called Gianni’s that was started by famous Austin restaurateurs, Mike Young and John Zapp, who are most notable for founding Chuy’s. When recording this song in 2018, that historic location was still an Italian restaurant (Carmelo’s at 504 E.5th), but it soon got sold to another developer with new plans.***
 
-### I actually spent 5 months making and releasing the music video for this demo, due to using 100s of clips, and all the effort to use only material where I had received actual official permission from the rights holders, or public domain, fair use, or creative common licenses. I think the result is unlike most other music videos, whether low budget or even high budget. A lot of that is due to the lyrics that start by depicting low rent districts and the occupying artists to the crazy dream sequence at the end.
+***However, the warehouse — where I kept my console piano and wrote this song and slept certain nights, behind an avant-garde art gallery — has been replaced by the downtown Austin Hilton Hotel (opened 2004); just around the corner from the Austin Convention Center, which opened July 4, 1992, already now 25 years later as I pen these song notes.*** 
 
-### This song was inspired when I rented a small space across the street from a restaurant where I worked called Gianni’s that was started by famous Austin restaurateurs, Mike Young and John Zapp, who are most notable for founding Chuy’s. When recording this song in 2018, that historic location was still an Italian restaurant (Carmelo’s at 504 E.5th), but it soon got sold to another developer with new plans. 
 
-### However, the warehouse — where I kept my console piano and wrote this song and slept certain nights, behind an avant-garde art gallery — has been replaced by the downtown Austin Hilton Hotel (opened 2004); just around the corner from the Austin Convention Center, which opened July 4, 1992, already now 25 years later as I pen these song notes. 
+<div slot="embeds">
+<iframe
+        src="https://www.youtube.com/embed/iZA1eU6o4og?feature=oembed"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        width="475"
+        height="315"
+        frameborder="0"
+  />
+  <iframe
+          scrolling="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F557782008&amp;show_artwork=true&amp;"
+          width="475"
+          height="300"
+          frameborder="no"
+          title="Soundcloud embed"
+        />
+</div>

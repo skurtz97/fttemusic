@@ -74,3 +74,16 @@ Poetry, pop, music, what’s goin’ on? What’s goin’ on?
 ***Sometime during the development of this catchy phrase I had also started playing 3 word alliterations, with the first three lines coming rather quickly, and using the letters A, B and C. Obviously after that I had to continue and added more lines through J when I realized that was enough for this quirky pop song. Some of them came quickly but the letter D was a real struggle.***
 
 ***By the fall of 2019 I had worked on this song for over a year, playing it hundreds of time in my home studio until I got determined to record and finish by end of year. My recording partner for the last two years, Tim Dolbear, had moved to Nashville in the spring and built a state-of-the-art studio with full surround sound and video soundtrack mastering capabilities. Naturally we decided to go for a visit when we had a chance to celebrate a wedding anniversary, where we enjoyed his and Angela’s gracious hospitality, and the lead vocals were laid down. By then the other tracks were ready except for trumpet and backing vocals, so I scrambled around Austin to schedule the players looking for a studio to record trumpet during the Thanksgiving break and managed to squeeze in the backing vocals before Christmas.***
+
+
+<div slot="embeds">
+  <iframe
+        scrolling="no"
+        allow="autoplay"
+        src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F747962755&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
+        width="475"
+        height="300"
+        frameborder="no"
+        title="Soundcloud embed"
+    />
+</div>

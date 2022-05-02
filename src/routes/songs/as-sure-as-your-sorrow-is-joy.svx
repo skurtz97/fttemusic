@@ -52,3 +52,23 @@ As sure as your sorrow is joy.
 ***This atmospheric song started out as a rhythm pattern in B minor on an old beat-up upright piano in our home where I lived as a kid.  The words have always meant a lot to me and express what I believe are some universally held feelings about life and death and things we believe are matters of life and death. I’ve always felt strong performing power of the opening line, and it’s all I need to get into the best frame of mind for singing the rest of the song, “In the dead of the summer, as the moon strikes the sky.” While arranging this piece for studio recording, I was inspired to focus on the form of a piano-viola duet***
 
 ***I discovered the various melodic themes that are developed during the course of this rather long, folk-rock march in 3:4 time. For my own pleasure, it is the sort of musical piece, with the intricate bass and drum and percussion elements, that grows affection with each listen.***
+
+<div slot="embeds">
+  <iframe
+        src="https://www.youtube.com/embed/h_udJ-gV56E"
+        title="YouTube video player"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        width="475"
+        height="315"
+        frameborder="0"
+  />
+  <iframe
+          scrolling="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642093648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
+          width="475"
+          height="300"
+          frameborder="no"
+          title="Soundcloud embed"
+        />
+</div>

@@ -39,3 +39,21 @@ Where’d you put the baby?
 ***This song was written and produced faster than ever before and was just inspired by the idea that in our times so many people seem willing to overthrow all manner of precedent and tradition without considering much about the long term consequences, and inspired by the age-old aphorism, “Don’t throw out the baby with the bath water.” It was tremendous fun for me to write and sing and specially arrange the little synth part that dances with the lead vocal throughout. Wayne Salzmann had already played for me on “Old Pecan Street,” so he was naturally my choice for this great rock drumming sound.***
 
 ***The other outstanding element of this song – so obvious to the ear – is the incredible bass and specially electric guitar work of Tim Dolbear. Can you tell he was lead guitarist on tour with Sammy Hagar earlier in his life? I asked Tim to immerse himself in half a dozen live Talking Heads tracks from their early days as a quarter and find inspiration in the great playing by Jerry Harrison and David Byrne. After about a week Tim provided much of the virtuoso playing you hear on several guitar tracks, but I took the first cut and paste and turned it into a guitar duet, and also had Tim go back and add more new extra parts and even a few overdubs beyond that. Need a superstar session guitar player? You can call on Tim Dolbear, now relocated to Nashville.***
+
+<div slot="embeds">
+  <iframe
+    src="https://www.youtube.com/embed/h_udJ-gV56E"
+    title="YouTube video player"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    width="475"
+    height="315"
+    frameborder="0"
+  />
+  <iframe
+    src="https://open.spotify.com/embed/track/44dSx5Kwh4lhJvrYLxyAnP"
+    width="475"
+    height="315"
+    frameborder="0"
+    title="Spotify embed"
+  />
+</div>
