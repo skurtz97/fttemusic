@@ -189,6 +189,7 @@
     padding: 0.4rem;
     border-radius: 4px;
     border: none;
+    box-shadow: 1px 1px 1px #ccc;
   }
   button {
     font-size: 12pt;
@@ -249,6 +250,13 @@
     }
     footer > .instagram {
       margin-right: 1rem;
+    }
+  }
+  @media (max-width: 400px) {
+    footer > .instagram {
+      width: 300px;
+      max-width: 300px;
+      margin-right: 1.5rem;
     }
   }
 </style>

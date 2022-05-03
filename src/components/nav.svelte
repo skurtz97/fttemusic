@@ -15,7 +15,7 @@
     {#each links as link}
       <a href={link.href}>{link.text}</a>
     {/each}
-    <a href="https://www.facebook.com/friendstotheendmusic/">
+    <a href="/mailing-list">
       <div class="envelope">
         <Envelope />
       </div>
