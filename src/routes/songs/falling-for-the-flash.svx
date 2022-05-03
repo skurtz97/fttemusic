@@ -64,7 +64,7 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
           allow="autoplay"
           src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F466540035&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165&amp;secret_token=s-rT9Gz"
           width="auto"
-          height="500"
+          height="400"
           frameborder="no"
           title="Soundcloud embed"
           style="margin:10px;"
@@ -77,10 +77,10 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
           allowfullscreen="true"
           data-instgrm-payload-id="instagram-media-payload-0"
           scrolling="no"
-          height="500"
+          height="300"
           frameborder="0"
           title="Instagram Embed"
-          style="margin:10px;"
+          style="margin:10px;max-height:400px"
         />
   </div>
   <div style="display:flex;">
@@ -92,10 +92,10 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
         allowfullscreen="true"
         data-instgrm-payload-id="instagram-media-payload-0"
         scrolling="no"
-        height="500"
+        height="400"
         frameborder="0"
         title="Instagram Embed"
-        style="margin:10px;"
+        style="margin:10px;max-height:400px"
       />
   <iframe
         class="instagram-media instagram-media-rendered"
@@ -105,10 +105,10 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
         allowfullscreen="true"
         data-instgrm-payload-id="instagram-media-payload-0"
         scrolling="no"
-        height="500"
+        height="400"
         frameborder="0"
         title="Instagram Embed"
-        style="margin:10px;"
+       style="margin:10px;max-height:400px"
    />
    </div>
 </div>
