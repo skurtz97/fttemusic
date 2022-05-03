@@ -4,9 +4,10 @@
   import InstagramIcon from "./icons/instagram.svelte";
   import SoundcloudIcon from "./icons/soundcloud.svelte";
   import FacebookIcon from "./icons/facebook.svelte";
+  export let display = true;
 </script>
 
-<ul>
+<ul class={`${display ? "" : "none"}`}>
   <a href="https://open.spotify.com/artist/7iSfLI1iAcghpThO7zwHjC?si=-poFBG_hQMOzEkZ5QGwGQw">
     <div>
       <SpotifyIcon />
@@ -51,9 +52,18 @@
     display: flex;
     margin-left: 20px;
   }
+  .none {
+    display: none;
+  }
   @media (max-width: 450px) {
     ul {
       display: none;
+    }
+    .none {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
     }
   }
 </style>

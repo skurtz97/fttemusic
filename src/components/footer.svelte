@@ -1,3 +1,7 @@
+<script lang="ts">
+  import Social from "$components/social.svelte";
+</script>
+
 <footer>
   <div class="form">
     <form>
@@ -151,6 +155,7 @@
     </blockquote>
     <script async src="//www.instagram.com/embed.js"></script>
   </div>
+  <Social display={false} />
 </footer>
 
 <style>
@@ -212,6 +217,7 @@
     color: #0e63c4;
     text-decoration: underline;
   }
+
   @media (max-width: 1700px) {
     footer {
       padding: 2rem;
@@ -233,6 +239,7 @@
     footer {
       flex-direction: column;
       align-items: center;
+      justify-content: center;
     }
     footer > div {
       width: 400px;
