@@ -9,9 +9,8 @@
 </svelte:head>
 <Banner src="/images/playlists-banner.jpg" alt="Playlists Banner" />
 <Container flex flexdir="col">
-  <Accordion>
-    <p slot="label">PLAYLISTS Photo Credit</p>
-    <p slot="content">Press photo by Kevin Chin, Northshore Media Productions, Round Rock, TX.</p>
+  <Accordion title="PLAYLISTS Photo Credit">
+    Press photo by Kevin Chin, Northshore Media Productions, Round Rock, TX.
   </Accordion>
   <iframe
     class="playlist-embed"
