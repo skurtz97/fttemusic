@@ -1,5 +1,6 @@
 <script lang="ts">
   import type { Link } from "$types/global";
+  import Envelope from "./icons/envelope.svelte";
   export let brand = "My Brand";
   export let links: Link[] = [
     { href: "/about", text: "About" },
@@ -14,6 +15,11 @@
     {#each links as link}
       <a href={link.href}>{link.text}</a>
     {/each}
+    <a href="https://www.facebook.com/friendstotheendmusic/">
+      <div class="envelope">
+        <Envelope />
+      </div>
+    </a>
   </ul>
 </nav>
 
@@ -46,12 +52,16 @@
   a:hover {
     color: #1f7bb6;
   }
+  .envelope {
+    width: 22px;
+    height: 22px;
+  }
   @media (max-width: 900px) {
     nav {
       flex-direction: column;
     }
   }
-  @media (max-width: 480px) {
+  @media (max-width: 520px) {
     :first-of-type(a) {
       margin-left: 0px;
     }
@@ -62,7 +72,7 @@
       margin-left: 0rem;
     }
   }
-  @media (max-width: 415px) {
+  @media (max-width: 450px) {
     ul {
       flex-direction: column;
     }

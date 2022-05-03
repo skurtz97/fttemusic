@@ -51,7 +51,7 @@
     display: flex;
     margin-left: 20px;
   }
-  @media (max-width: 415px) {
+  @media (max-width: 450px) {
     ul {
       display: none;
     }

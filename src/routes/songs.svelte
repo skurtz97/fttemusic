@@ -27,7 +27,7 @@
   <title>Songs</title>
 </svelte:head>
 <div class="banner" />
-<Container textcenter>
+<div class="container">
   <h1>Where Sound And Vision Collide</h1>
   <h2>Modern Soft Rock, Curiously Original</h2>
   <div class="grid">
@@ -43,9 +43,13 @@
       </a>
     {/each}
   </div>
-</Container>
+</div>
 
 <style>
+  .container {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
   .banner {
     width: 100%;
     height: 300px;
