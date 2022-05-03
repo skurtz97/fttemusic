@@ -1,4 +1,5 @@
 <script lang="ts">
+  import Accordion from "$components/accordion.svelte";
   import Container from "$components/container.svelte";
   import Banner from "$components/banner.svelte";
 </script>
@@ -69,15 +70,30 @@
     on the path to bring all these friends of his to the public.
   </p>
 
-  <div>
-    <img src="/images/about-artist-1.jpg" alt="Thom Kurtz" />
-    <img src="/images/about-artist-2.jpg" alt="Thom Kurtz" />
+  <div class="container-photos">
+    <div class="photos">
+      <img src="/images/about-artist-1.jpg" alt="Thom Kurtz" />
+      <img src="/images/about-artist-2.jpg" alt="Thom Kurtz" />
+    </div>
+    <Accordion title="Photo Credits">
+      Photos by Kevin Chin for Northshore Productions, Round Rock, TX
+    </Accordion>
   </div>
 </Container>
 
 <style>
-  div {
+  .container-photos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 auto;
+  }
+  .photos {
+    margin-top: 2rem;
     display: flex;
     justify-content: space-evenly;
+    width: 100%;
   }
 </style>

@@ -27,4 +27,10 @@
   .center {
     text-align: center;
   }
+  @media (max-width: 850px) {
+    div {
+      width: 100%;
+      margin: 0 auto;
+    }
+  }
 </style>

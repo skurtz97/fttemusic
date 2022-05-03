@@ -76,4 +76,42 @@
     height: 100%;
     object-fit: cover;
   }
+  @media (max-width: 850px) {
+    .grid {
+      width: 100%;
+      max-width: 700px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(2, 1fr);
+      grid-gap: 15px;
+    }
+    .grid > a > img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  @media (max-width: 725px) {
+    .grid {
+      max-width: 600px;
+    }
+  }
+  @media (max-width: 650px) {
+    .grid {
+      max-width: 500px;
+    }
+  }
+  @media (max-width: 500px) {
+    .grid {
+      max-width: 400px;
+      grid-template-columns: 1fr;
+      grid-template-rows: 1fr;
+    }
+  }
+  @media (max-width: 420px) {
+    .grid {
+      max-width: 300px;
+    }
+  }
 </style>
