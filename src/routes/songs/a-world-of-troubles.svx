@@ -2,7 +2,7 @@
 slug: "a-world-of-troubles"
 title: "A World Of Troubles"
 subtitle: "( And they called me the Magic Man )"
-date: "2022-04-04"
+date: "2020-12-29"
 ---
 
 ## {title}

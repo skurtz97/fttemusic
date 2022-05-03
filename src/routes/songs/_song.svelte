@@ -54,7 +54,7 @@
     margin-bottom: 1rem;
   }
 
-  @media (max-width: 1000px) {
+  @media (max-width: 1100px) {
     .inner {
       flex-direction: column;
       text-align: center;
@@ -110,23 +110,21 @@
       width: 35ch;
     }
     :global(.embeds > div > iframe) {
-      max-width: 400px;
+      max-width: 375px;
     }
   }
-  @media (max-width: 500px) {
-    .content {
-      width: 32ch;
-    }
-    :global(.embeds > div > iframe) {
-      max-width: 350px;
-    }
-  }
+
   @media (max-width: 400px) {
     .content {
-      width: 29ch;
+      width: 33ch;
     }
     :global(.embeds > div > iframe) {
       max-width: 300px;
+    }
+  }
+  @media (max-width: 350px) {
+    .content {
+      width: 30ch;
     }
   }
 </style>

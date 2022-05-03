@@ -1,0 +1,66 @@
+---
+slug: "top-of-the-world"
+title: "Top of the World"
+subtitle: "( I’d like to be at the top of the world with you.)"
+date: "2018-1-18"
+---
+
+## {title}
+### {subtitle}
+
+Vincent Monument, a man so tense,  
+Escaped the face of common sense,  
+He’s living free in the land of Texas,  
+He gambles around like a nervous breakdown.  
+
+What if you could ease the demand?  
+Surely you’d extend your hand.  
+If I could lend you my hand, I would  
+Lift you up till you understand.  
+
+I’d like to be at the top of the world.  
+I’d like to be at the top of the world with you.  
+
+The think tanks of the Valley rumble, and  
+Lay you flat with gravity. Well,  
+That’s the way the cookies crumble,  
+When you fill that cavity.  
+
+Suppose you could give your speech,  
+And everybody on the planet reach,  
+Can every trauma really be erased?  
+The greatest moment we ever faced.  
+
+I’d like to be at the top of the world.  
+I’d like to be at the top of the world with you.  
+Top of the world to you, top of the world to you  
+Top of the world to me and you.  
+
+Vincent Monument, head of the class,  
+The future lies within your grasp,  
+All hands sculpted fists of stone,  
+Vincent Monument, where did I go?  
+
+So what if I feel sad?  
+It doesn’t have to be so bad.  
+I don’t have to take the blame no more,  
+When it’s true, what I’m aiming for.  
+
+I’d like to be at the top of the world.  
+I’d like to be at the top of the world with you.  
+Top of the world to you  
+Top of the world to me and you.  
+
+<div slot="embeds">
+  
+  <iframe
+          scrolling="no"
+          allow="autoplay"
+          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F522343473&amp;show_artwork=true&amp;"
+          width="475"
+          height="315"
+          frameborder="no"
+          title="Soundcloud embed"
+          style="margin:10px;"
+    />
+</div>
