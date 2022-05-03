@@ -12,4 +12,11 @@
   {/if}
 </div>
 
-<style></style>
+<style>
+  div {
+    background-color: #bbbbbb;
+    width: calc(100% - 2rem);
+    margin: 1rem 0rem;
+    padding: 0rem 1rem;
+  }
+</style>

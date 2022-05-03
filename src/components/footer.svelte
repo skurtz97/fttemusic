@@ -59,7 +59,26 @@
     margin: 0;
     margin-bottom: 1rem;
   }
+  label {
+    margin-bottom: 0.25rem;
+  }
   input {
+    font-size: 12pt;
     margin-bottom: 1rem;
+    padding: 0.25rem;
+    border-radius: 4px;
+  }
+  button {
+    font-size: 12pt;
+    padding: 0.5rem;
+    border-radius: 4px;
+    background-color: #333333;
+    color: white;
+    border: none;
+    margin-top: 1rem;
+  }
+  button:hover {
+    background-color: #4d4d4d;
+    cursor: pointer;
   }
 </style>

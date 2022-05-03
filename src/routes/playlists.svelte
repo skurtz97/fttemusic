@@ -1,6 +1,7 @@
 <script lang="ts">
   import Container from "$components/container.svelte";
   import Banner from "$components/banner.svelte";
+  import Accordion from "$components/accordion.svelte";
 </script>
 
 <svelte:head>
@@ -8,6 +9,10 @@
 </svelte:head>
 <Banner src="/images/playlists-banner.jpg" alt="Playlists Banner" />
 <Container flex flexdir="col">
+  <Accordion>
+    <p slot="label">PLAYLISTS Photo Credit</p>
+    <p slot="content">Press photo by Kevin Chin, Northshore Media Productions, Round Rock, TX.</p>
+  </Accordion>
   <iframe
     class="playlist-embed"
     src="https://open.spotify.com/embed/playlist/59cyAP6DTR7SReJGuXHLSE"

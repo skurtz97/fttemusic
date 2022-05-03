@@ -19,3 +19,11 @@
   <slot />
 </main>
 <Footer />
+
+<style>
+  :global(main) {
+    background-color: #a3a3b8;
+    display: flex;
+    flex-direction: column;
+  }
+</style>
