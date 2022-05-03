@@ -8,7 +8,7 @@
   <title>Playlists</title>
 </svelte:head>
 <Banner src="/images/playlists-banner.jpg" alt="Playlists Banner" />
-<Container flex flexdir="col">
+<div>
   <Accordion title="PLAYLISTS Photo Credit">
     Press photo by Kevin Chin, Northshore Media Productions, Round Rock, TX.
   </Accordion>
@@ -52,15 +52,53 @@
     frameborder="0"
     title="The Modern soft rock pioneers - Spotify Embed"
   />
-</Container>
+</div>
 
 <style>
+  div {
+    width: 80ch;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
   iframe {
     margin-bottom: 1rem;
   }
-  @media (max-width: 865px) {
-    iframe {
-      width: 90%;
+  @media (max-width: 900px) {
+    div {
+      width: 70ch;
+    }
+  }
+  @media (max-width: 800px) {
+    div {
+      width: 60ch;
+    }
+  }
+  @media (max-width: 700px) {
+    div {
+      width: 50ch;
+    }
+  }
+  @media (max-width: 600px) {
+    div {
+      width: 40ch;
+    }
+  }
+  @media (max-width: 500px) {
+    div {
+      width: 35ch;
+    }
+  }
+  @media (max-width: 400px) {
+    div {
+      width: 30ch;
+    }
+  }
+  @media (max-width: 350px) {
+    div {
+      width: 27ch;
     }
   }
 </style>

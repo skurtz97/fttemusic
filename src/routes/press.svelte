@@ -6,18 +6,18 @@
   <title>Press</title>
 </svelte:head>
 <div class="banner" />
-<Container>
-  <h1>
+<div class="container">
+  <h3>
     <a href="https://happymag.tv/friends-to-the-end-interview/">
       Check out the interview at HappyMag.TV
     </a>
-  </h1>
-  <h1>
+  </h3>
+  <h3>
     <a href="https://found.ee/happy01">
       Read the review for "Where'd You Put The Baby?" at HappyMag.TV
     </a>
-  </h1>
-  <h1>Check out our radio interview.</h1>
+  </h3>
+  <h3>Check out our radio interview.</h3>
   <iframe
     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1231161115&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
     scrolling="no"
@@ -27,15 +27,15 @@
     title="KWVH Radio Interview - Embed"
     class="playlist-embed"
   />
-  <h1>
+  <h3>
     <a
       href="https://www.divideandconquermusic.com/indie-music-album-reviews/friends-to-the-end-4-track-music-video-series"
     >
       Try the review at Divide and Conquer Music.
     </a>
-  </h1>
+  </h3>
   <div class="block">
-    <h1>Feedback about our hit debut follow-up “As Sure As Your Sorrow Is Joy”.</h1>
+    <h3>Feedback about our hit debut follow-up “As Sure As Your Sorrow Is Joy”.</h3>
     <p>
       <b>From daydream of riccardopietri – </b><i
         >Really beautiful genre of music and style . . . with your amazing voice.</i
@@ -54,9 +54,9 @@
     </p>
   </div>
   <div class="block">
-    <h1>
+    <h3>
       Feedback about our debut single, “Love On The Rocks (Shipwrecked) [feat. Julia Courtney]”.
-    </h1>
+    </h3>
     <p>
       <b>From Niko at Indie Music Center –</b>
       <i
@@ -74,7 +74,7 @@
     </p>
   </div>
   <div class="block">
-    <h1>Some early feedback about our preview music videos.</h1>
+    <h3>Some early feedback about our preview music videos.</h3>
     <p>
       <i>
         This video is life-changing. The amazing SFX, the incredible OST, and the best part has to
@@ -106,7 +106,7 @@
       <i>This has to be an art project of some sort.</i>
     </p>
   </div>
-</Container>
+</div>
 
 <style>
   .banner {
@@ -117,5 +117,64 @@
     background-attachment: scroll;
     background-size: cover;
     background-position: center center;
+  }
+  a {
+    color: #0157b9;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #0e63c4;
+    text-decoration: underline;
+  }
+
+  .container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    max-width: 80ch;
+    margin: 0 auto;
+  }
+  @media (max-width: 850px) {
+    div {
+      width: 100%;
+      margin: 0 auto;
+    }
+  }
+  @media (max-width: 900px) {
+    div {
+      width: 70ch;
+    }
+  }
+  @media (max-width: 800px) {
+    div {
+      width: 60ch;
+    }
+  }
+  @media (max-width: 700px) {
+    div {
+      width: 50ch;
+    }
+  }
+  @media (max-width: 600px) {
+    div {
+      width: 40ch;
+    }
+  }
+  @media (max-width: 500px) {
+    div {
+      width: 35ch;
+    }
+  }
+  @media (max-width: 400px) {
+    div {
+      width: 30ch;
+    }
+  }
+  @media (max-width: 350px) {
+    div {
+      width: 27ch;
+    }
   }
 </style>

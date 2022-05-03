@@ -75,10 +75,10 @@
       <img src="/images/about-artist-1.jpg" alt="Thom Kurtz" />
       <img src="/images/about-artist-2.jpg" alt="Thom Kurtz" />
     </div>
-    <Accordion title="Photo Credits">
-      Photos by Kevin Chin for Northshore Productions, Round Rock, TX
-    </Accordion>
   </div>
+  <Accordion title="Photo Credits">
+    Photos by Kevin Chin for Northshore Productions, Round Rock, TX
+  </Accordion>
 </Container>
 
 <style>
@@ -95,5 +95,13 @@
     display: flex;
     justify-content: space-evenly;
     width: 100%;
+  }
+  @media (max-width: 700px) {
+    .photos {
+      flex-direction: column;
+    }
+    .photos > img {
+      margin-bottom: 10px;
+    }
   }
 </style>

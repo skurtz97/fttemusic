@@ -186,8 +186,9 @@
   input {
     font-size: 12pt;
     margin-bottom: 1rem;
-    padding: 0.25rem;
+    padding: 0.4rem;
     border-radius: 4px;
+    border: none;
   }
   button {
     font-size: 12pt;
@@ -201,6 +202,14 @@
   button:hover {
     background-color: #4d4d4d;
     cursor: pointer;
+  }
+  a {
+    color: #0157b9;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #0e63c4;
+    text-decoration: underline;
   }
   @media (max-width: 1700px) {
     footer {
@@ -228,6 +237,18 @@
       width: 400px;
       min-width: 400px;
       margin-bottom: 4rem;
+    }
+  }
+  @media (max-width: 450px) {
+    footer {
+      padding: 2rem;
+    }
+    footer > div {
+      width: 300px;
+      min-width: 300px;
+    }
+    footer > .instagram {
+      margin-right: 1rem;
     }
   }
 </style>

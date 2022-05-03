@@ -46,4 +46,36 @@
   a:hover {
     color: #1f7bb6;
   }
+  @media (max-width: 900px) {
+    nav {
+      flex-direction: column;
+    }
+  }
+  @media (max-width: 480px) {
+    :first-of-type(a) {
+      margin-left: 0px;
+    }
+    a {
+      font-size: 12pt;
+    }
+    ul {
+      margin-left: 0rem;
+    }
+  }
+  @media (max-width: 415px) {
+    ul {
+      flex-direction: column;
+    }
+    nav > a {
+      font-size: 22pt;
+    }
+  }
+  @media (max-width: 390px) {
+    nav > a {
+      font-size: 18pt;
+    }
+    nav > ul > a {
+      letter-spacing: 2px;
+    }
+  }
 </style>

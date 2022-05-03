@@ -30,4 +30,23 @@
     justify-content: space-between;
     border-bottom: 1px solid #fff;
   }
+  @media (max-width: 1100px) {
+    header {
+      flex-direction: column;
+    }
+  }
+  @media (max-width: 900px) {
+    header {
+      flex-direction: column;
+      min-height: 90px;
+      height: 90px;
+    }
+  }
+  @media (max-width: 415px) {
+    header {
+      flex-direction: column;
+      min-height: 135px;
+      height: 135px;
+    }
+  }
 </style>

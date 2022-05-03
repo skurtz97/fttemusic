@@ -33,9 +33,9 @@
   .accordion {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: inherit;
     margin: 1rem 0rem;
-    background-color: #f7f7f7;
+    box-shadow: 1px 1px 1px 1px #a1a2a3;
   }
   .header {
     display: flex;

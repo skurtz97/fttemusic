@@ -22,7 +22,7 @@
 
 <style>
   :global(main) {
-    background-color: #a3a3b8;
+    background-color: #f0f0f0;
     display: flex;
     flex-direction: column;
   }

@@ -73,6 +73,7 @@
     text-align: center;
     margin: 0 0 2rem 0;
   }
+
   .videos {
     display: flex;
     flex-direction: column;
@@ -83,5 +84,25 @@
     width: 100%;
     height: 378px;
     margin-bottom: 1rem;
+  }
+  @media (max-width: 780px) {
+    div {
+      width: 50ch;
+    }
+  }
+  @media (max-width: 550px) {
+    div {
+      width: 40ch;
+    }
+  }
+  @media (max-width: 450px) {
+    div {
+      width: 35ch;
+    }
+  }
+  @media (max-width: 400px) {
+    div {
+      width: 30ch;
+    }
   }
 </style>
