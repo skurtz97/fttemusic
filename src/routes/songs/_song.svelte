@@ -1,4 +1,6 @@
 <script>
+  import Accordion from "$components/accordion.svelte";
+
   //@ts-nocheck
   export let title;
 </script>
@@ -16,6 +18,9 @@
       <slot name="embeds" />
     </div>
   </div>
+  <Accordion title="Credits">
+    <slot name="credits" />
+  </Accordion>
 </div>
 
 <style>
@@ -53,12 +58,26 @@
   :global(.embeds > div > iframe) {
     margin-bottom: 1rem;
   }
+  :global(.outer > .accordion) {
+    text-align: left;
+  }
+  :global(.outer > .accordion > .content > div > p > a) {
+    color: #0157b9;
+    text-decoration: none;
+  }
+  :global(.outer > .accordion > .content > div > p > a:hover) {
+    text-decoration: underline;
+    color: #0e63c4;
+  }
 
   @media (max-width: 1100px) {
     .inner {
       flex-direction: column;
       text-align: center;
       margin: 0 auto;
+    }
+    :global(.outer > .accordion) {
+      margin-top: 2rem;
     }
     .embeds {
       margin-left: 0;
@@ -70,9 +89,15 @@
       text-align: center;
       margin: 0 auto;
     }
+    :global(.outer > .accordion) {
+      width: 70ch;
+    }
   }
   @media (max-width: 850px) {
     .content {
+      width: 65ch;
+    }
+    :global(.outer > .accordion) {
       width: 65ch;
     }
   }
@@ -80,16 +105,19 @@
     .content {
       width: 60ch;
     }
+    :global(.outer > .accordion) {
+      width: 60ch;
+    }
   }
   @media (max-width: 700px) {
     .content {
       width: 55ch;
     }
+    :global(.outer > .accordion) {
+      width: 55ch;
+    }
   }
   @media (max-width: 700px) {
-    .outer {
-      width: 100%;
-    }
     .content {
       width: 52ch;
       margin-left: 0;
@@ -99,9 +127,16 @@
     :global(.content > p) {
       font-size: 15px;
     }
+    :global(.outer > .accordion) {
+      margin: 2rem auto 0rem auto;
+      width: 52ch;
+    }
   }
   @media (max-width: 600px) {
     .content {
+      width: 40ch;
+    }
+    :global(.outer > .accordion) {
       width: 40ch;
     }
   }
@@ -112,6 +147,9 @@
     :global(.embeds > div > iframe) {
       max-width: 375px;
     }
+    :global(.outer > .accordion) {
+      width: 35ch;
+    }
   }
 
   @media (max-width: 400px) {
@@ -121,9 +159,15 @@
     :global(.embeds > div > iframe) {
       max-width: 300px;
     }
+    :global(.outer > .accordion) {
+      width: 33ch;
+    }
   }
   @media (max-width: 350px) {
     .content {
+      width: 30ch;
+    }
+    :global(.outer > .accordion) {
       width: 30ch;
     }
   }

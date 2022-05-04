@@ -3,6 +3,8 @@ slug: "top-of-the-world"
 title: "Top of the World"
 subtitle: "( I’d like to be at the top of the world with you.)"
 date: "2018-1-18"
+next: "at-the-matinee"
+previous: "robot-oddity"
 ---
 
 ## {title}
