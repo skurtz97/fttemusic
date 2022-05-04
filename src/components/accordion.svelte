@@ -7,7 +7,7 @@
   }
 </script>
 
-<div class="accordion">
+<div id="accordion" class="accordion">
   <div class="header" on:click={click}>
     <svg
       class:open

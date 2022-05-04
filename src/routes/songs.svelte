@@ -99,7 +99,7 @@
     text-decoration: underline;
     color: #0e63c4;
   }
-  :global(.container > .accordion) {
+  :global(#container > #accordion) {
     max-width: 900px;
     margin: 2rem auto;
   }

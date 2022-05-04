@@ -18,7 +18,9 @@ export const get = async () => {
         slug: slug.replace("../", "").replace(".svx", ""),
         image: metadata.image ? metadata.image : "",
         title: metadata.title,
-        date: metadata.date
+        date: metadata.date,
+        next: metadata.next,
+        previous: metadata.previous
       };
     })
   );
