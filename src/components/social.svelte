@@ -7,7 +7,7 @@
   export let display = true;
 </script>
 
-<ul class={`${display ? "" : "none"}`}>
+<ul class={`socials ${display ? "" : "none"}`}>
   <a href="https://open.spotify.com/artist/7iSfLI1iAcghpThO7zwHjC?si=-poFBG_hQMOzEkZ5QGwGQw">
     <div>
       <SpotifyIcon />
@@ -55,10 +55,8 @@
   .none {
     display: none;
   }
+
   @media (max-width: 450px) {
-    ul {
-      display: none;
-    }
     .none {
       display: flex;
       flex-direction: row;

@@ -10,6 +10,7 @@
     { href: "/press", text: "Press" },
     { href: "/contact", text: "Contact" }
   ];
+  let open = false;
 </script>
 
 <header>
@@ -37,7 +38,9 @@
   }
   @media (max-width: 900px) {
     header {
-      flex-direction: column;
+      flex-direction: row;
+      justify-content: flex-start;
+      align-items: center;
       min-height: 90px;
       height: 90px;
     }

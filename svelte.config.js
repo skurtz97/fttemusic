@@ -1,4 +1,4 @@
-import adapter from "@sveltejs/adapter-auto";
+import adapter from "@sveltejs/adapter-static";
 import preprocess from "svelte-preprocess";
 import { resolve } from "path";
 import { mdsvex } from "mdsvex";
@@ -6,6 +6,12 @@ import { mdsvex } from "mdsvex";
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   kit: {
+    prerender: {
+      crawl: true,
+      enabled: true,
+      default: true,
+      onError: "continue"
+    },
     vite: {
       resolve: {
         alias: {

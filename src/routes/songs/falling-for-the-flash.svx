@@ -58,7 +58,7 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
 ***We have to confess that the awesome sounding Hammond B7 organ was mostly what I wrote and played into midi files, and Tim’s impeccable recreations created the amazing Lesley effects.  The soulful singer belting it out in the ending choruses is well-known Austin singer Cari Hutson.***
 
  <div slot="embeds">
-  <div style="display:flex;">
+  <div class="collapse" style="display:flex;">
     <iframe
           scrolling="no"
           allow="autoplay"
@@ -83,7 +83,7 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
           style="margin:10px;max-height:400px"
         />
   </div>
-  <div style="display:flex;">
+  <div  class="collapse" style="display:flex;">
      <iframe
         class="instagram-media instagram-media-rendered"
         id="instagram-embed-0"
@@ -112,3 +112,11 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
    />
    </div>
 </div>
+
+<style>
+     @media(max-width: 800px){
+           .collapse {
+                 flex-direction: column;
+           }
+     }
+</style>

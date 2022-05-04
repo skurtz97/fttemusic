@@ -1,20 +1,14 @@
 <script lang="ts">
   import "../styles/global.css";
-  import Header from "$components/header.svelte";
+
   import Footer from "$components/footer.svelte";
   import type { Link } from "$types/global";
-  const links: Link[] = [
-    { href: "/songs", text: "SONGS" },
-    { href: "/playlists", text: "PLAYLISTS" },
-    { href: "/about", text: "ABOUT" },
-    { href: "/press", text: "PRESS" },
-    { href: "/contact", text: "CONTACT" }
-  ];
-  const brand = "FRIENDS TO THE END";
+  import Betterheader from "$components/betterheader.svelte";
+
   const title = "Friends To The End";
 </script>
 
-<Header {brand} {links} />
+<Betterheader />
 <main>
   <slot />
 </main>
