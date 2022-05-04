@@ -8,7 +8,7 @@
   <title>About</title>
 </svelte:head>
 <Banner src="/images/about-banner.jpg" alt="About Banner" />
-<Container>
+<div class="container">
   <p>
     A cerulean blue android spins his regretful victory song on a keyboard odyssey from a
     bric-a-brac robot factory to a sunny, magic beach town finale, while riding sonic waves of
@@ -75,20 +75,29 @@
       <img src="/images/about-artist-1.jpg" alt="Thom Kurtz" />
       <img src="/images/about-artist-2.jpg" alt="Thom Kurtz" />
     </div>
+
+    <Accordion title="Photo Credits">
+      Photos by Kevin Chin for Northshore Productions, Round Rock, TX
+    </Accordion>
   </div>
-  <Accordion title="Photo Credits">
-    Photos by Kevin Chin for Northshore Productions, Round Rock, TX
-  </Accordion>
-</Container>
+</div>
 
 <style>
+  .container {
+    max-width: 80ch;
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   .container-photos {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
     margin: 0 auto;
+    width: 100%;
   }
   .photos {
     margin-top: 2rem;
@@ -96,12 +105,47 @@
     justify-content: space-evenly;
     width: 100%;
   }
-  @media (max-width: 700px) {
+  .photos > img {
+    width: 40%;
+    margin: 0.25rem auto;
+  }
+  @media (max-width: 1000px) {
+    .container {
+      max-width: 70ch;
+    }
+  }
+  @media (max-width: 850px) {
+    .container {
+      max-width: 60ch;
+    }
+  }
+  @media (max-width: 750px) {
+    .container {
+      max-width: 55ch;
+    }
     .photos {
       flex-direction: column;
+      height: 100%;
+      width: 100%;
     }
     .photos > img {
-      margin-bottom: 10px;
+      width: 90%;
+      margin: 0.25rem auto;
+    }
+  }
+  @media (max-width: 600px) {
+    .container {
+      max-width: 45ch;
+    }
+  }
+  @media (max-width: 500px) {
+    .container {
+      max-width: 35ch;
+    }
+  }
+  @media (max-width: 400px) {
+    .container {
+      max-width: 30ch;
     }
   }
 </style>

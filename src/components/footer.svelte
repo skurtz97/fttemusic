@@ -157,6 +157,7 @@
   </div>
   <Social display={false} />
 </footer>
+<p class="copyright">© 2020-2022 Friends to the End</p>
 
 <style>
   footer {
@@ -175,6 +176,14 @@
   }
   .privacy {
     max-width: 400px;
+  }
+  .copyright {
+    background-color: #000000;
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    padding-bottom: 1rem;
   }
   form {
     display: flex;
@@ -217,7 +226,6 @@
     color: #0e63c4;
     text-decoration: underline;
   }
-
   @media (max-width: 1700px) {
     footer {
       padding: 2rem;

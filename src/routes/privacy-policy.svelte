@@ -1,8 +1,4 @@
-<script lang="ts">
-  import Container from "$components/container.svelte";
-</script>
-
-<Container textcenter width="100ch">
+<div>
   <h2>Who we are and what data is collected on this website</h2>
   <p>
     Our website address is: <a href="https://friendstotheend.net">https://friendstotheend.net</a>.
@@ -24,9 +20,16 @@
     third-party tracking, and monitor your interaction with that embedded content, including tracking
     your interaction with the embedded content if you have an account and are logged in to that website.
   </p>
-</Container>
+</div>
 
 <style>
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 80ch;
+  }
   p {
     text-align: left;
   }
@@ -37,5 +40,10 @@
   a:hover {
     color: #0e63c4;
     text-decoration: underline;
+  }
+  @media (max-width: 1000px) {
+    div {
+      max-width: 60ch;
+    }
   }
 </style>

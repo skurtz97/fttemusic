@@ -33,7 +33,7 @@
   .accordion {
     display: flex;
     flex-direction: column;
-    width: inherit;
+    width: 100%;
     margin: 1rem 0rem;
     box-shadow: 1px 1px 1px 1px #a1a2a3;
   }
