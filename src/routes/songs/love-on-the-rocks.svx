@@ -69,3 +69,17 @@ Oh, my love, on the rocks before my eyes!
     title="Spotify embed"
   />
 </div>
+
+<div slot="credits">
+<p>Artwork by Evan Bozarth for AIRSHP.</p>
+<p>Copyright © 1984, 2016 Lyrics and Music by Thomas Kurtz. Published by Friends to the End Music Publishing (ASCAP). Sound recording  ℗ 2017 by Thom Kurtz.</p>
+<p>Written, Arranged and Produced by Thom Kurtz. Co-produced by Tim Dolbear.</p>
+<br/>
+<br/>
+<p>Lead & backing vocals – Julia Courtney.</p>
+<p>Backing vocals and programming – Thom Kurtz.</p>
+<p>Guitar solo – Bill Browder, recorded by Layton DePenning at Elmo’s Lab, Buda, TX.</p>
+<p>Drums & percussion – Eddie Cantu, recorded at Austin Music Producers.</p>
+<br/>
+<p>Mix, vocal recordings and programming by Tim Dolbear at Eclectica Studios.</p>
+</div>

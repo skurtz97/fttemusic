@@ -7,6 +7,8 @@ soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=http
 instagram_embed_src: "https://www.instagram.com/p/B0ZHcR9AYuU/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A0%2C%22os%22%3A4311%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
 instagram_embed_src_2: "https://www.instagram.com/p/BxNUZyoFeiM/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A1%2C%22os%22%3A4320%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
 instagram_embed_src_3: "https://www.instagram.com/p/BzgEU5iFTFa/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A2%2C%22os%22%3A4329%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
+next: "whered-you-put-the-baby"
+previous: "club-iguana"
 ---
 
 ## {title}
@@ -111,6 +113,23 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
        style="margin:10px;max-height:400px"
    />
    </div>
+</div>
+
+
+<div slot="credits">
+Keyboards & lead vocals – Thom Kurtz.
+
+All guitars & bass – Tim Dolbear.
+
+Drums – Roger Glenn. Maracas – Nick Tozzo.
+
+Backing vocals – Ofie Kodjoe, Wendy Colonna, Cari Hutson, Emmy Trader, Lonnie Trevino Jr., and Thom Kurtz.
+
+Sound mix and all recording by Tim Dolbear at Eclectica Studios.
+
+Written, Arranged and Produced by Thom Kurtz. Co-produced by Tim Dolbear.
+
+ISRC: QZESK1800027 Copyright © 1989, 2017 Lyrics and Music by Thomas Kurtz (ASCAP 4732692 / IPI 818383223) ISWC: T9262619067 Friends to the End Music Publishing (ASCAP 818383615) All rights reserved. For licensing, <a href="mailto:fttemusic@gmail.com">fttemusic@gmail.com</a>
 </div>
 
 <style>

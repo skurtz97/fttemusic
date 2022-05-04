@@ -4,6 +4,8 @@ title: "Poetry Pop"
 subtitle: "( Sound and Vision Collide. )"
 date: "2020-02-28"
 soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F747962755&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
+next: "love-on-the-rocks"
+previous: "whered-you-put-the-baby"
 ---
 
 ## {title}
@@ -87,3 +89,24 @@ Poetry, pop, music, what’s goin’ on? What’s goin’ on?
         title="Soundcloud embed"
     />
 </div>
+
+<div slot="credits">
+Original art song icon by Max McDermott.  
+
+Copyright © 2019 Music & lyrics by Thom Kurtz. Published by Friends to the End Music (ASCAP). Sound recording ℗ 2019 by Thom Kurtz.  
+
+Produced & arranged by Thom Kurtz.  
+
+<br/>
+Lead vocal, keys and programming – Thom Kurtz.  
+
+Trumpet – Sean Kurtz.
+
+Drums – Phil Bass.
+
+Guitar Solo & Rhythm guitars – Tim Dolbear.  
+
+Backing vocals – Erin Ivey, Luke Bellet, Julia Courtney and Thom Kurtz, recorded by Kevin Chin at Northshore Media Productions.  
+
+Mix and lead vocal tracking by Tim Dolbear, Eclectica Studios, Nashville.
+<div>
