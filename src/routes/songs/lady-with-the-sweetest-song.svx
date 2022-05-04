@@ -3,6 +3,8 @@ slug: "lady-with-the-sweetest-song"
 title: "Lady with the Sweetest Song"
 subtitle: "( The unfading beauty of a wise and gentle spirit )"
 date: "2018-10-19"
+next: "club-iguana"
+previous: "friends-to-the-end"
 ---
 
 ## {title}
@@ -70,4 +72,26 @@ How I long for the lady with the sweetest song, song!
           frameborder="no"
           title="Soundcloud embed"
         />
+</div>
+
+<div slot="credits">
+Original art song icon by Max McDermott.
+
+Copyright © 1985, 2016 Music & lyrics by Thom Kurtz.
+
+Published by Friends to the End Music (ASCAP).
+
+Sound recordings ℗ 2016, 2018 by Thom Kurtz, ATX DIY songwriter musician.  Produced and arranged by Thom Kurtz. Co-produced by Tim Dolbear.
+
+Lead vocal & Rhodes piano: Thom Kurtz
+
+Trumpet: Sean Kurtz.
+Guitars: Tim Dolbear.
+Bass: Taylor Turner.
+Drums: Roger Glenn.
+Violins: Luke Cissell.
+Triangle: Tim Dolbear.
+Programming: Thom Kurtz & Tim Dolbear.
+Backing vocals: Ofie Kodjoe, Lonnie Trevino Jr., Wendy Colonna, Cari Hutson, Emmy Trader, and Leigh Ann Heil. 
+Sound recording & mix by Tim Dolbear, Eclectica Studios.
 </div>

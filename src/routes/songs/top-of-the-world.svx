@@ -66,3 +66,27 @@ Top of the world to me and you.
           style="margin:10px;"
     />
 </div>
+
+<div slot="credits">
+Original art song icon by Max McDermott.
+
+Copyright © 1982, 2018   Music & lyrics by Thom Kurtz.    
+
+Published by Friends to the End Music (ASCAP).    
+
+Sound recording ℗ 2018 by Thom Kurtz    
+
+Produced and arranged by Thom Kurtz. Co-produced by Tim Dolbear.
+
+Lead vocals – Thom Kurtz & Kimberly Zielnicki.
+
+Keyboards – Thom Kurtz.  Percussion – James Fenner.
+
+Mandolin – Paul Glasse.       Pedal steel guitar – Geoff Queen.
+
+Acoustic & electric bass – David Carroll.   Drums – Roger Glenn.
+
+Backing vocals – Thom, Kimberly Zielnicki, Julia Courtney. 
+
+Sound recording and mixing by Tim Dolbear, Eclectica Studios (Austin).
+</div>

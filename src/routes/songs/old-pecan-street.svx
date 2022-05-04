@@ -5,6 +5,8 @@ subtitle: "( Once upon a time in the 20th century...)"
 date: "2018-02-11"
 soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F557782008&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
 youtube_embed_src: "https://www.youtube.com/embed/iZA1eU6o4og?feature=oembed"
+next: "friends-to-the-end"
+previous: "soap-creek-saloon"
 ---
 
 ## {title}
@@ -85,4 +87,25 @@ Ain’t what it used to be . . . Ain’t what it used to be . . .
           frameborder="no"
           title="Soundcloud embed"
         />
+</div>
+
+<div slot="credits">
+Copyright © 1980, 2015 Music & lyrics by Thom Kurtz.
+
+Published by Friends to the End Music (ASCAP).   Sound recordings ℗ 2016, 2019 by Thom Kurtz.
+
+Produced & arranged by Thom Kurtz. Co-produced by Tim Dolbear.
+
+**Studio Recording Credits**
+Lead vocals – Thom Kurtz.    Drums – Wayne Salzmann II. 
+
+Bass – Alex Browne.    Piano – Cameron Riggs.  Percussion – Nick Tozzo. 
+
+The Fantasma Horns: Trumpet – Gilbert Elorreaga, Trombone – Mark “Speedy” Gonzales and Baritone Sax – Josh Levy.  Additionally with Sean Kurtz on Trumpet.
+
+Backing vocals – Akina Adderley and Ofie Kodjoe.  
+
+Brass arrangement by Thom Kurtz and Tim Dolbear.
+
+Mixed and recorded by Tim Dolbear, Eclectica Studios.  
 </div>

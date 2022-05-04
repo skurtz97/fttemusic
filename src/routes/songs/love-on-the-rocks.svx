@@ -5,6 +5,8 @@ subtitle: "( Why must I always make the same mistakes? )"
 date: "2020-09-08"
 youtube_embed_src: "https://www.youtube.com/embed/Ru-5ls0eQfs?feature=oembed"
 spotify_embed_src: "https://open.spotify.com/embed/track/2xeIIZOWPG5MuGzrYX23ke"
+next: "poetry-pop"
+previous: "falling-for-the-flash"
 ---
 
 ## {title}

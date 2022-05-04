@@ -5,6 +5,8 @@ subtitle: "[Theme Song]"
 date: "2018-08-19"
 youtube_embed_src: "https://www.youtube.com/embed/MKIV8L-ZB4Y?feature=oembed"
 soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F342356130&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
+next: "lady-with-the-sweetest-song"
+previous: "old-pecan-street"
 ---
 
 ## {title}
@@ -69,4 +71,30 @@ Friends to the end, to the end.
           frameborder="no"
           title="Soundcloud embed"
         />
+</div>
+
+<div slot="credits">
+Copyright © 1980, 2016  
+
+Music & lyrics by Thom Kurtz.     
+
+Published by Friends to the End Music (ASCAP).  
+
+Sound recordings ℗ 2016, 2017 by Thom Kurtz    
+
+Produced and arranged by Thom Kurtz. Co-produced by Tim Dolbear.
+
+Lead & backing vocals, piano, keys, programming: Thom Kurtz.  
+
+Bass: Tim Dolbear.  
+
+Guitar: Bill Browder. 
+
+Drums & percussion: Eddie Cantu. 
+
+Triangle: Tim Dolbear.
+
+Backing vocals: Julia Courtney, Izzy Arcinue, and Thom Kurtz. 
+
+Mixed and recorded by Tim Dolbear, Eclectica Studios; except acoustic piano recording by John Michael Landon at Estuary Recordings.
 </div>

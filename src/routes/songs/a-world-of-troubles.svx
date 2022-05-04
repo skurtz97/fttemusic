@@ -4,7 +4,7 @@ title: "A World Of Troubles"
 subtitle: "( And they called me the Magic Man )"
 date: "2020-12-29"
 next: "robot-oddity"
-previous: "as-sure-as-your-sorrow-is-joy"
+previous: "whered-you-put-the-baby"
 ---
 
 ## {title}

@@ -132,6 +132,7 @@ Written, Arranged and Produced by Thom Kurtz. Co-produced by Tim Dolbear.
 ISRC: QZESK1800027 Copyright © 1989, 2017 Lyrics and Music by Thomas Kurtz (ASCAP 4732692 / IPI 818383223) ISWC: T9262619067 Friends to the End Music Publishing (ASCAP 818383615) All rights reserved. For licensing, <a href="mailto:fttemusic@gmail.com">fttemusic@gmail.com</a>
 </div>
 
+
 <style>
      @media(max-width: 800px){
            .collapse {
