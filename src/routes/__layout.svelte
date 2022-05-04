@@ -1,11 +1,7 @@
 <script lang="ts">
   import "../styles/global.css";
-
   import Footer from "$components/footer.svelte";
-  import type { Link } from "$types/global";
   import Betterheader from "$components/betterheader.svelte";
-
-  const title = "Friends To The End";
 </script>
 
 <Betterheader />
