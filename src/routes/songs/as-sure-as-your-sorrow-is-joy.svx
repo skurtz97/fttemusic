@@ -27,12 +27,7 @@ On the garment you cannot destroy.
 
 And I often feel like crying,  
 But I have no fear of dying,  
-As sure as your sorrow is joy,  
-As sure as your sorrow is joy.  
-
-My face is a blotter.  
-My hands are a sponge.  
-I squeeze my dreams empty  
+As sure as your sorrow is joy,  Mixed and recorded by Tim Dolbear, Eclectica Studios.
 When I see what they’ve done.  
 They scuttle and drag through the alloy.  
 
@@ -72,3 +67,22 @@ As sure as your sorrow is joy.
           title="Soundcloud embed"
         />
 </div>
+
+<div slot="credits">
+  <p>Cover artwork / thumbnail by Ramón Paredes  https://www.instagram.com/ramonparedes64/<p>
+  <p>(Original background painting by Vincent Van Gogh from 1889 and often titled Rising Moon and Haycocks.  Art animation by Jean-Ernst Voigt available on request.)</p>
+  <p>Copyright © 1980, 2016    Music & lyrics by Thom Kurtz.    Published by Friends to the End Music (ASCAP).   Sound recording ℗ 2018 by Thom Kurtz.</p>
+  <p>Produced & arranged by Thom Kurtz. Co-produced by Tim Dolbear.</p>
+  <br/>
+  <br/>
+  <p>Viola extraordinaire – Hailey Walterman.</p>
+  <p>Lead vocals and programming – Thom Kurtz.</p>
+  <p>Flute & Piccolo – Sarah Jane Hargis.</p>
+  <p>Congas and Bongos – Nick Tozzo.</p>
+  <p>Drums – Roger Glenn & Wayne Duncan. </p>
+  <p>Backing vocals – Lonnie Trevino Jr.</p>
+  <p>Backing vocals – Lonnie Trevino Jr.</p>
+  <p>Mixed and recorded by Tim Dolbear, Eclectica Studios.</p>
+</div>
+
+<div slot=">

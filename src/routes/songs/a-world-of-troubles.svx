@@ -3,6 +3,8 @@ slug: "a-world-of-troubles"
 title: "A World Of Troubles"
 subtitle: "( And they called me the Magic Man )"
 date: "2020-12-29"
+next: "robot-oddity"
+previous: "as-sure-as-your-sorrow-is-joy"
 ---
 
 ## {title}
@@ -66,5 +68,16 @@ The science is clear, but the strategy is dark as night.
         frameborder="0"
         title="Spotify embed"
         />
+</div>
+
+<div slot="credits">
+      <p>Original art song icon by Fulton Hobbs. The original “Erie Rising” monster wave photo by Dave Sandford.</p>
+      <p>Copyright © 1982, 2015    Music & lyrics by Thom Kurtz.    Published by Friends to the End Music (ASCAP).   Sound recording ℗ 2017 by Thom Kurtz.</p>
+      <p>Produced & arranged by Thom Kurtz. Co-produced by Tim Dolbear.</p>
+      <p>Lead vocal – Susanna Lee.  Trumpet – Keith Fiala.</p>
+      <p>Cello – Brian Standefer.  Piano – Thom Kurtz.</p>
+      <p>Bass – Scott Roberts.  Drums – Roger Glenn.</p>
+      <p>Backing vocals – Jazz Mills, Eva Ocean, RC McCree, Susanna Lee, Julia Courtney, Thom Kurtz.</p>
+      <p>Mixed and all recording by Tim Dolbear at Eclectica Studios in NW Austin, Texas, except acoustic Yamaha C7 Grand Piano recorded by John Michael Landon at Estuary Recordings in midtown Austin, TX.</p>
 </div>
 

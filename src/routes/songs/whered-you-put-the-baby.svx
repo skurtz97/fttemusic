@@ -57,3 +57,21 @@ Where’d you put the baby?
     title="Spotify embed"
   />
 </div>
+
+<div slot="credits">
+  <p>Copyright © 2019 Music & lyrics by Thom Kurtz. Published by Friends to the End Music (ASCAP). Sound recording ℗ 2019 by Thom Kurtz.</p>
+  <br/>
+  <p>Produced & arranged by Thom Kurtz. Co-produced by Tim Dolbear.</p>
+  <br/>
+  <p>Lead vocal and keys – Thom Kurtz. </p>
+  <p>Bass & guitars – Tim Dolbear. </p>
+  <p>Drums – Wayne Salzmann II. </p>
+  <p>Percussion – Nick Tozzo. </p>
+  <p>Backing vocals – Ofie Kodjoe</p>
+  <br/>
+  <p>Mixed and recorded by Tim Dolbear, Eclectica Studios.</p>
+
+
+
+
+</div>
