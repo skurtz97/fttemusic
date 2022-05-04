@@ -33,7 +33,7 @@
   <h2>Modern Soft Rock, Curiously Original</h2>
   <div class="grid">
     {#each songs as song}
-      <a href={`/songs/${song.slug}`}>
+      <a href={`/songs/${song.slug}`} rel="prefetch">
         <img
           class="song"
           src={song.image !== ""

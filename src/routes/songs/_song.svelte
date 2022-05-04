@@ -1,8 +1,29 @@
 <script>
   import Accordion from "$components/accordion.svelte";
+  import ArrowLeft from "$components/icons/arrow-left.svelte";
+  import ArrowRight from "$components/icons/arrow-right.svelte";
 
   //@ts-nocheck
   export let title;
+  export let next;
+  export let previous;
+  let hoverLeft = false;
+  let hoverRight;
+
+  function slugToTitle(slug) {
+    // remove all hyphens
+    let newTitle = slug.replace(/-/g, " ");
+    // split the title into words
+    let words = newTitle.split(" ");
+    // capitalize the first letter of each word
+    for (let i = 0; i < words.length; i++) {
+      words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
+    }
+    // join the words back together
+    newTitle = words.join(" ");
+    // return the title
+    return newTitle;
+  }
 </script>
 
 <svelte:head>
@@ -21,6 +42,26 @@
   <Accordion title="Credits">
     <slot name="credits" />
   </Accordion>
+  <div class="links">
+    <a
+      href={next}
+      on:mouseenter={() => (hoverLeft = true)}
+      on:mouseleave={() => (hoverLeft = false)}
+    >
+      <ArrowLeft hover={hoverLeft} />
+      {slugToTitle(next)}
+    </a>
+    <a href="/songs">Songs</a>
+    <a
+      href={previous}
+      on:mouseenter={() => (hoverRight = true)}
+      on:mouseleave={() => (hoverRight = false)}
+    >
+      <p />
+      {slugToTitle(previous)}
+      <ArrowRight hover={hoverRight} />
+    </a>
+  </div>
 </div>
 
 <style>
@@ -60,6 +101,9 @@
   }
   :global(.outer > .accordion) {
     text-align: left;
+    width: 90%;
+    max-width: 90%;
+    margin: 2rem auto;
   }
   :global(.outer > .accordion > .content > div > p > a) {
     color: #0157b9;
@@ -69,6 +113,30 @@
     text-decoration: underline;
     color: #0e63c4;
   }
+  .links {
+    width: 90%;
+    max-width: 90%;
+    margin: 2rem auto;
+    background-color: #000;
+    padding: 0.75rem 0rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .links > a {
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    margin: 0rem 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .links > a:hover {
+    color: #1f7bb6;
+    text-decoration: underline;
+  }
 
   @media (max-width: 1100px) {
     .inner {
@@ -76,9 +144,7 @@
       text-align: center;
       margin: 0 auto;
     }
-    :global(.outer > .accordion) {
-      margin-top: 2rem;
-    }
+
     .embeds {
       margin-left: 0;
     }
@@ -89,15 +155,9 @@
       text-align: center;
       margin: 0 auto;
     }
-    :global(.outer > .accordion) {
-      width: 70ch;
-    }
   }
   @media (max-width: 850px) {
     .content {
-      width: 65ch;
-    }
-    :global(.outer > .accordion) {
       width: 65ch;
     }
   }
@@ -105,15 +165,9 @@
     .content {
       width: 60ch;
     }
-    :global(.outer > .accordion) {
-      width: 60ch;
-    }
   }
   @media (max-width: 700px) {
     .content {
-      width: 55ch;
-    }
-    :global(.outer > .accordion) {
       width: 55ch;
     }
   }
@@ -127,16 +181,9 @@
     :global(.content > p) {
       font-size: 15px;
     }
-    :global(.outer > .accordion) {
-      margin: 2rem auto 0rem auto;
-      width: 52ch;
-    }
   }
   @media (max-width: 600px) {
     .content {
-      width: 40ch;
-    }
-    :global(.outer > .accordion) {
       width: 40ch;
     }
   }
@@ -147,9 +194,6 @@
     :global(.embeds > div > iframe) {
       max-width: 375px;
     }
-    :global(.outer > .accordion) {
-      width: 35ch;
-    }
   }
 
   @media (max-width: 400px) {
@@ -159,15 +203,9 @@
     :global(.embeds > div > iframe) {
       max-width: 300px;
     }
-    :global(.outer > .accordion) {
-      width: 33ch;
-    }
   }
   @media (max-width: 350px) {
     .content {
-      width: 30ch;
-    }
-    :global(.outer > .accordion) {
       width: 30ch;
     }
   }
