@@ -110,7 +110,7 @@
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    background-position: center center;
+    background-position: center bottom;
   }
   .grid {
     width: 100%;

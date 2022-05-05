@@ -20,6 +20,7 @@
     Welcome to <b><i>Friends To The End</i></b> where Modern soft rock music collides with videos of
     joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
+  <a href="https://found.ee/ftte">Streaming Platform Links</a>
   <div class="videos">
     <iframe
       src="https://www.youtube.com/embed/iCaQE-hg93w"
@@ -57,6 +58,10 @@
       allowfullscreen
     />
   </div>
+  <p>
+    Watch this video for a sneak-peak behind the scenes and in front of the camera. And discover
+    lyrics and more streaming samples of Modern soft rock on our <a href="/songs">Songs page.</a>
+  </p>
 </div>
 
 <style>
@@ -74,6 +79,14 @@
     margin: 0 0 2rem 0;
   }
 
+  a {
+    color: #0157b9;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #0e63c4;
+    text-decoration: underline;
+  }
   .videos {
     display: flex;
     flex-direction: column;
