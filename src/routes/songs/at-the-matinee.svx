@@ -10,10 +10,6 @@ embeds:
  - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F450373521&amp;show_artwork=true&amp;"
 ---
 
-## {title}
-
-{subtitle}
-
 I used to go downtown every day at two.  
 I’d give up my ground, girl, to see the show with you.  
 And, if there was nothin’ good, we’d say the words we thought they would  
