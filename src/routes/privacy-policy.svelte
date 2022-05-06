@@ -34,11 +34,11 @@
     text-align: left;
   }
   a {
-    color: #0157b9;
+    color: var(--link);
     text-decoration: none;
   }
   a:hover {
-    color: #0e63c4;
+    color: var(--link-hover);
     text-decoration: underline;
   }
   @media (max-width: 1000px) {

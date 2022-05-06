@@ -1,29 +1,71 @@
+<!--
+  This file is a layout component for the individual song pages. In order to specify a named layout to use with
+  given routes in mdsvex, we must adjust svelte.config.json to include the following:
+
+  preprocess: [
+    preprocess(),
+    mdsvex({
+      extensions: [".svx"],
+      layout: {
+        songs: resolve("/src/routes/songs/_song.svelte")
+      }
+    })
+  ]
+
+  If mdsvex was already configured without a layout, then we only need to add extensions and layout to the empty mdsvex({}).
+
+  Note that for mdsvex version 0.10.5 and sveltejs/kit version 2.0.0-next.133 to work properly, the above preprocess configuration
+  must be the last property in the config object. The config file should look something like this:
+
+  const config = {
+    kit {
+      prerender {
+        ... if you want to tell svelte-kit what to generate statically ...
+      },
+      vite {
+        ... anything you need to tell vite ...
+      },
+      adapter: adapter()
+    },
+    extensions: [".svelte", ".svx"],    // all the file extensions that will be processed by svelte-kit
+    preprocess: [
+      preprocess(),                     // default svelte kit preprocess
+      mdsvex({                          // use the mdsvex preprocessor
+        extensions: [".svx"],           // run mdsvex on all .svx files, could also add .md, make sure to add to above extensions array
+        layout: {                       // layout to use for the routes inside the directory with the same name as the layout name
+          songs: resolve("/src/routes/songs/_song.svelte")
+        }
+
+  }
+
+  -->
 <script>
   import Accordion from "$components/accordion.svelte";
   import ArrowLeft from "$components/icons/arrow-left.svelte";
   import ArrowRight from "$components/icons/arrow-right.svelte";
 
-  //@ts-nocheck
+  // Metadata is automatically received as a prop from the associated song page.
   export let title;
   export let subtitle;
   export let next;
   export let previous;
-  let hoverLeft = false;
-  let hoverRight;
+  export let embeds;
 
+  let hoverLeft = false;
+  let hoverRight = false;
+
+  /**
+   * Converts a slug into a title. e.g. "hello-world" -> "Hello World"
+   * Removes any hyphens, and capitalizes the first letter of each word.
+   * @param {string} slug The slug of a song page
+   * @returns {string} The title of the song page
+   */
   function slugToTitle(slug) {
-    // remove all hyphens
-    let newTitle = slug.replace(/-/g, " ");
-    // split the title into words
-    let words = newTitle.split(" ");
-    // capitalize the first letter of each word
+    let words = slug.replace(/-/g, " ").split(" ");
     for (let i = 0; i < words.length; i++) {
       words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
     }
-    // join the words back together
-    newTitle = words.join(" ");
-    // return the title
-    return newTitle;
+    return words.join(" ");
   }
 </script>
 
@@ -31,20 +73,66 @@
   <title>{title}</title>
 </svelte:head>
 
-<div class="outer">
-  <div class="inner">
-    <div class="content">
+<div class="container">
+  <div class="content">
+    <section class="text">
       <h1 class="title">{title}</h1>
       <p class="subtitle">{subtitle}</p>
       <slot />
-    </div>
+    </section>
     <div class="embeds">
-      <slot name="embeds" />
+      {#each embeds as embed}
+        {#if embed.includes("youtube")}
+          <div class="embed-container">
+            <iframe
+              src={embed}
+              title="YouTube video player"
+              height="315"
+              width="475"
+              frameborder="0"
+            />
+          </div>
+        {:else if embed.includes("spotify")}
+          <div class="embed-container">
+            <iframe src={embed} width=" 531" height="300" frameborder="0" title="Spotify embed" />
+          </div>
+        {:else if embed.includes("soundcloud")}
+          <div class="embed-container">
+            <iframe
+              scrolling="no"
+              src={embed}
+              height="315"
+              width="475"
+              frameborder="no"
+              title="Soundcloud embed"
+            />
+          </div>
+        {:else if embed.includes("instagram")}
+          <div class="embed-container">
+            <iframe
+              class="instagram-media instagram-media-rendered"
+              src={embed}
+              allowtransparency="true"
+              allowfullscreen="true"
+              data-instgrm-payload-id="instagram-media-payload-0"
+              scrolling="no"
+              height="315"
+              width="475"
+              frameborder="0"
+              title="Instagram Embed"
+              style="margin:10px;max-height:400px"
+            />
+          </div>
+        {/if}
+      {/each}
     </div>
   </div>
-  <Accordion title="Credits">
-    <slot name="credits" />
-  </Accordion>
+
+  <div class="credits">
+    <Accordion title="Credits">
+      <slot name="credits" />
+    </Accordion>
+  </div>
   <div class="links">
     <a
       href={next}
@@ -68,164 +156,101 @@
 </div>
 
 <style>
-  .title {
-    font-size: 2rem;
-    font-weight: 700;
-    margin-bottom: 0.5rem;
-    text-align: left;
-  }
-  .subtitle {
-    font-size: 1rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
-    text-align: left;
-  }
-  :global(p) {
-    margin-bottom: 1rem;
-    text-align: left;
-  }
-  .outer {
-    margin: 4rem 1rem;
+  .container {
+    margin: 2rem auto;
     display: flex;
     flex-direction: column;
-  }
-  .inner {
-    display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
-  }
-  .embeds {
-    margin-left: 2rem;
   }
   .content {
-    margin-bottom: 2rem;
-    max-width: 80ch;
-  }
-  :global(.embeds > div > iframe) {
-    margin-bottom: 1rem;
-  }
-
-  :global(.outer > .accordion) {
-    text-align: left;
-    width: 90%;
-    max-width: 90%;
-    margin: 2rem auto;
-  }
-  :global(.outer > .accordion > .content > div > p > a) {
-    color: #0157b9;
-    text-decoration: none;
-  }
-  :global(.outer > .accordion > .content > div > p > a:hover) {
-    text-decoration: underline;
-    color: #0e63c4;
-  }
-
-  .links {
-    width: 90%;
-    max-width: 90%;
-    margin: 2rem auto;
-    background-color: #000;
-    padding: 0.75rem 0rem;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    padding: 1rem;
+    max-width: 1040px;
+    margin: 0 auto;
+  }
+  .text {
+    margin-right: 2rem;
+    max-width: 80ch;
+  }
+  .subtitle {
+    font-weight: bold;
+  }
+  .embeds {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 4rem;
+    margin-left: 4rem;
+  }
+  .embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+  .embed-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
 
-  .links > a {
-    color: #fff;
+  .credits {
+    margin: 0 auto;
+    width: 1040px;
+
+    max-width: 1040px;
+  }
+  .links {
+    margin: 0 auto;
+    width: 1040px;
+    max-width: 1040px;
+    background-color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 0.25rem;
     font-weight: 600;
+  }
+  .links a {
+    color: #fafafa;
     text-decoration: none;
-    margin: 0rem 1rem;
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 0.4rem;
   }
-  .links > a:hover {
-    color: #1f7bb6;
-    text-decoration: underline;
+  .links a:hover {
+    color: var(--link-hover);
   }
 
-  @media (max-width: 1100px) {
-    .inner {
+  @media (max-width: 1200px) {
+    .container {
+      width: 90%;
+      max-width: 90%;
+    }
+    .content {
+      max-width: 90%;
+      width: 90%;
       flex-direction: column;
     }
     .embeds {
-      margin-left: 0;
+      max-width: 90%;
+      width: 90%;
+      margin: 2rem auto;
+    }
+    .credits {
+      max-width: 90%;
+      width: 90%;
+    }
+    .links {
+      max-width: 90%;
+      width: 90%;
     }
   }
-
-  /*
-  @media (max-width: 1100px) {
-    .inner {
-      flex-direction: column;
-      text-align: center;
-      margin: 0 auto;
-    }
-
-    .embeds {
-      margin-left: 0;
-    }
-  }
-  @media (max-width: 900px) {
-    .content {
-      width: 70ch;
-      text-align: center;
-      margin: 0 auto;
-    }
-  }
-  @media (max-width: 850px) {
-    .content {
-      width: 65ch;
-    }
-  }
-  @media (max-width: 750px) {
-    .content {
-      width: 60ch;
-    }
-  }
-  @media (max-width: 700px) {
-    .content {
-      width: 55ch;
-    }
-  }
-  @media (max-width: 700px) {
-    .content {
-      width: 52ch;
-      margin-left: 0;
-      margin-right: 0;
-      word-wrap: break-word;
-    }
-    :global(.content > p) {
-      font-size: 15px;
-    }
-  }
-  @media (max-width: 600px) {
-    .content {
-      width: 40ch;
-    }
-  }
-  @media (max-width: 500px) {
-    .content {
-      width: 35ch;
-    }
-    :global(.embeds > div > iframe) {
-      max-width: 375px;
-    }
-  }
-
-  @media (max-width: 400px) {
-    .content {
-      width: 33ch;
-    }
-    :global(.embeds > div > iframe) {
-      max-width: 300px;
-    }
-  }
-  @media (max-width: 350px) {
-    .content {
-      width: 30ch;
-    }
-  }
-  */
 </style>

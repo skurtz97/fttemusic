@@ -13,7 +13,7 @@
 
 <style>
   :global(main) {
-    background-color: #f0f0f0;
+    background-color: var(--background);
     display: flex;
     flex-direction: column;
   }

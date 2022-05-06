@@ -9,6 +9,7 @@
     embeds: string[];
     image?: string;
   }
+
   import type { Load } from "@sveltejs/kit";
   import type { get } from "./songs/api/songs.json";
   type Params = {};
@@ -18,7 +19,6 @@
   export const load: Load<Params, InputProps, OutputProps> = async ({ fetch }) => {
     const res = await fetch("/songs/api/songs.json");
     const body = await res.json();
-    console.log(body);
     return {
       props: {
         songs: body.songs
@@ -39,7 +39,6 @@
       return `/images/songs/${metadata.slug.replace(".svx", "")}.jpg`;
     }
   };
-  $: console.log(songs);
 </script>
 
 <svelte:head>

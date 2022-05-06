@@ -71,25 +71,7 @@ Ain’t what it used to be . . . Ain’t what it used to be . . .
 ***However, the warehouse — where I kept my console piano and wrote this song and slept certain nights, behind an avant-garde art gallery — has been replaced by the downtown Austin Hilton Hotel (opened 2004); just around the corner from the Austin Convention Center, which opened July 4, 1992, already now 25 years later as I pen these song notes.*** 
 
 
-<div slot="embeds">
-<iframe
-        src="https://www.youtube.com/embed/iZA1eU6o4og?feature=oembed"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="475"
-        height="315"
-        frameborder="0"
-  />
-  <iframe
-          scrolling="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F557782008&amp;show_artwork=true&amp;"
-          width="475"
-          height="300"
-          frameborder="no"
-          title="Soundcloud embed"
-        />
-</div>
+
 
 <div slot="credits">
 Copyright © 1980, 2015 Music & lyrics by Thom Kurtz.

@@ -58,61 +58,7 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
 
 ***We have to confess that the awesome sounding Hammond B7 organ was mostly what I wrote and played into midi files, and Tim’s impeccable recreations created the amazing Lesley effects.  The soulful singer belting it out in the ending choruses is well-known Austin singer Cari Hutson.***
 
- <div slot="embeds">
-  <div class="collapse" style="display:flex;">
-    <iframe
-          scrolling="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F466540035&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165&amp;secret_token=s-rT9Gz"
-          width="auto"
-          height="400"
-          frameborder="no"
-          title="Soundcloud embed"
-          style="margin:10px;"
-    />
-    <iframe
-          class="instagram-media instagram-media-rendered"
-          id="instagram-embed-0"
-          src="https://www.instagram.com/p/B0ZHcR9AYuU/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A0%2C%22os%22%3A4311%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
-          allowtransparency="true"
-          allowfullscreen="true"
-          data-instgrm-payload-id="instagram-media-payload-0"
-          scrolling="no"
-          height="300"
-          frameborder="0"
-          title="Instagram Embed"
-          style="margin:10px;max-height:400px"
-        />
-  </div>
-  <div  class="collapse" style="display:flex;">
-     <iframe
-        class="instagram-media instagram-media-rendered"
-        id="instagram-embed-0"
-        src="https://www.instagram.com/p/BxNUZyoFeiM/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp    2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A1%2C%22os%22%3A4320%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
-        allowtransparency="true"
-        allowfullscreen="true"
-        data-instgrm-payload-id="instagram-media-payload-0"
-        scrolling="no"
-        height="400"
-        frameborder="0"
-        title="Instagram Embed"
-        style="margin:10px;max-height:400px"
-      />
-  <iframe
-        class="instagram-media instagram-media-rendered"
-        id="instagram-embed-0"
-        src="https://www.instagram.com/p/BzgEU5iFTFa/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&a p;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A2%2C%22os%22%3A4329%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
-        allowtransparency="true"
-        allowfullscreen="true"
-        data-instgrm-payload-id="instagram-media-payload-0"
-        scrolling="no"
-        height="400"
-        frameborder="0"
-        title="Instagram Embed"
-       style="margin:10px;max-height:400px"
-   />
-   </div>
-</div>
+ 
 
 
 <div slot="credits">

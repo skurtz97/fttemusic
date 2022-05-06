@@ -3,6 +3,12 @@
   src: url("/fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
 }
 
+:root {
+  --background: #fafafa;
+  --link: #00a8ff;
+  --link-hover: #0e63c4;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   font-size: 12pt;

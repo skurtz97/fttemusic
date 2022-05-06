@@ -56,23 +56,7 @@ Oh, my love, on the rocks before my eyes!
 
 ***I had also been recruiting Eddie Cantu to record drums for me for other tracks, and I invited him to come up with his own tracks in his home studio. The original single we released on my mom’s birthday on Aug.28, 2020, was a very toned down edit of hours of drum and percussion tracks I wound up spending weeks comping into the rockier version that we released as the Pirate mix version of this track on the short EP called THE OCEAN SINGLE.***
 
-<div slot="embeds">
-<iframe
-    src="https://www.youtube.com/embed/Ru-5ls0eQfs?feature=oembed"
-    title="YouTube video player"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    width="475"
-    height="315"
-    frameborder="0"
-  />
-  <iframe
-    src="https://open.spotify.com/embed/track/2xeIIZOWPG5MuGzrYX23ke"
-    width="475"
-    height="315"
-    frameborder="0"
-    title="Spotify embed"
-  />
-</div>
+
 
 <div slot="credits">
 <p>Artwork by Evan Bozarth for AIRSHP.</p>

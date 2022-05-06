@@ -11,10 +11,6 @@ embeds:
  - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F593102922&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
 ---
 
-## {title}
-
-{subtitle}
-
 Are you coming to the Club Iguana?  
 Will you stay up all night long with me?  
 Will you set your hair for the Club Iguana, my love?  
@@ -71,25 +67,7 @@ Everybody, calm down, play the Iguana Club.
 
 ***More recently I was sincerely amazed at the results after arranging “Club Iguana” with freeware on my decades old Windows XP computer.  Now my studio version is finished and live performances are going to be astounding.  Even just watching the demo video shows the inspiration we have to work from.  I wonder what anyone will make of the silly Japanese girl backing vocals in the refrains that go with “Play the Iguana Club, O-O-O!” and Lonnie Trevino’s lizard howl.***
 
-<div slot="embeds">
-  <iframe
-        src="https://www.youtube.com/embed/KXCDUpA3fEg?feature=oembed"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="475"
-        height="315"
-        frameborder="0"
-  />
-  <iframe
-          scrolling="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F593102922&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
-          width="475"
-          height="300"
-          frameborder="no"
-          title="Soundcloud embed"
-        />
-</div>
+
 
 <div slot="credits">
 Original art song icon and animation by Max McDermott.

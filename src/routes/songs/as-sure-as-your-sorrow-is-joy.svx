@@ -45,25 +45,6 @@ As sure as your sorrow is joy.
 
 ***I discovered the various melodic themes that are developed during the course of this rather long, folk-rock march in 3:4 time. For my own pleasure, it is the sort of musical piece, with the intricate bass and drum and percussion elements, that grows affection with each listen.***
 
-<div slot="embeds">
-  <iframe
-        src="https://www.youtube.com/embed/h_udJ-gV56E"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="475"
-        height="315"
-        frameborder="0"
-  />
-  <iframe
-          scrolling="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642093648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
-          width="475"
-          height="300"
-          frameborder="no"
-          title="Soundcloud embed"
-        />
-</div>
 
 <div slot="credits">
   <p>Cover artwork / thumbnail by Ramón Paredes  <a href="https://www.instagram.com/ramonparedes64/">https://www.instagram.com/ramonparedes64/</a><p>

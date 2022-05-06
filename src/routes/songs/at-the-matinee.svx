@@ -51,25 +51,6 @@ At the matinee . . . at the matinee . . . at the matinee . . . at the matinee...
 
 ***“At the Matinee” is simple and complicated at the same time. The verses simple, the bridges complicated. The basic rhythm and arrangement simple, the meanings complicated. Time and space and memory and place all wrapped up in one little song about lost love and playing parts in life. This is my introduction about who I am as a person and songwriter. Shakespeare put it well:   All the world’s a stage, and all the men and women merely players. They have their exits and their entrances, and one man in his time plays many parts.***
 
-<div slot="embeds">
-  <iframe
-        src="https://www.youtube.com/embed/zL92XVjbbFk?feature=oembed"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="475"
-        height="315"
-        frameborder="0"
-  />
-  <iframe
-          scrolling="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F450373521&amp;show_artwork=true&amp;"
-          width="475"
-          height="300"
-          frameborder="no"
-          title="Soundcloud embed"
-        />
-</div>
 
 
 <div slot="credits">
