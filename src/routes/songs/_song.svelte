@@ -67,6 +67,48 @@
     }
     return words.join(" ");
   }
+  /**
+   * Return the number of instagram embeds in embeds
+   */
+  function numInstagramEmbeds() {
+    let sum = 0;
+    for (let i = 0; i < embeds.length; i++) {
+      if (embeds[i].includes("instagram")) {
+        sum++;
+      }
+    }
+    return sum;
+  }
+  /**
+   * Filter out any embeds that are not instagram
+   */
+  function instagramEmbeds() {
+    let instagramEmbeds = [];
+    for (let i = 0; i < embeds.length; i++) {
+      if (embeds[i].includes("instagram")) {
+        instagramEmbeds.push(embeds[i]);
+      }
+    }
+    return instagramEmbeds;
+  }
+  /**
+   * Take an index between 0 and three, and return "first", "second", "third", or "fourth"
+   * @param {number} index The index to convert
+   */
+  function indexToOrdinal(index) {
+    switch (index) {
+      case 0:
+        return "first";
+      case 1:
+        return "second";
+      case 2:
+        return "third";
+      case 3:
+        return "fourth";
+      default:
+        return "";
+    }
+  }
 </script>
 
 <svelte:head>
@@ -80,52 +122,71 @@
       <p class="subtitle">{subtitle}</p>
       <slot />
     </section>
-    <div class="embeds">
-      {#each embeds as embed}
-        {#if embed.includes("youtube")}
-          <div class="embed-container">
-            <iframe
-              src={embed}
-              title="YouTube video player"
-              height="315"
-              width="475"
-              frameborder="0"
-            />
-          </div>
-        {:else if embed.includes("spotify")}
-          <div class="embed-container">
-            <iframe src={embed} width=" 531" height="300" frameborder="0" title="Spotify embed" />
-          </div>
-        {:else if embed.includes("soundcloud")}
-          <div class="embed-container">
-            <iframe
-              scrolling="no"
-              src={embed}
-              height="315"
-              width="475"
-              frameborder="no"
-              title="Soundcloud embed"
-            />
-          </div>
-        {:else if embed.includes("instagram")}
-          <div class="embed-container">
-            <iframe
-              class="instagram-media instagram-media-rendered"
-              src={embed}
-              allowtransparency="true"
-              allowfullscreen="true"
-              data-instgrm-payload-id="instagram-media-payload-0"
-              scrolling="no"
-              height="315"
-              width="475"
-              frameborder="0"
-              title="Instagram Embed"
-              style="margin:10px;max-height:400px"
-            />
-          </div>
-        {/if}
-      {/each}
-    </div>
+
+    {#if numInstagramEmbeds() <= 1}
+      <div class="embeds">
+        {#each embeds as embed}
+          {#if embed.includes("youtube")}
+            <div class="embed-container">
+              <iframe
+                src={embed}
+                title="YouTube video player"
+                height="315"
+                width="475"
+                frameborder="0"
+              />
+            </div>
+          {:else if embed.includes("spotify")}
+            <div class="embed-container">
+              <iframe src={embed} width=" 531" height="300" frameborder="0" title="Spotify embed" />
+            </div>
+          {:else if embed.includes("soundcloud")}
+            <div class="embed-container">
+              <iframe
+                scrolling="no"
+                src={embed}
+                height="315"
+                width="475"
+                frameborder="no"
+                title="Soundcloud embed"
+              />
+            </div>
+          {:else if embed.includes("instagram")}
+            <div class="insta-container">
+              <iframe
+                class="instagram-media instagram-media-rendered"
+                src={embed}
+                allowtransparency="true"
+                allowfullscreen="true"
+                data-instgrm-payload-id="instagram-media-payload-0"
+                scrolling="no"
+                frameborder="0"
+                title="Instagram Embed"
+              />
+            </div>
+          {/if}
+        {/each}
+      </div>
+    {:else}
+      <div class="embeds">
+        <div class="multiple-instagram-container">
+          {#each instagramEmbeds() as embed, index}
+            <div class={`instagram-container ${indexToOrdinal(index)}`}>
+              <iframe
+                class="instagram-media instagram-media-rendered"
+                src={embed}
+                allowtransparency="true"
+                allowfullscreen="true"
+                data-instgrm-payload-id="instagram-media-payload-0"
+                scrolling="no"
+                frameborder="0"
+                title="Instagram Embed"
+              />
+            </div>
+          {/each}
+        </div>
+      </div>
+    {/if}
   </div>
 
   <div class="credits">
@@ -173,6 +234,7 @@
   .text {
     margin-right: 2rem;
     max-width: 80ch;
+    width: 80ch;
   }
   .subtitle {
     font-weight: bold;
@@ -183,6 +245,7 @@
     justify-content: flex-start;
     margin-top: 4rem;
     margin-left: 4rem;
+    width: 100%;
   }
   .embed-container {
     position: relative;
@@ -199,11 +262,40 @@
     width: 100%;
     height: 100%;
   }
+  .insta-container {
+    position: relative;
+    padding-bottom: 73%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+  .multiple-instagram-container {
+    display: grid;
+    grid-template-areas:
+      "first second"
+      "third fourth";
+    grid-gap: 1rem;
+  }
+  .first {
+    grid-area: first;
+  }
+  .second {
+    grid-area: second;
+  }
+  .third {
+    grid-area: third;
+  }
+  .fourth {
+    grid-area: fourth;
+  }
 
+  .instagram-media {
+    height: 500px;
+  }
   .credits {
     margin: 0 auto;
     width: 1040px;
-
     max-width: 1040px;
   }
   .links {
