@@ -29,6 +29,7 @@
     align-items: center;
     justify-content: center;
     max-width: 80ch;
+    margin: 0 auto;
   }
   p {
     text-align: left;
@@ -44,6 +45,11 @@
   @media (max-width: 1000px) {
     div {
       max-width: 60ch;
+    }
+  }
+  @media (max-width: 800px) {
+    div {
+      max-width: 90%;
     }
   }
 </style>
