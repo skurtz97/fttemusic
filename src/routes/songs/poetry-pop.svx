@@ -3,13 +3,12 @@ slug: "poetry-pop"
 title: "Poetry Pop"
 subtitle: "( Sound and Vision Collide. )"
 date: "2020-02-28"
-soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F747962755&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
 next: "love-on-the-rocks"
-previous: "whered-you-put-the-baby"
+previous: "falling-for-the-flash"
+embeds:
+ - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F747962755&amp;show_artwork=true&amp;"
 ---
 
-## {title}
-### {subtitle}
 
 Poetry, pop music, what’s goin’ on? — Sunday Family Drive!  
 Alluring aspirational angel,  
@@ -78,17 +77,7 @@ Poetry, pop, music, what’s goin’ on? What’s goin’ on?
 ***By the fall of 2019 I had worked on this song for over a year, playing it hundreds of time in my home studio until I got determined to record and finish by end of year. My recording partner for the last two years, Tim Dolbear, had moved to Nashville in the spring and built a state-of-the-art studio with full surround sound and video soundtrack mastering capabilities. Naturally we decided to go for a visit when we had a chance to celebrate a wedding anniversary, where we enjoyed his and Angela’s gracious hospitality, and the lead vocals were laid down. By then the other tracks were ready except for trumpet and backing vocals, so I scrambled around Austin to schedule the players looking for a studio to record trumpet during the Thanksgiving break and managed to squeeze in the backing vocals before Christmas.***
 
 
-<div slot="embeds">
-  <iframe
-        scrolling="no"
-        allow="autoplay"
-        src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F747962755&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
-        width="475"
-        height="300"
-        frameborder="no"
-        title="Soundcloud embed"
-    />
-</div>
+
 
 <div slot="credits">
 Original art song icon by Max McDermott.  
@@ -97,7 +86,6 @@ Copyright © 2019 Music & lyrics by Thom Kurtz. Published by Friends to the End 
 
 Produced & arranged by Thom Kurtz.  
 
-<br/>
 Lead vocal, keys and programming – Thom Kurtz.  
 
 Trumpet – Sean Kurtz.

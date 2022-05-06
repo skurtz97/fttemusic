@@ -5,10 +5,11 @@ subtitle: "( I’d like to be at the top of the world with you.)"
 date: "2018-1-18"
 next: "at-the-matinee"
 previous: "robot-oddity"
+embeds: 
+ - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F522343473&amp;show_artwork=true&amp;"
 ---
 
-## {title}
-### {subtitle}
+
 
 Vincent Monument, a man so tense,  
 Escaped the face of common sense,  
@@ -53,19 +54,7 @@ I’d like to be at the top of the world with you.
 Top of the world to you  
 Top of the world to me and you.  
 
-<div slot="embeds">
-  
-  <iframe
-          scrolling="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F522343473&amp;show_artwork=true&amp;"
-          width="475"
-          height="315"
-          frameborder="no"
-          title="Soundcloud embed"
-          style="margin:10px;"
-    />
-</div>
+
 
 <div slot="credits">
 Original art song icon by Max McDermott.

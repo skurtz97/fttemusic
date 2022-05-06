@@ -7,7 +7,7 @@
   }
 </script>
 
-<div id="accordion" class="accordion">
+<div class="accordion">
   <div class="header" on:click={click}>
     <svg
       class:open
@@ -35,7 +35,8 @@
     flex-direction: column;
     width: 100%;
     margin: 1rem 0rem;
-    box-shadow: 1px 1px 1px 1px #a1a2a3;
+    box-shadow: #0000001f 0px 1px 3px, #0000003d 0px 1px 2px;
+    border-radius: 0.25rem;
   }
   .header {
     display: flex;
@@ -44,7 +45,7 @@
     align-items: center;
     font-size: 12pt;
     font-weight: 700;
-    color: #0c0c77;
+    color: #000000;
     padding: 0.5rem;
   }
   svg {
@@ -52,6 +53,14 @@
     width: 25px;
     height: auto;
     stroke: #f7f7f7, #0c0c77;
+  }
+  :global(.accordion a) {
+    color: var(--link);
+    text-decoration: none;
+  }
+  :global(.accordion:hover) {
+    cursor: pointer;
+    color: var(--link-hover);
   }
   .open {
     transform: rotate(180deg);

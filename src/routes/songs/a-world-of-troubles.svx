@@ -1,15 +1,27 @@
 ---
 slug: "a-world-of-troubles"
 title: "A World Of Troubles"
-subtitle: "( And they called me the Magic Man )"
+subtitle: "( A trumpet calls a nation to heal. )"
 date: "2020-12-29"
-next: "robot-oddity"
 previous: "whered-you-put-the-baby"
+next: "robot-oddity"
+embeds: 
+ - "https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed"
+ - "https://open.spotify.com/embed/track/44dSx5Kwh4lhJvrYLxyAnP"
 ---
 
-## {title}
-### {subtitle}
+<div slot="intro">
+<em>'A World of Troubles'</em> is the optimistic, sunny reprieve in our catalogue of recent work.  
 
+The lyrics are about constant elements, like the sea and the sky, as well as the disappointments in life. So, look up. There’s hope for better days ahead.  
+
+1000s of my fans have been watching the music video released on New Years Day 2021.  Now the digital single is ready on Spotify, Apple Music and the others.  
+
+[A World of Troubles Press Release \[pdf\]](https://drive.google.com/file/d/1J7OkBqhvUlHZsSx6dgO70ZseAj4pVUiw/view?usp=sharing)
+</div>
+
+
+The lyrics are about constant elements, like the sea and the sky, as well as the disappointments in life. So, look up. There’s hope for better days ahead.
 
 A world of troubles is far too many pins bursting bubbles,   
 Even though you didn’t ask for any.  
@@ -52,23 +64,6 @@ The science is clear, but the strategy is dark as night.
 ***There are a lot of interesting anecdotes to tell about recording this track. Special thanks to Jacob Schnitzer for help in preparing the final versions of the trumpet and cello scores.***
 
 
-<div slot="embeds">
-  <iframe
-        src="https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="475"
-        height="315"
-        frameborder="0"
-  />
-  <iframe
-        src="https://open.spotify.com/embed/track/2c4uv77S7A3SpOe3XQFqU4"
-        width="475"
-        height="315"
-        frameborder="0"
-        title="Spotify embed"
-        />
-</div>
 
 <div slot="credits">
       <p>Original art song icon by Fulton Hobbs. The original “Erie Rising” monster wave photo by Dave Sandford.</p>

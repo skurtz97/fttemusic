@@ -1,38 +1,20 @@
-# create-svelte
+# Friends To The End Music Website
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+## Environment Setup
+### git
+1. Install the latest version of git. A prebuilt windows version is available [here](https://git-scm.com/download/win).
+2. Add git to the path if it isn't automatically added, and verify the install with `git --version`
 
-## Creating a project
+### node, npm, pnpm, and svelte
+1. Install the latest version of node and npm (not LTS).  Prebuilt binaries are available  [here](https://nodejs.org/en/download/current/). 
+2. Make sure node and npm are added to PATH. To verify, run `node -v` and `npm -v`. 
+3. Install pnpm with `npm install -g pnpm`.
+4. Verify pnpm is installed and on the PATH with `pnpm -v`.
 
-If you're seeing this, you've probably already done this step. Congrats!
+### vscode
+1. Download and install visual studio code.
+2. Install the [svelte extension](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode). 
+3. Install the [prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode).
 
-```bash
-# create a new project in the current directory
-npm init svelte
-
-# create a new project in my-app
-npm init svelte my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## Development
+Clone the repository `git clone https://github.com/skurtz97/fttemusic`, navigate into the directory that was created, and run `pnpm install`. When the install is completed, run `pnpm run dev` to start a development server on port 3000.

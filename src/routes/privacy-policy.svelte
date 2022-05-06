@@ -29,21 +29,29 @@
     align-items: center;
     justify-content: center;
     max-width: 80ch;
+    min-height: 730px;
+    margin: 0 auto;
+    flex: 1;
   }
   p {
     text-align: left;
   }
   a {
-    color: #0157b9;
+    color: var(--link);
     text-decoration: none;
   }
   a:hover {
-    color: #0e63c4;
+    color: var(--link-hover);
     text-decoration: underline;
   }
   @media (max-width: 1000px) {
     div {
       max-width: 60ch;
+    }
+  }
+  @media (max-width: 800px) {
+    div {
+      max-width: 90%;
     }
   }
 </style>

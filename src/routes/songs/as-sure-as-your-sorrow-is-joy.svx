@@ -3,17 +3,18 @@ slug: "as-sure-as-your-sorrow-is-joy"
 title: "As Sure As Your Sorrow Is Joy"
 subtitle: "( I have no fear of dying )"
 date: "2020-10-23"
-youtube_embed_src: "https://www.youtube.com/embed/h_udJ-gV56E"
-soundcloud_embed_src: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642093648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 next: "whered-you-put-the-baby"
 previous: "love-on-the-rocks"
+embeds: 
+ - "https://www.youtube.com/embed/h_udJ-gV56E"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642093648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
+<div slot="intro">
+Our sophomore release is essentially a neo-classical, modern soft rock world-fusion track with a surprisingly ghostly theme. The ethereal piano-viola duet and enchanting flute haunt provocative lyrics about passing from the material world.
 
-## {title}
-### {subtitle}
-
-
+[As Sure As Your Sorrow Is Joy Press Release \[pdf\]](https://drive.google.com/file/d/1J7OkBqhvUlHZsSx6dgO70ZseAj4pVUiw/view?usp=sharing")
+</div>
 
 In the dead of the summer  
 As the moon strikes the sky,  
@@ -50,40 +51,25 @@ As sure as your sorrow is joy.
 
 ***I discovered the various melodic themes that are developed during the course of this rather long, folk-rock march in 3:4 time. For my own pleasure, it is the sort of musical piece, with the intricate bass and drum and percussion elements, that grows affection with each listen.***
 
-<div slot="embeds">
-  <iframe
-        src="https://www.youtube.com/embed/h_udJ-gV56E"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="475"
-        height="315"
-        frameborder="0"
-  />
-  <iframe
-          scrolling="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642093648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
-          width="475"
-          height="300"
-          frameborder="no"
-          title="Soundcloud embed"
-        />
-</div>
 
 <div slot="credits">
   <p>Cover artwork / thumbnail by Ramón Paredes  <a href="https://www.instagram.com/ramonparedes64/">https://www.instagram.com/ramonparedes64/</a><p>
   <p>(Original background painting by Vincent Van Gogh from 1889 and often titled Rising Moon and Haycocks.  Art animation by Jean-Ernst Voigt available on request.)</p>
   <p>Copyright © 1980, 2016    Music & lyrics by Thom Kurtz.    Published by Friends to the End Music (ASCAP).   Sound recording ℗ 2018 by Thom Kurtz.</p>
   <p>Produced & arranged by Thom Kurtz. Co-produced by Tim Dolbear.</p>
-  <br/>
   
-  <p>Viola extraordinaire – Hailey Walterman.</p>
-  <p>Lead vocals and programming – Thom Kurtz.</p>
-  <p>Flute & Piccolo – Sarah Jane Hargis.</p>
-  <p>Congas and Bongos – Nick Tozzo.</p>
-  <p>Drums – Roger Glenn & Wayne Duncan. </p>
-  <p>Backing vocals – Lonnie Trevino Jr.</p>
-  <p>Backing vocals – Lonnie Trevino Jr.</p>
-  <br/>
-  <p>Mixed and recorded by Tim Dolbear, Eclectica Studios.</p>
+  Viola extraordinaire – Hailey Walterman.
+
+  Lead vocals and programming – Thom Kurtz.
+
+  Flute & Piccolo – Sarah Jane Hargis.
+
+  Congas and Bongos – Nick Tozzo.
+
+  Drums – Roger Glenn & Wayne Duncan.
+
+  Backing vocals – Lonnie Trevino Jr.
+  
+  
+  Mixed and recorded by Tim Dolbear, Eclectica Studios.
 </div>

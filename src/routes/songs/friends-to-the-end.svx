@@ -3,14 +3,12 @@ slug: "friends-to-the-end"
 title: "FRIENDS TO THE END"
 subtitle: "[Theme Song]"
 date: "2018-08-19"
-youtube_embed_src: "https://www.youtube.com/embed/MKIV8L-ZB4Y?feature=oembed"
-soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F342356130&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
 next: "lady-with-the-sweetest-song"
 previous: "old-pecan-street"
+embeds:
+ - "https://www.youtube.com/embed/MKIV8L-ZB4Y?feature=oembed"
+ - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F342356130&amp;show_artwork=true&amp;"
 ---
-
-## {title}
-### {subtitle}
 
 I wanna make you my friend.  
 I wanna spend my time with you.  
@@ -53,25 +51,7 @@ Friends to the end, to the end.
 
 ### I used to be a little coy about the true meaning about “Friends to the End,” that this band project is named after the collection of songs, not any particular humans.  This song goes way back, and a few of the sounds used here may take you back to the late 1960s.
 
-<div slot="embeds">
-  <iframe
-        src="https://www.youtube.com/embed/MKIV8L-ZB4Y?feature=oembed"
-        title="YouTube video player"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="475"
-        height="315"
-        frameborder="0"
-  />
-  <iframe
-          scrolling="no"
-          allow="autoplay"
-          src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F342356130&amp;show_artwork=true&amp;"
-          width="475"
-          height="300"
-          frameborder="no"
-          title="Soundcloud embed"
-        />
-</div>
+
 
 <div slot="credits">
 Copyright © 1980, 2016  

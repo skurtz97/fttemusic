@@ -2,9 +2,13 @@
   "extends": "./.svelte-kit/tsconfig.json",
   "compilerOptions": {
     "paths": {
-      "$types/*": ["src/types/*"],
       "$components/*": ["src/components/*"],
-      "$songs/*": ["src/routes/songs/*"]
+      "$songs/*": ["src/routes/songs/*"],
+      "$icons/*": ["src/components/icons/*"],
+      "$utils/*": ["src/utils/*"],
+      "$styles/*": ["src/styles/*"],
+      "$util/*": ["src/util/*"],
+      "$src/*": ["src/*"]
     },
     "allowJs": false,
     "checkJs": false,

@@ -1,7 +1,3 @@
-<script lang="ts">
-  import Container from "$components/container.svelte";
-</script>
-
 <svelte:head>
   <title>Press</title>
 </svelte:head>
@@ -119,11 +115,11 @@
     background-position: center center;
   }
   a {
-    color: #0157b9;
+    color: var(--link);
     text-decoration: none;
   }
   a:hover {
-    color: #0e63c4;
+    color: var(--link-hover);
     text-decoration: underline;
   }
 

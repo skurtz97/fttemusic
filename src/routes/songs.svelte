@@ -1,5 +1,15 @@
 <script lang="ts" context="module">
-  import type { SongPageMetadata } from "$types/global";
+  export interface SongPageMetadata {
+    slug: string;
+    title: string;
+    subtitle: string;
+    date: string;
+    next: string;
+    previous: string;
+    embeds: string[];
+    image?: string;
+  }
+
   import type { Load } from "@sveltejs/kit";
   import type { get } from "./songs/api/songs.json";
   type Params = {};
@@ -9,7 +19,6 @@
   export const load: Load<Params, InputProps, OutputProps> = async ({ fetch }) => {
     const res = await fetch("/songs/api/songs.json");
     const body = await res.json();
-    console.log(body);
     return {
       props: {
         songs: body.songs
@@ -20,8 +29,16 @@
 
 <script lang="ts">
   import Accordion from "$components/accordion.svelte";
-
+  import Spinner from "$components/spinner.svelte";
   export let songs: SongPageMetadata[];
+  // if the metadata has an image, use it, otherwise get the image url from the song slug
+  const getImagePath = (metadata: SongPageMetadata) => {
+    if (metadata.image) {
+      return metadata.image;
+    } else {
+      return `/images/songs/${metadata.slug.replace(".svx", "")}.jpg`;
+    }
+  };
 </script>
 
 <svelte:head>
@@ -34,14 +51,10 @@
   <div class="grid">
     {#each songs as song}
       <a href={`/songs/${song.slug}`} rel="prefetch">
-        <img
-          class="song"
-          src={song.image !== ""
-            ? `/images/songs/${song.image}`
-            : `/images/songs/${song.slug.replace(".svx", "")}.jpg`}
-          alt={`Picture of ${song.title}`}
-        />
+        <img class="song" src={getImagePath(song)} alt={`Picture of ${song.title}`} />
       </a>
+    {:else}
+      <Spinner />
     {/each}
   </div>
   <Accordion title="Song Credits">
@@ -84,10 +97,17 @@
 <style>
   .container {
     text-align: center;
-    margin-bottom: 2rem auto;
+    margin: 2rem auto;
     display: flex;
     flex-direction: column;
   }
+  h1 {
+    margin-bottom: 1rem;
+  }
+  h2 {
+    margin-bottom: 2rem;
+  }
+
   :global(.container > .accordion > .content) {
     text-align: left;
   }
@@ -110,7 +130,7 @@
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    background-position: center center;
+    background-position: center bottom;
   }
   .grid {
     width: 100%;
@@ -133,6 +153,9 @@
     height: 100%;
     object-fit: cover;
   }
+  :global(.accordion) {
+    max-width: 900px;
+  }
   @media (max-width: 850px) {
     .grid {
       width: 100%;
@@ -150,13 +173,11 @@
     }
     #container {
       max-width: 700px;
-      margin: 0 auto;
     }
   }
   @media (max-width: 725px) {
     #container {
       max-width: 600px;
-      margin: 0 auto;
     }
     .grid {
       max-width: 600px;
@@ -165,7 +186,6 @@
   @media (max-width: 650px) {
     #container {
       max-width: 500px;
-      margin: 0 auto;
     }
     .grid {
       max-width: 500px;
@@ -174,7 +194,6 @@
   @media (max-width: 500px) {
     #container {
       max-width: 400px;
-      margin: 0 auto;
     }
     .grid {
       max-width: 400px;
@@ -185,7 +204,6 @@
   @media (max-width: 420px) {
     #container {
       max-width: 300px;
-      margin: 0 auto;
     }
     .grid {
       max-width: 300px;
