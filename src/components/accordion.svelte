@@ -54,6 +54,14 @@
     height: auto;
     stroke: #f7f7f7, #0c0c77;
   }
+  :global(.accordion a) {
+    color: var(--link);
+    text-decoration: none;
+  }
+  :global(.accordion:hover) {
+    cursor: pointer;
+    color: var(--link-hover);
+  }
   .open {
     transform: rotate(180deg);
   }
