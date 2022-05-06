@@ -10,6 +10,12 @@ embeds:
  - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642093648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
+<div slot="intro">
+Our sophomore release is essentially a neo-classical, modern soft rock world-fusion track with a surprisingly ghostly theme. The ethereal piano-viola duet and enchanting flute haunt provocative lyrics about passing from the material world.
+
+[As Sure As Your Sorrow Is Joy Press Release \[pdf\]](https://drive.google.com/file/d/1J7OkBqhvUlHZsSx6dgO70ZseAj4pVUiw/view?usp=sharing")
+</div>
+
 In the dead of the summer  
 As the moon strikes the sky,  
 You summon old soldiers  

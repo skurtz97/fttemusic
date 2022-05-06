@@ -3,13 +3,20 @@ slug: "whered-you-put-the-baby"
 title: "Where'd You Put The Baby?"
 subtitle: "( You threw out the bath water.)"
 date: "2020-11-12"
-next: "poetry-pop"
-previous: "falling-for-the-flash"
+next:  "a-world-of-troubles"
+previous: "as-sure-as-your-sorrow-is-joy"
 embeds: 
  - "https://www.youtube.com/embed/iCaQE-hg93w?feature=oembed"
  - "https://open.spotify.com/embed/track/44dSx5Kwh4lhJvrYLxyAnP"
 ---
 
+<div slot="intro">
+Do fearless leaders have a clue what they do when they throw out the old ways & leave everyone in the lurch? “Don’t throw the baby out with the bath water” is the adage that inspires the sparsely arranged guitar and synth-laden track.
+
+Friends To The End returned in the summer of 2021 with the fourth single in the debut series with a pivot to new wave sounds.
+
+[Where'd You Put The Baby ? Press Release \[pdf\]](https://drive.google.com/file/d/15m1eqK3exxrZeQZ4DeaTg19tmUDbyF2p/view?usp=sharing)
+</div>
 Where’d you put the baby?  
 Where’d you put the baby?  
 

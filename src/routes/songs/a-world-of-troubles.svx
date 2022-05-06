@@ -3,12 +3,25 @@ slug: "a-world-of-troubles"
 title: "A World Of Troubles"
 subtitle: "( A trumpet calls a nation to heal. )"
 date: "2020-12-29"
-next: "robot-oddity"
 previous: "whered-you-put-the-baby"
+next: "robot-oddity"
 embeds: 
  - "https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed"
  - "https://open.spotify.com/embed/track/44dSx5Kwh4lhJvrYLxyAnP"
 ---
+
+<div slot="intro">
+<em>'A World of Troubles'</em> is the optimistic, sunny reprieve in our catalogue of recent work.  
+
+The lyrics are about constant elements, like the sea and the sky, as well as the disappointments in life. So, look up. There’s hope for better days ahead.  
+
+1000s of my fans have been watching the music video released on New Years Day 2021.  Now the digital single is ready on Spotify, Apple Music and the others.  
+
+[A World of Troubles Press Release \[pdf\]](https://drive.google.com/file/d/1J7OkBqhvUlHZsSx6dgO70ZseAj4pVUiw/view?usp=sharing)
+</div>
+
+
+The lyrics are about constant elements, like the sea and the sky, as well as the disappointments in life. So, look up. There’s hope for better days ahead.
 
 A world of troubles is far too many pins bursting bubbles,   
 Even though you didn’t ask for any.  

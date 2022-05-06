@@ -116,6 +116,9 @@
 </svelte:head>
 
 <div class="container">
+  <div class="intro">
+    <slot name="intro" />
+  </div>
   <div class="content">
     <section class="text">
       <h1 class="title">{title}</h1>
@@ -138,7 +141,14 @@
             </div>
           {:else if embed.includes("spotify")}
             <div class="embed-container">
-              <iframe src={embed} width=" 531" height="300" frameborder="0" title="Spotify embed" />
+              <iframe
+                src={embed}
+                width=" 531"
+                height="300"
+                frameborder="0"
+                title="Spotify embed"
+                class="spotify-embed"
+              />
             </div>
           {:else if embed.includes("soundcloud")}
             <div class="embed-container">
@@ -236,6 +246,16 @@
     max-width: 80ch;
     width: 80ch;
   }
+  :global(.intro) {
+    max-width: 80ch;
+  }
+  :global(.intro a) {
+    color: var(--link);
+    text-decoration: none;
+  }
+  :global(.intro a:hover) {
+    color: var(--link-hover);
+  }
   .subtitle {
     font-weight: bold;
   }
@@ -294,9 +314,11 @@
     height: 500px;
   }
   .credits {
-    margin: 0 auto;
     width: 1040px;
     max-width: 1040px;
+  }
+  :global(.credits .accordion) {
+    min-width: 100%;
   }
   .links {
     margin: 0 auto;
@@ -343,6 +365,15 @@
     .links {
       max-width: 90%;
       width: 90%;
+    }
+    .text {
+      max-width: 90%;
+      width: 90%;
+    }
+  }
+  @media (max-width: 500px) {
+    .spotify-embed {
+      max-height: 80px;
     }
   }
 </style>
