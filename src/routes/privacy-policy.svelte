@@ -29,7 +29,9 @@
     align-items: center;
     justify-content: center;
     max-width: 80ch;
+    min-height: 730px;
     margin: 0 auto;
+    flex: 1;
   }
   p {
     text-align: left;
