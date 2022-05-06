@@ -388,6 +388,10 @@
     }
   }
   @media (max-width: 500px) {
+    .multiple-instagram-container {
+      display: flex;
+      flex-direction: column;
+    }
     .spotify-embed {
       max-height: 80px;
     }
