@@ -153,6 +153,9 @@
     height: 100%;
     object-fit: cover;
   }
+  :global(.accordion) {
+    max-width: 900px;
+  }
   @media (max-width: 850px) {
     .grid {
       width: 100%;

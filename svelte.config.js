@@ -20,6 +20,7 @@ const config = {
           $icons: resolve("./src/components/icons"),
           $utils: resolve("./src/utils"),
           $styles: resolve("./src/styles"),
+          $util: resolve("./src/util"),
           $src: resolve("./src")
         }
       }
