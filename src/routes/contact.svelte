@@ -60,23 +60,6 @@
   <a class="foundee-link" href="found.ee/ftte" target="_blank" rel="noopener"
     >Streaming Platform Links</a
   >
-  <div class="social-btns">
-    <a
-      class="btn-instagram"
-      href="https://www.instagram.com/friendstotheendmusic/"
-      target="_blank"
-      rel="noopener"
-    >
-      <Instagram />
-      Instagram
-    </a>
-    <a
-      class="btn-soundcloud"
-      href="https://soundcloud.com/friendstotheend"
-      target="_blank"
-      rel="noopener">Soundcloud</a
-    >
-  </div>
   <p>
     <strong
       >FROM THE FOUNDER AND PRODUCER OF EVERY SORT OF DIY THING FOR FRIENDS TO THE END
@@ -164,12 +147,7 @@
     border: none;
     box-shadow: 1px 1px 1px #ccc;
   }
-  .social-btns {
-    display: flex;
-    flex-direction: row;
-    width: 100%;
-    justify-content: space-evenly;
-  }
+
   .btn-donate {
     border-radius: 50em;
     color: #fefefe;
@@ -184,22 +162,7 @@
     background-color: #82a5f3;
     cursor: pointer;
   }
-  .btn-instagram {
-    border-radius: 50em;
-    color: #fefefe;
-    font-weight: 500;
-    text-decoration: none;
-    padding: 0.8em 1.875em;
-    background-color: #4d7de1;
-    border: 1px solid #0000000d;
-    margin-bottom: 2rem;
-    display: flex;
-    justify-content: center;
-  }
-  .btn-instagram:hover {
-    background-color: #82a5f3;
-    cursor: pointer;
-  }
+
   :global(.btn-instagram > svg) {
     width: 22px;
     height: 22px;
@@ -208,22 +171,7 @@
   :global(.btn-instagram > svg:hover) {
     color: #ffffff;
   }
-  .btn-soundcloud {
-    border-radius: 50em;
-    color: #fefefe;
-    font-weight: 500;
-    text-decoration: none;
-    padding: 0.85em 1.875em;
-    background-color: #ff9600;
-    border: 1px solid #0000000d;
-    margin-bottom: 2rem;
-    display: flex;
-    flex-direction: row;
-  }
-  .btn-soundcloud:hover {
-    cursor: pointer;
-    background-color: #f8b75c;
-  }
+
   .signoff {
     width: 100%;
     text-align: left;
