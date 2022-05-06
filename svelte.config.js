@@ -1,4 +1,4 @@
-import adapter from "@sveltejs/adapter-static";
+import adapter from "@sveltejs/adapter-auto";
 import preprocess from "svelte-preprocess";
 import { resolve } from "path";
 import { mdsvex } from "mdsvex";
@@ -16,8 +16,11 @@ const config = {
       resolve: {
         alias: {
           $components: resolve("./src/components"),
-          $types: resolve("./src/types"),
-          $songs: resolve("./src/routes/songs")
+          $songs: resolve("./src/routes/songs"),
+          $icons: resolve("./src/components/icons"),
+          $utils: resolve("./src/utils"),
+          $styles: resolve("./src/styles"),
+          $src: resolve("./src")
         }
       }
     },

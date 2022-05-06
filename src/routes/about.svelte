@@ -1,6 +1,5 @@
 <script lang="ts">
   import Accordion from "$components/accordion.svelte";
-  import Container from "$components/container.svelte";
   import Banner from "$components/banner.svelte";
 </script>
 

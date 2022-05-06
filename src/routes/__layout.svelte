@@ -1,10 +1,11 @@
 <script lang="ts">
-  import "../styles/global.css";
+  import "$src/normalize.css";
+  import "$src/app.css";
   import Footer from "$components/footer.svelte";
-  import Betterheader from "$components/betterheader.svelte";
+  import Header from "$components/header.svelte";
 </script>
 
-<Betterheader />
+<Header />
 <main>
   <slot />
 </main>

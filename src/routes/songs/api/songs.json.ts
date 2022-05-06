@@ -1,7 +1,7 @@
 import type { RequestHandler } from "@sveltejs/kit";
-import type { SongPageMetadata } from "$types/global";
+import type { SongPageMetadata } from "src/routes/songs.svelte";
 
-/** @type {import('@sveltejs/kit').RequestHandler<{}} */
+/** @type {import('@sveltejs/kit').RequestHandler<{}>} */
 export const get = async () => {
   // import blobs of every song page in src/routes/songs directory
   const blobs = import.meta.glob("../*.svx");
@@ -13,15 +13,8 @@ export const get = async () => {
     iterable.map(async ([slug, blob]) => {
       // read metadata from blob and wait
       const { metadata } = await blob();
-      // return SongPageMetadata object
-      return {
-        slug: slug.replace("../", "").replace(".svx", ""),
-        image: metadata.image ? metadata.image : "",
-        title: metadata.title,
-        date: metadata.date,
-        next: metadata.next,
-        previous: metadata.previous
-      };
+      // return a new SongPageMetadata object with the slug and metadata
+      return { ...metadata };
     })
   );
   // sort songs by date

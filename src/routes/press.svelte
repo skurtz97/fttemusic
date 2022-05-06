@@ -1,7 +1,3 @@
-<script lang="ts">
-  import Container from "$components/container.svelte";
-</script>
-
 <svelte:head>
   <title>Press</title>
 </svelte:head>

@@ -3,16 +3,15 @@ slug: "falling-for-the-flash"
 title: "Falling for the Flash"
 subtitle: "( A micro rock opera )"
 date: "2019-11-12"
-soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F466540035&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165&amp;secret_token=s-rT9Gz"
-instagram_embed_src: "https://www.instagram.com/p/B0ZHcR9AYuU/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A0%2C%22os%22%3A4311%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
-instagram_embed_src_2: "https://www.instagram.com/p/BxNUZyoFeiM/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A1%2C%22os%22%3A4320%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
-instagram_embed_src_3: "https://www.instagram.com/p/BzgEU5iFTFa/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A2%2C%22os%22%3A4329%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
 next: "whered-you-put-the-baby"
 previous: "club-iguana"
+embeds:
+ - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F466540035&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165&amp;secret_token=s-rT9Gz"
+ - "https://www.instagram.com/p/B0ZHcR9AYuU/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A0%2C%22os%22%3A4311%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
+ -  "https://www.instagram.com/p/BxNUZyoFeiM/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp    2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A1%2C%22os%22%3A4320%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
+ - "https://www.instagram.com/p/BzgEU5iFTFa/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&a p;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A2%2C%22os%22%3A4329%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
 ---
 
-## {title}
-### {subtitle}
 
 Drunk driver in a Porsche or a Corvette  
 Falling for the Flash  

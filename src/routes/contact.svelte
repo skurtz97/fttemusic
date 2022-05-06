@@ -1,5 +1,4 @@
 <script lang="ts">
-  import Container from "$components/container.svelte";
   import Banner from "$components/banner.svelte";
   import Instagram from "$components/icons/instagram.svelte";
   import Accordion from "$components/accordion.svelte";

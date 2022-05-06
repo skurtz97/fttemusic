@@ -3,14 +3,16 @@ slug: "friends-to-the-end"
 title: "FRIENDS TO THE END"
 subtitle: "[Theme Song]"
 date: "2018-08-19"
-youtube_embed_src: "https://www.youtube.com/embed/MKIV8L-ZB4Y?feature=oembed"
-soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F342356130&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
 next: "lady-with-the-sweetest-song"
 previous: "old-pecan-street"
+embeds:
+ - "https://www.youtube.com/embed/MKIV8L-ZB4Y?feature=oembed"
+ - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F342356130&amp;show_artwork=true&amp;"
 ---
 
 ## {title}
-### {subtitle}
+
+{subtitle}
 
 I wanna make you my friend.  
 I wanna spend my time with you.  

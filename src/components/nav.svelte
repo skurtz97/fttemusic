@@ -1,5 +1,11 @@
+<script lang="ts" context="module">
+  export interface Link {
+    href: string;
+    text?: string;
+  }
+</script>
+
 <script lang="ts">
-  import type { Link } from "$types/global";
   import Envelope from "./icons/envelope.svelte";
   export let brand = "My Brand";
   export let links: Link[] = [

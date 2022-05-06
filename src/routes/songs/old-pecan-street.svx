@@ -3,14 +3,16 @@ slug: "old-pecan-street"
 title: "OLD PECAN STREET [feat. the Fantasma Horns]"
 subtitle: "( Once upon a time in the 20th century...)"
 date: "2018-02-11"
-soundcloud_embed_src: "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F557782008&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
-youtube_embed_src: "https://www.youtube.com/embed/iZA1eU6o4og?feature=oembed"
 next: "friends-to-the-end"
 previous: "soap-creek-saloon"
+embeds: 
+ - "https://www.youtube.com/embed/iZA1eU6o4og?feature=oembed"
+ - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F557782008&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
 ---
 
 ## {title}
-### {subtitle}
+
+{subtitle}
 
 A praying mantis, cocky caterpillar —   
 After the bricks drop and the dust settles  

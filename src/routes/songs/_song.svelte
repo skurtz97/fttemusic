@@ -5,6 +5,7 @@
 
   //@ts-nocheck
   export let title;
+  export let subtitle;
   export let next;
   export let previous;
   let hoverLeft = false;
@@ -33,6 +34,8 @@
 <div class="outer">
   <div class="inner">
     <div class="content">
+      <h1 class="title">{title}</h1>
+      <p class="subtitle">{subtitle}</p>
       <slot />
     </div>
     <div class="embeds">
@@ -65,40 +68,44 @@
 </div>
 
 <style>
+  .title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    text-align: left;
+  }
+  .subtitle {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-align: left;
+  }
+  :global(p) {
+    margin-bottom: 1rem;
+    text-align: left;
+  }
   .outer {
-    width: 90%;
-    margin: 4rem auto;
+    margin: 4rem 1rem;
     display: flex;
     flex-direction: column;
-    flex: 1;
   }
-
   .inner {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
   }
-  .content {
-    max-width: 80ch;
-    width: 80ch;
-    min-width: 40%;
-  }
   .embeds {
-    margin-left: 4rem;
-    min-width: 40%;
-    height: 100%;
+    margin-left: 2rem;
   }
-  :global(.embeds > div) {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    justify-content: center;
-    align-items: center;
+  .content {
+    margin-bottom: 2rem;
+    max-width: 80ch;
   }
   :global(.embeds > div > iframe) {
     margin-bottom: 1rem;
   }
+
   :global(.outer > .accordion) {
     text-align: left;
     width: 90%;
@@ -113,6 +120,7 @@
     text-decoration: underline;
     color: #0e63c4;
   }
+
   .links {
     width: 90%;
     max-width: 90%;
@@ -138,6 +146,16 @@
     text-decoration: underline;
   }
 
+  @media (max-width: 1100px) {
+    .inner {
+      flex-direction: column;
+    }
+    .embeds {
+      margin-left: 0;
+    }
+  }
+
+  /*
   @media (max-width: 1100px) {
     .inner {
       flex-direction: column;
@@ -209,4 +227,5 @@
       width: 30ch;
     }
   }
+  */
 </style>

@@ -1,15 +1,14 @@
 ---
 slug: "a-world-of-troubles"
 title: "A World Of Troubles"
-subtitle: "( And they called me the Magic Man )"
+subtitle: "( A trumpet calls a nation to heal. )"
 date: "2020-12-29"
 next: "robot-oddity"
 previous: "whered-you-put-the-baby"
+embeds: 
+ - "https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed"
+ - "https://open.spotify.com/embed/track/2c4uv77S7A3SpOe3XQFqU4"
 ---
-
-## {title}
-### {subtitle}
-
 
 A world of troubles is far too many pins bursting bubbles,   
 Even though you didn’t ask for any.  
@@ -53,21 +52,26 @@ The science is clear, but the strategy is dark as night.
 
 
 <div slot="embeds">
-  <iframe
+<div>
+ <iframe
         src="https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed"
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="475"
-        height="315"
+        width="531"
+        height="300"
         frameborder="0"
   />
+</div>
+ <div>
   <iframe
         src="https://open.spotify.com/embed/track/2c4uv77S7A3SpOe3XQFqU4"
-        width="475"
-        height="315"
+        width=" 531"
+        height="300"
         frameborder="0"
         title="Spotify embed"
         />
+ </div>
+ 
 </div>
 
 <div slot="credits">

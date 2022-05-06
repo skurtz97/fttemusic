@@ -3,17 +3,12 @@ slug: "as-sure-as-your-sorrow-is-joy"
 title: "As Sure As Your Sorrow Is Joy"
 subtitle: "( I have no fear of dying )"
 date: "2020-10-23"
-youtube_embed_src: "https://www.youtube.com/embed/h_udJ-gV56E"
-soundcloud_embed_src: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642093648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 next: "whered-you-put-the-baby"
 previous: "love-on-the-rocks"
+embeds: 
+ - "https://www.youtube.com/embed/h_udJ-gV56E"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/642093648&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
-
-
-## {title}
-### {subtitle}
-
-
 
 In the dead of the summer  
 As the moon strikes the sky,  
