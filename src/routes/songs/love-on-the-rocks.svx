@@ -10,6 +10,12 @@ embeds:
  - "https://open.spotify.com/embed/track/2xeIIZOWPG5MuGzrYX23ke"
 ---
 
+<div slot="intro">
+The first of four music video releases that started in 2020, marking our debut as the Modern soft rock event of the decade.
+
+[Love On The Rocks (Shipwrecked) Press Release \[pdf\]](https://drive.google.com/file/d/1YG9GG7WsaKWhZw8bS6LBihn-dF7G0UMX/view?usp=sharing)
+</div>
+
 When you needed somebody, I held you.  
 When you needed true love, how I loved you!  
 My wayward love upon the rocks, too good to be true . . .  
@@ -46,11 +52,6 @@ I can’t deny my secret thoughts.
 You never stop to say good-bye —  
 Oh, my love, on the rocks before my eyes!  
 
-<div slot="intro">
-The first of four music video releases that started in 2020, marking our debut as the Modern soft rock event of the decade.
-
-[Love On The Rocks (Shipwrecked) Press Release \[pdf\]](https://drive.google.com/file/d/1YG9GG7WsaKWhZw8bS6LBihn-dF7G0UMX/view?usp=sharing)
-</div>
 
 ***This was one of the first tracks recorded when Tim Dolbear was teaching me how to produce studio recordings. I was learning what studio recording was all about. When I discovered a great singing talent in my backyard, Julia Courtney, who had astonishingly landed the lead role in her high school musical theater production of Once Upon A Mattress, made famous by Carol Burnett, I decided “Love On The Rocks (Shipwrecked)” was a perfect fit. I was also not ready to sing such a demanding vocal recording myself, so settled for the quaint male vocal cameo you hear briefly at the start of each verse.***
 

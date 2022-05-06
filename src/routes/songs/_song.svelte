@@ -140,7 +140,7 @@
               />
             </div>
           {:else if embed.includes("spotify")}
-            <div class="embed-container">
+            <div class="embed-container-spotify">
               <iframe
                 src={embed}
                 width=" 531"
@@ -274,6 +274,22 @@
     height: 0;
     overflow: hidden;
     margin-bottom: 2rem;
+  }
+  .embed-container-spotify {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 2rem;
+    width: 100%;
+  }
+  .embed-container-spotify iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
   }
   .embed-container iframe {
     position: absolute;
