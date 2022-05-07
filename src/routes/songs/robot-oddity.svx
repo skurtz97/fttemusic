@@ -51,7 +51,6 @@ Warm and wild inside an iron can.
 <div slot="credits">
       <p>Makeup art by Meredith Johns for Hawgfly Productions.</p>
       <p>Vocals, keys, programming and recording – Thom Kurtz.</p>
-      <p>Vocals, keys, programming and recording – Thom Kurtz.</p>
       <p>Drums – Zach Ballard. Mixing and drum recording by Tim Dolbear, Eclectica Studios.</p>
       <p>Written, Arranged & Produced by Thom Kurtz.  Copyright © 1978, 2021 Lyrics and Music by Thomas Kurtz  Sound recording ℗ 2021 by Friends to the End Music  All rights reserved. For licensing, <a href="mailto:fttemusic@gmail.com" target="_blank" rel="noopener">fttemusic@gmail.com</a></p>
 </div>
