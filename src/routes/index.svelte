@@ -79,19 +79,19 @@
 <style>
   div {
     width: 70ch;
-    margin: 2rem auto;
+    margin: 0.5rem auto;
   }
   h1 {
     text-align: center;
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
   h2 {
     margin: 0;
     text-align: center;
-    margin: 0 0 2rem 0;
+    margin: 0 0 0.5rem 0;
   }
   p {
-    margin-bottom: 1rem;
+    margin-bottom: 0.5rem;
   }
   a {
     color: #0157b9;
@@ -102,7 +102,7 @@
     text-decoration: underline;
   }
   .spotify-playlist {
-    margin-bottom: 2rem;
+    margin-bottom: 0.5rem;
   }
   .videos {
     display: flex;
