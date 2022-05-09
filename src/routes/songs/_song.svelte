@@ -50,7 +50,7 @@
   export let next;
   export let previous;
   export let embeds;
-
+  console.log(embeds);
   let hoverLeft = false;
   let hoverRight = false;
 
@@ -181,22 +181,34 @@
           {/if}
         {/each}
       </div>
-    {:else}
+    {:else if title === "Falling for the Flash"}
       <div class="embeds">
+        <div class="embed-container" id="embed-container">
+          <iframe
+            scrolling="no"
+            src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F466540035&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165&amp;secret_token=s-rT9Gz"
+            height="315"
+            width="475"
+            frameborder="no"
+            title="Soundcloud embed"
+          />
+        </div>
         <div class="multiple-instagram-container">
           {#each instagramEmbeds() as embed, index}
-            <div class={`instagram-container ${indexToOrdinal(index)}`}>
-              <iframe
-                class="instagram-media instagram-media-rendered"
-                src={embed}
-                allowtransparency="true"
-                allowfullscreen="true"
-                data-instgrm-payload-id="instagram-media-payload-0"
-                scrolling="no"
-                frameborder="0"
-                title="Instagram Embed"
-              />
-            </div>
+            {#if embed.includes("instagram")}
+              <div class={`instagram-container ${indexToOrdinal(index)}`}>
+                <iframe
+                  class="instagram-media instagram-media-rendered"
+                  src={embed}
+                  allowtransparency="true"
+                  allowfullscreen="true"
+                  data-instgrm-payload-id="instagram-media-payload-0"
+                  scrolling="no"
+                  frameborder="0"
+                  title="Instagram Embed"
+                />
+              </div>
+            {/if}
           {/each}
         </div>
       </div>
@@ -399,10 +411,11 @@
       padding-bottom: 56.25%;
     }
   }
-  @media (max-width: 500px) {
+  @media (max-width: 700px) {
     .multiple-instagram-container {
       display: flex;
       flex-direction: column;
+      align-items: center;
     }
     .spotify-embed {
       max-height: 80px;
