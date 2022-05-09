@@ -422,15 +422,18 @@
     }
     .content {
       margin-bottom: 0;
+      width: 98%;
+      min-width: 98%;
     }
     .embeds {
       margin-bottom: 0;
-      margin-right: 20px;
+      margin-right: 30px;
       width: 100%;
+      min-width: 100%;
     }
     .embed-container-spotify {
       margin-bottom: 0;
-      padding-bottom: 20%;
+      padding-bottom: 15%;
     }
   }
 </style>
