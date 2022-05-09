@@ -151,7 +151,7 @@
               />
             </div>
           {:else if embed.includes("soundcloud")}
-            <div class="embed-container">
+            <div class="embed-container" id="embed-container">
               <iframe
                 scrolling="no"
                 src={embed}
@@ -298,6 +298,9 @@
     width: 100%;
     height: 100%;
   }
+  :last-of-type(#embed-container) {
+    margin-bottom: 0;
+  }
   .insta-container {
     position: relative;
     padding-bottom: 73%;
@@ -373,6 +376,7 @@
       max-width: 90%;
       width: 90%;
       margin: 2rem auto;
+      margin-bottom: 0;
     }
     .credits {
       max-width: 90%;
@@ -394,6 +398,12 @@
     }
     .spotify-embed {
       max-height: 80px;
+    }
+    .content {
+      margin-bottom: 0;
+    }
+    .embeds {
+      margin-bottom: 0;
     }
   }
 </style>
