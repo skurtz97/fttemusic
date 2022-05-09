@@ -97,15 +97,15 @@
 <style>
   .container {
     text-align: center;
-    margin: 2rem auto;
+    margin: 0.5rem auto;
     display: flex;
     flex-direction: column;
   }
   h1 {
-    margin-bottom: 1rem;
+    margin-bottom: 0rem;
   }
   h2 {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 
   :global(.container > .accordion > .content) {
