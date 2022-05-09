@@ -394,6 +394,10 @@
       max-width: 90%;
       width: 90%;
     }
+    .embed-container-spotify {
+      margin-bottom: 0;
+      padding-bottom: 56.25%;
+    }
   }
   @media (max-width: 500px) {
     .multiple-instagram-container {
@@ -408,6 +412,10 @@
     }
     .embeds {
       margin-bottom: 0;
+    }
+    .embed-container-spotify {
+      margin-bottom: 0;
+      padding-bottom: 20%;
     }
   }
 </style>
