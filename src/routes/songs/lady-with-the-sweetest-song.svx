@@ -7,7 +7,7 @@ next: "club-iguana"
 previous: "friends-to-the-end"
 embeds:
  - "https://www.youtube.com/embed/VdAOUIDrwTI?feature=oembed"
- - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F449719695&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/449719695&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
 ## {title}

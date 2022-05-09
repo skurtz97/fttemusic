@@ -6,7 +6,7 @@ date: "2019-11-12"
 next: "poetry-pop"
 previous: "club-iguana"
 embeds:
- - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F466540035&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165&amp;secret_token=s-rT9Gz"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/466540035&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true;secret_token=s-rT9Gz"
  - "https://www.instagram.com/p/B0ZHcR9AYuU/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A0%2C%22os%22%3A4311%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
  -  "https://www.instagram.com/p/BxNUZyoFeiM/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&amp;rp    2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A1%2C%22os%22%3A4320%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
  - "https://www.instagram.com/p/BzgEU5iFTFa/embed/captioned/?cr=1&amp;v=14&amp;wp=377&amp;rd=https%3A%2F%2Ffriendstotheend.net&a p;rp=%2Fsongs%2Ffalling-for-the-flash%2F#%7B%22ci%22%3A2%2C%22os%22%3A4329%2C%22ls%22%3A4170%2C%22le%22%3A4291%7D"
