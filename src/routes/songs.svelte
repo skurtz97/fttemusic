@@ -50,7 +50,7 @@
   <h2>Modern Soft Rock, Curiously Original</h2>
   <div class="grid">
     {#each songs as song}
-      <a href={`/songs/${song.slug}`} rel="prefetch">
+      <a href={`/songs/${song.slug}`}>
         <img class="song" src={getImagePath(song)} alt={`Picture of ${song.title}`} />
       </a>
     {:else}
