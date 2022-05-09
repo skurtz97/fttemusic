@@ -3,7 +3,7 @@ slug: "a-world-of-troubles"
 title: "A World Of Troubles"
 subtitle: "( A trumpet calls a nation to heal. )"
 date: "2020-12-29"
-previous: "whered-you-put-the-baby"
+previous: "as-sure-as-your-sorrow-is-joy"
 next: "robot-oddity"
 embeds: 
  - "https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed"

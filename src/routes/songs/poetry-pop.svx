@@ -4,7 +4,7 @@ title: "Poetry Pop"
 subtitle: "( Sound and Vision Collide. )"
 date: "2020-02-28"
 next: "love-on-the-rocks"
-previous: "falling-for-the-flash"
+previous: "whered-you-put-the-baby"
 embeds:
  - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/747962755&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---

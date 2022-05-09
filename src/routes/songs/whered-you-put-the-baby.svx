@@ -2,9 +2,9 @@
 slug: "whered-you-put-the-baby"
 title: "Where'd You Put The Baby?"
 subtitle: "( You threw out the bath water.)"
-date: "2020-11-12"
-next:  "a-world-of-troubles"
-previous: "as-sure-as-your-sorrow-is-joy"
+date: "2020-02-27"
+next:  "poetry-pop"
+previous: "falling-for-the-flash"
 embeds: 
  - "https://www.youtube.com/embed/iCaQE-hg93w?feature=oembed"
  - "https://open.spotify.com/embed/track/44dSx5Kwh4lhJvrYLxyAnP"
