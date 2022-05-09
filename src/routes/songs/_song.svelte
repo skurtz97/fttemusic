@@ -61,10 +61,14 @@
    * @returns {string} The title of the song page
    */
   function slugToTitle(slug) {
+    if (slug === "whered-you-put-the-baby") {
+      return "Where'd You Put The Baby";
+    }
     let words = slug.replace(/-/g, " ").split(" ");
     for (let i = 0; i < words.length; i++) {
       words[i] = words[i].charAt(0).toUpperCase() + words[i].slice(1);
     }
+    // if slug is "whered-you-put-the-baby"
     return words.join(" ");
   }
   /**

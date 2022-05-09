@@ -4,7 +4,7 @@ title: "A World Of Troubles"
 subtitle: "( A trumpet calls a nation to heal. )"
 date: "2020-12-29"
 previous: "as-sure-as-your-sorrow-is-joy"
-next: "robot-oddity"
+next: "whered-you-put-the-baby"
 embeds: 
  - "https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed"
  - "https://open.spotify.com/embed/track/44dSx5Kwh4lhJvrYLxyAnP"
