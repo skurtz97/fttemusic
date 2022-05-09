@@ -384,27 +384,27 @@
       max-width: 90%;
     }
     .content {
-      max-width: 90%;
-      width: 90%;
+      max-width: 97%;
+      width: 97%;
       flex-direction: column;
     }
     .embeds {
-      max-width: 90%;
-      width: 90%;
+      max-width: 97%;
+      width: 97%;
       margin: 2rem auto;
       margin-bottom: 0;
     }
     .credits {
-      max-width: 90%;
-      width: 90%;
+      max-width: 97%;
+      width: 97%;
     }
     .links {
-      max-width: 90%;
-      width: 90%;
+      max-width: 97%;
+      width: 97%;
     }
     .text {
-      max-width: 90%;
-      width: 90%;
+      max-width: 97%;
+      width: 97%;
     }
     .embed-container-spotify {
       margin-bottom: 0;
