@@ -11,7 +11,8 @@ embeds:
 ---
 
 <div slot="intro">
-<em>'A World of Troubles'</em> is the optimistic, sunny reprieve in our catalogue of recent work.  
+
+<em>'A World of Troubles'</em> is the optimistic, sunny reprieve in our catalogue of recent work.
 
 The lyrics are about constant elements, like the sea and the sky, as well as the disappointments in life. So, look up. There’s hope for better days ahead.  
 

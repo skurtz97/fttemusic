@@ -11,6 +11,7 @@ embeds:
 ---
 
 <div slot="intro">
+
 Our sophomore release is essentially a neo-classical, modern soft rock world-fusion track with a surprisingly ghostly theme. The ethereal piano-viola duet and enchanting flute haunt provocative lyrics about passing from the material world.
 
 [As Sure As Your Sorrow Is Joy Press Release \[pdf\]](https://drive.google.com/file/d/1J7OkBqhvUlHZsSx6dgO70ZseAj4pVUiw/view?usp=sharing")
