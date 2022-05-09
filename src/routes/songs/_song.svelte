@@ -380,8 +380,8 @@
 
   @media (max-width: 1200px) {
     .container {
-      width: 90%;
-      max-width: 90%;
+      width: 97%;
+      max-width: 97%;
     }
     .content {
       max-width: 97%;
@@ -425,6 +425,8 @@
     }
     .embeds {
       margin-bottom: 0;
+      margin-right: 20px;
+      width: 100%;
     }
     .embed-container-spotify {
       margin-bottom: 0;
