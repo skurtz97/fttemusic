@@ -424,12 +424,15 @@
       margin-bottom: 0;
       width: 98%;
       min-width: 98%;
+      margin: 0 auto;
+      display: flex;
+      padding: 0;
     }
     .embeds {
-      margin-bottom: 0;
-      margin-right: 30px;
-      width: 100%;
-      min-width: 100%;
+      width: 98%;
+      min-width: 98%;
+      display: flex;
+      justify-content: center;
     }
     .embed-container-spotify {
       margin-bottom: 0;
