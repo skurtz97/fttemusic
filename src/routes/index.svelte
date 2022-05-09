@@ -108,7 +108,10 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 2rem auto;
+    margin: 1rem auto;
+  }
+  .videos .iframe-container {
+    margin-bottom: 0;
   }
 
   @media (max-width: 780px) {
