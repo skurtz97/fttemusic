@@ -6,7 +6,7 @@ date: "2018-1-18"
 next: "at-the-matinee"
 previous: "robot-oddity"
 embeds: 
- - "https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F522343473&amp;show_artwork=true&amp;"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/522343473&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
 
@@ -54,7 +54,7 @@ I’d like to be at the top of the world with you.
 Top of the world to you  
 Top of the world to me and you.  
 
-
+***No amount of time or expense was considered spared when we decided to build vintage 80s’ orchestra hits from scratch using our dependable orchestra players like Alex Browne on double-bass, Sarah Jane Hargis on flute and piccolo, Sean Kurtz on trumpet, and Matthew Armbruster on cello, to name a few.   The syncopated orchestra hits play a key but subtle part of the sonic recipe — with special percussion, harpsichord, and some synth bits — and create a truly unique sound with a lyric and message worth studying.***
 
 <div slot="credits">
 Original art song icon by Max McDermott.
