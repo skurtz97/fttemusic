@@ -283,7 +283,7 @@
     margin-left: 4rem;
     width: 100%;
   }
-  .embed-container {
+  #embed-container {
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 35px;
@@ -307,7 +307,7 @@
     width: 100%;
     height: 100%;
   }
-  .embed-container iframe {
+  #embed-container iframe {
     position: absolute;
     top: 0;
     left: 0;
@@ -389,8 +389,6 @@
       flex-direction: column;
     }
     .embeds {
-      max-width: 97%;
-      width: 97%;
       margin: 2rem auto;
       margin-bottom: 0;
     }
@@ -418,8 +416,7 @@
     }
     .content {
       margin-bottom: 0;
-      width: 98%;
-      min-width: 98%;
+
       margin: 0 auto;
       display: flex;
       padding: 0;
