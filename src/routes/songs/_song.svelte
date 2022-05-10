@@ -406,10 +406,6 @@
       max-width: 97%;
       width: 97%;
     }
-    .embed-container-spotify {
-      margin-bottom: 0;
-      padding-bottom: 56.25%;
-    }
   }
   @media (max-width: 700px) {
     .multiple-instagram-container {
@@ -428,22 +424,10 @@
       display: flex;
       padding: 0;
     }
-    .embeds {
-      width: 98%;
-      min-width: 98%;
-      display: flex;
-      justify-content: center;
-    }
+
     .embed-container-spotify {
       margin-bottom: 0;
       padding-bottom: 15%;
-    }
-    .embed-container iframe {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
     }
   }
 </style>
