@@ -88,7 +88,7 @@
 <style>
   .container {
     max-width: 80ch;
-    margin: 2rem auto;
+    margin: 0.5rem auto 1rem auto;
     display: flex;
     flex-direction: column;
     justify-content: center;

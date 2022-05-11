@@ -13,7 +13,7 @@
       Read the review for "Where'd You Put The Baby?" at HappyMag.TV
     </a>
   </h3>
-  <h3>Check out our radio interview.</h3>
+  <p class="soundcloud-intro">Check out our radio interview in three parts on Soundcloud.</p>
   <iframe
     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1231161115&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
     scrolling="no"
@@ -31,7 +31,7 @@
     </a>
   </h3>
   <div class="block">
-    <h3>Feedback about our hit debut follow-up “As Sure As Your Sorrow Is Joy”.</h3>
+    <h4>Feedback about our hit debut follow-up “As Sure As Your Sorrow Is Joy”.</h4>
     <p>
       <b>From daydream of riccardopietri – </b><i
         >Really beautiful genre of music and style . . . with your amazing voice.</i
@@ -50,9 +50,7 @@
     </p>
   </div>
   <div class="block">
-    <h3>
-      Feedback about our debut single, “Love On The Rocks (Shipwrecked) [feat. Julia Courtney]”.
-    </h3>
+    <h4>Feedback about our debut single, “Love On The Rocks (Shipwrecked)”.</h4>
     <p>
       <b>From Niko at Indie Music Center –</b>
       <i
@@ -70,7 +68,7 @@
     </p>
   </div>
   <div class="block">
-    <h3>Some early feedback about our preview music videos.</h3>
+    <h4>Some early feedback about our preview music videos.</h4>
     <p>
       <i>
         This video is life-changing. The amazing SFX, the incredible OST, and the best part has to
@@ -123,6 +121,12 @@
     text-decoration: underline;
   }
 
+  h3 {
+    margin-bottom: 0.25rem;
+  }
+  h4 {
+    text-align: left;
+  }
   .container {
     display: flex;
     flex-direction: column;
@@ -131,6 +135,9 @@
     text-align: center;
     max-width: 80ch;
     margin: 0 auto;
+  }
+  .soundcloud-intro {
+    font-weight: bold;
   }
   @media (max-width: 850px) {
     div {
