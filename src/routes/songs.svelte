@@ -47,7 +47,7 @@
 <div class="banner" />
 <div id="container" class="container">
   <h1>Where Sound And Vision Collide</h1>
-  <h2>Modern Soft Rock, Curiously Original</h2>
+  <h3>Modern Soft Rock, Curiously Original</h3>
   <div class="grid">
     {#each songs as song}
       <a href={`/songs/${song.slug}`}>

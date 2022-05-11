@@ -252,7 +252,7 @@
     footer > div {
       width: 400px;
       min-width: 400px;
-      margin-bottom: 4rem;
+      margin-bottom: 2rem;
     }
   }
   @media (max-width: 450px) {
