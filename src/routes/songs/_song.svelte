@@ -46,10 +46,12 @@
 
   // Metadata is automatically received as a prop from the associated song page.
   export let title;
+  export let feature;
   export let subtitle;
   export let next;
   export let previous;
   export let embeds;
+
   console.log(embeds);
   let hoverLeft = false;
   let hoverRight = false;
@@ -127,6 +129,9 @@
   <div class="content">
     <section class="text">
       <h1 class="title">{title}</h1>
+      {#if feature}
+        <h3 class="feature">{feature}</h3>
+      {/if}
       <p class="subtitle">{subtitle}</p>
       <slot />
     </section>
@@ -275,6 +280,12 @@
   }
   .subtitle {
     font-weight: bold;
+  }
+  .title {
+    margin-bottom: 0;
+  }
+  .feature {
+    margin-top: 0.25rem;
   }
   .embeds {
     display: flex;
