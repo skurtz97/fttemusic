@@ -251,6 +251,7 @@
 <style>
   .container {
     margin: 2rem auto;
+    margin-top: 0.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -262,6 +263,9 @@
     padding: 1rem;
     max-width: 1040px;
     margin: 0 auto;
+  }
+  :global(:last-child(.text)) {
+    margin-bottom: 0;
   }
   .text {
     margin-right: 2rem;
@@ -291,7 +295,7 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    margin-top: 4rem;
+    margin-top: 1rem;
     margin-left: 4rem;
     width: 100%;
   }
@@ -363,9 +367,11 @@
   .credits {
     width: 1040px;
     max-width: 1040px;
+    height: max-content;
   }
   :global(.credits .accordion) {
     min-width: 100%;
+    margin-top: 0rem;
   }
   .links {
     margin: 0 auto;
@@ -401,7 +407,7 @@
       flex-direction: column;
     }
     .embeds {
-      margin: 2rem auto;
+      margin: 1rem auto;
       margin-bottom: 0;
     }
     .credits {

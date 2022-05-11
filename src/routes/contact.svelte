@@ -10,27 +10,10 @@
 <Banner src="/images/contact-banner.jpg" alt="Contact Banner" />
 <div class="container">
   <h2>CONTACT &amp; SUPPORT</h2>
-  <h2>FRIENDS TO THE END</h2>
-  <h2>MUSIC &amp; VIDEOS</h2>
   <p>
     <b>For all inquiries, please use <a href="mailto:fttemusic@gmail.com">fttemusic@gmail.com</a></b
     >
   </p>
-  <div class="yt-subscribe">
-    <h4>Follow us on YouTube here.</h4>
-    <iframe
-      scrolling="no"
-      style="position: static; top: 0px; width: 196px; margin: 0px; border-style: none; left: 0px; visibility: visible; height: 48px;"
-      tabindex="0"
-      id="I0_1651128559805"
-      name="I0_1651128559805"
-      src="https://www.youtube.com/subscribe_embed?usegapi=1&amp;channelid=UCuwxFr0X-DOaVhARCSi2Ocw&amp;layout=full&amp;theme=dark&amp;count=default&amp;origin=https%3A%2F%2Ffriendstotheend.net&amp;gsrc=3p&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.iTmf4rxOyWc.O%2Fd%3D1%2Frs%3DAHpOoo-LTnDn-AS2QlMWYZdnaV1OuFR7Iw%2Fm%3D__features__#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&amp;id=I0_1651128559805&amp;_gfid=I0_1651128559805&amp;parent=https%3A%2F%2Ffriendstotheend.net&amp;pfname=&amp;rpctoken=24412390"
-      data-gapiattached="true"
-      width="100%"
-      frameborder="0"
-      title="Youtube Subscribe Embed"
-    />
-  </div>
   <div class="form">
     <form>
       <h4>Be a Friend to the End and sign-up for our regular email news updates.</h4>
@@ -89,9 +72,13 @@
   }
   p {
     text-align: left;
+    width: 100%;
   }
   h2 {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.1rem;
+  }
+  h4 {
+    margin-top: 0.1rem;
   }
   .container > p > b > a {
     color: #0157b9;
@@ -104,7 +91,7 @@
   .foundee-link {
     color: #0157b9;
     text-decoration: none;
-    font-size: larger;
+    font-size: 1.4rem;
     margin-bottom: 2rem;
   }
   .foundee-link:hover {
@@ -114,7 +101,6 @@
   .form {
     display: flex;
     flex-direction: column;
-    max-width: 400px;
     margin-bottom: 2rem;
   }
   form {
@@ -191,6 +177,7 @@
   @media (max-width: 850px) {
     .container {
       width: 60ch;
+      max-width: 400px;
     }
   }
   @media (max-width: 600px) {
@@ -219,19 +206,6 @@
   @media (max-width: 400px) {
     .container {
       width: 28ch;
-    }
-    .social-btns {
-      flex-direction: column;
-      align-items: center;
-    }
-    .btn-instagram {
-      display: flex;
-      justify-content: center;
-    }
-    .btn-soundcloud {
-      display: flex;
-      justify-content: center;
-      padding: 0.85em 2.1em;
     }
     h2 {
       font-size: 20pt;
