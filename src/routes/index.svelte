@@ -9,7 +9,7 @@
 <div>
   <div class="intro">
     <h1>Modern Soft Rock</h1>
-    <h3>Where Sound And Vision Collide</h3>
+    <h4>Where Sound And Vision Collide</h4>
   </div>
 
   <iframe
@@ -95,7 +95,7 @@
   .intro > h1 {
     margin-top: 0.5rem;
   }
-  .intro > h3 {
+  .intro > h4 {
     margin-top: 0.5rem;
   }
   p {

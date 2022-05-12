@@ -48,7 +48,7 @@
 <div id="container" class="container">
   <div class="intro">
     <h1>Where Sound And Vision Collide</h1>
-    <h3>Modern Soft Rock, Curiously Original</h3>
+    <h4>Modern Soft Rock, Curiously Original</h4>
   </div>
 
   <div class="grid">
@@ -112,7 +112,7 @@
   .intro > h1 {
     margin: 0.5rem;
   }
-  .intro > h3 {
+  .intro > h4 {
     margin: 0.5rem;
   }
   :global(.container > .accordion > .content) {
