@@ -46,8 +46,11 @@
 </svelte:head>
 <div class="banner" />
 <div id="container" class="container">
-  <h1>Where Sound And Vision Collide</h1>
-  <h3>Modern Soft Rock, Curiously Original</h3>
+  <div class="intro">
+    <h1>Where Sound And Vision Collide</h1>
+    <h3>Modern Soft Rock, Curiously Original</h3>
+  </div>
+
   <div class="grid">
     {#each songs as song}
       <a href={`/songs/${song.slug}`}>
@@ -101,13 +104,17 @@
     display: flex;
     flex-direction: column;
   }
-  h1 {
-    margin-bottom: 0rem;
-  }
-  h2 {
-    margin-bottom: 1rem;
-  }
 
+  .intro {
+    text-align: center;
+    margin: 0.5rem auto;
+  }
+  .intro > h1 {
+    margin: 0.5rem;
+  }
+  .intro > h3 {
+    margin: 0.5rem;
+  }
   :global(.container > .accordion > .content) {
     text-align: left;
   }

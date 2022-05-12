@@ -7,8 +7,11 @@
 </svelte:head>
 <Banner src="/images/home-banner.jpg" alt="Home Banner" />
 <div>
-  <h1>Modern Soft Rock</h1>
-  <h2><i>Where Sound And Vision Collide</i></h2>
+  <div class="intro">
+    <h1>Modern Soft Rock</h1>
+    <h3>Where Sound And Vision Collide</h3>
+  </div>
+
   <iframe
     src="https://open.spotify.com/embed/playlist/59cyAP6DTR7SReJGuXHLSE"
     width="100%"
@@ -85,10 +88,15 @@
     text-align: center;
     margin-bottom: 0.5rem;
   }
-  h2 {
-    margin: 0;
+  .intro {
     text-align: center;
-    margin: 0 0 0.5rem 0;
+    margin: 0.5rem auto;
+  }
+  .intro > h1 {
+    margin-top: 0.5rem;
+  }
+  .intro > h3 {
+    margin-top: 0.5rem;
   }
   p {
     margin-bottom: 0.5rem;
