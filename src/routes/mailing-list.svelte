@@ -45,6 +45,11 @@
   h2 {
     width: 100%;
     margin-bottom: 0.25rem;
+    margin-top: 0rem;
+  }
+  h5 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
   }
   iframe {
     position: absolute;
