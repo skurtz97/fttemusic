@@ -10,7 +10,7 @@
 <Banner src="/images/contact-banner.jpg" alt="Contact Banner" />
 <div class="container">
   <h2>CONTACT &amp; SUPPORT</h2>
-  <p>
+  <p class="inquiry">
     <b>For all inquiries, please use <a href="mailto:fttemusic@gmail.com">fttemusic@gmail.com</a></b
     >
   </p>
@@ -68,6 +68,9 @@
     align-items: center;
     width: 80ch;
     margin: 0 auto;
+    text-align: center;
+  }
+  .inquiry {
     text-align: center;
   }
   p {
