@@ -41,7 +41,7 @@
       <b>From divideandconquermusic –</b>
       <i
         >Robust and bursts at the seams … These four songs were well produced. The recording quality
-        was impressive especially given the amount of instrumentation. Read the review.
+        was impressive especially given the amount of instrumentation.
         <a
           href="https://www.divideandconquermusic.com/indie-music-album-reviews/friends-to-the-end-4-track-music-video-series"
           >Read the review.</a
