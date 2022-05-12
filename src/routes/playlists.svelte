@@ -56,7 +56,7 @@
 <style>
   div {
     width: 80ch;
-    margin: 2rem auto;
+    margin: 1rem auto 2rem auto;
     display: flex;
     flex-direction: column;
     align-items: center;
