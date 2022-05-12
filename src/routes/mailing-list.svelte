@@ -91,15 +91,9 @@
     .container {
       width: 60ch;
     }
-    iframe {
-      width: 60ch;
-    }
   }
   @media (max-width: 850px) {
     .container {
-      width: 55ch;
-    }
-    iframe {
       width: 55ch;
     }
   }
@@ -107,15 +101,9 @@
     .container {
       width: 50ch;
     }
-    iframe {
-      width: 50ch;
-    }
   }
   @media (max-width: 600px) {
     .container {
-      width: 40ch;
-    }
-    iframe {
       width: 40ch;
     }
   }
@@ -123,27 +111,15 @@
     .container {
       width: 35ch;
     }
-    iframe {
-      width: 35ch;
-      height: 300px;
-    }
   }
   @media (max-width: 420px) {
     .container {
       width: 32ch;
     }
-    iframe {
-      width: 32ch;
-      height: 270px;
-    }
   }
   @media (max-width: 370px) {
     .container {
       width: 30ch;
-    }
-    iframe {
-      width: 30ch;
-      height: 260px;
     }
   }
 </style>
