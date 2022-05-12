@@ -20,12 +20,12 @@
     </form>
   </div>
   <h2>The Indie music video event of 2022!</h2>
-  <h3>
+  <h5>
     Sign up for all the news and avoid FOMO Modern soft rock music by Friends To The End, creator of
     2021 hits "Where'd You Put The Baby?" and "A World Of Troubles." Sign-up for Friends To The End
     email news for advance screening of our upcoming release, ROBOT ODDiTY, plus a bonus track link
     in mail box.
-  </h3>
+  </h5>
 </div>
 
 <style>
