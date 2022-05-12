@@ -48,7 +48,7 @@
 <div id="container" class="container">
   <div class="intro">
     <h1>Modern Soft Rock</h1>
-    <h4>Where SOund And Vision Collide</h4>
+    <h4>Where Sound And Vision Collide</h4>
   </div>
 
   <div class="grid">
@@ -210,10 +210,10 @@
   }
   @media (max-width: 420px) {
     #container {
-      max-width: 300px;
+      max-width: 330px;
     }
     .grid {
-      max-width: 300px;
+      max-width: 330px;
     }
   }
 </style>
