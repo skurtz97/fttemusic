@@ -100,7 +100,7 @@
     {#each links as link}
       <a href={link.href} on:click={() => toggleOpen()} rel="prefetch">{link.text}</a>
     {/each}
-    <a href="/mailing-list">MAILING LIST </a>
+    <a href="/mailing-list" on:click={() => toggleOpen()}>MAILING LIST </a>
     <Social />
   </nav>
 {/if}
