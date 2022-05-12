@@ -47,8 +47,8 @@
 <div class="banner" />
 <div id="container" class="container">
   <div class="intro">
-    <h1>Where Sound And Vision Collide</h1>
-    <h4>Modern Soft Rock, Curiously Original</h4>
+    <h1>Modern Soft Rock</h1>
+    <h4>Where SOund And Vision Collide</h4>
   </div>
 
   <div class="grid">
