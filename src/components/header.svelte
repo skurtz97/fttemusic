@@ -54,7 +54,7 @@
     {#if current === "closed"}
       <ul>
         {#each links as link}
-          <a href={link.href} rel="prefetch">{link.text}</a>
+          <a href={link.href}>{link.text}</a>
         {/each}
         <a href="/mailing-list">
           <div class="envelope">
@@ -98,7 +98,7 @@
 {#if current === "opened"}
   <nav id="drawer" class="drawer" transition:slide={{ duration: 200 }}>
     {#each links as link}
-      <a href={link.href} on:click={() => toggleOpen()} rel="prefetch">{link.text}</a>
+      <a href={link.href} on:click={() => toggleOpen()}>{link.text}</a>
     {/each}
     <a href="/mailing-list" on:click={() => toggleOpen()}>MAILING LIST </a>
     <Social />
