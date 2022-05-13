@@ -8,8 +8,8 @@
 <svelte:window bind:innerWidth={width} />
 <img
   src={width === 0 || width >= 600 ? "/images/home-banner.jpg" : "images/mobile/home-banner.jpg"}
-  width={width === 0 || width >= 600 ? "1008" : "338"}
-  height={width === 0 || width >= 600 ? "1792" : "338"}
+  width={width === 0 || width >= 600 ? "1792" : "600"}
+  height={width === 0 || width >= 600 ? "1008" : "338"}
   alt="Home Banner"
 />
 <div>
@@ -93,6 +93,10 @@
   h1 {
     text-align: center;
     margin-bottom: 0.5rem;
+  }
+  img {
+    width: 100%;
+    height: auto;
   }
   .intro {
     text-align: center;
