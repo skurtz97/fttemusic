@@ -1,11 +1,15 @@
 <script lang="ts">
-  import Banner from "$components/banner.svelte";
+  export let width = 0;
 </script>
 
 <svelte:head>
   <title>Friends To The End</title>
 </svelte:head>
-<Banner src="/images/home-banner.jpg" alt="Home Banner" />
+<svelte:window bind:innerWidth={width} />
+<img
+  src={width === 0 || width >= 600 ? "/images/home-banner.jpg" : "images/mobile/home-banner.jpg"}
+  alt="Home Banner"
+/>
 <div>
   <div class="intro">
     <h1>Modern Soft Rock</h1>

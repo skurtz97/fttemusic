@@ -1,12 +1,17 @@
 <script lang="ts">
   import Accordion from "$components/accordion.svelte";
-  import Banner from "$components/banner.svelte";
+  export let width = 0;
 </script>
 
 <svelte:head>
   <title>About</title>
 </svelte:head>
-<Banner src="/images/about-banner.jpg" alt="About Banner" />
+<svelte:window bind:innerWidth={width} />
+<img
+  class="banner"
+  src={width === 0 || width >= 600 ? "/images/about-banner.jpg" : "images/mobile/about-banner.jpg"}
+  alt="home banner"
+/>
 <div class="container">
   <p>
     A cerulean blue android spins his regretful victory song on a keyboard odyssey from a

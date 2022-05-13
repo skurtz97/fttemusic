@@ -1,13 +1,19 @@
 <script lang="ts">
-  import Banner from "$components/banner.svelte";
-  import Instagram from "$components/icons/instagram.svelte";
   import Accordion from "$components/accordion.svelte";
+  export let width = 0;
 </script>
 
 <svelte:head>
   <title>Contact</title>
 </svelte:head>
-<Banner src="/images/contact-banner.jpg" alt="Contact Banner" />
+<svelte:window bind:innerWidth={width} />
+<img
+  class="banner"
+  src={width === 0 || width >= 600
+    ? "/images/contact-banner.jpg"
+    : "images/mobile/contact-banner.jpg"}
+  alt="home banner"
+/>
 <div class="container">
   <h2>CONTACT &amp; SUPPORT</h2>
   <p class="inquiry">
@@ -61,6 +67,10 @@
 </div>
 
 <style>
+  .banner {
+    width: 100%;
+    height: auto;
+  }
   .container {
     display: flex;
     flex-direction: column;

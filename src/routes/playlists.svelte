@@ -1,12 +1,19 @@
 <script lang="ts">
-  import Banner from "$components/banner.svelte";
   import Accordion from "$components/accordion.svelte";
+  export let width = 0;
 </script>
 
 <svelte:head>
   <title>Playlists</title>
 </svelte:head>
-<Banner src="/images/playlists-banner.jpg" alt="Playlists Banner" />
+<svelte:window bind:innerWidth={width} />
+<img
+  class="banner"
+  src={width === 0 || width >= 600
+    ? "/images/playlists-banner.jpg"
+    : "images/mobile/playlists-banner.jpg"}
+  alt="home banner"
+/>
 <div>
   <Accordion title="PLAYLISTS Photo Credit">
     Press photo by Kevin Chin, Northshore Media Productions, Round Rock, TX.
