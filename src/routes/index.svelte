@@ -54,7 +54,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/h_udJ-gV56E?origin=https://fttemusic.vercel.app""
+        src="https://www.youtube-nocookie.com/embed/h_udJ-gV56E?origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -63,7 +63,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/Ru-5ls0eQfs?origin=https://fttemusic.vercel.app""
+        src="https://www.youtube-nocookie.com/embed/Ru-5ls0eQfs?origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -73,7 +73,7 @@
 
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/u9uY9la3zLA?origin=https://fttemusic.vercel.app""
+        src="https://www.youtube-nocookie.com/embed/u9uY9la3zLA?origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture"
