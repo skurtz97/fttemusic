@@ -34,7 +34,7 @@
   <div class="videos">
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/iCaQE-hg93w?https://fttemusic.vercel.app"
+        src="https://www.youtube-nocookie.com/embed/iCaQE-hg93w?feature=oembed&origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -43,7 +43,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/Mf6hLwoBtTk?feature=oembed?https://fttemusic.vercel.app"
+        src="https://www.youtube-nocookie.com/embed/Mf6hLwoBtTk?feature=oembed?&origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
