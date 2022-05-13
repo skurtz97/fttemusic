@@ -8,6 +8,8 @@
 <svelte:window bind:innerWidth={width} />
 <img
   src={width === 0 || width >= 600 ? "/images/home-banner.jpg" : "images/mobile/home-banner.jpg"}
+  width={width === 0 || width >= 600 ? "1008" : "338"}
+  height={width === 0 || width >= 600 ? "1792" : "338"}
   alt="Home Banner"
 />
 <div>
@@ -35,7 +37,7 @@
         src="https://www.youtube.com/embed/iCaQE-hg93w"
         title="YouTube video player"
         frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
       />
     </div>
