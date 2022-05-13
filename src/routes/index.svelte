@@ -43,7 +43,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed"
+        src="https://www.youtube.com/embed/Mf6hLwoBtTk?feature=oembed?https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -52,7 +52,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube.com/embed/h_udJ-gV56E?feature=oembed"
+        src="https://www.youtube.com/embed/h_udJ-gV56E?feature=oembed&origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -61,7 +61,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube.com/embed/Ru-5ls0eQfs?feature=oembed"
+        src="https://www.youtube.com/embed/Ru-5ls0eQfs?feature=oembed&origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -71,7 +71,7 @@
 
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube.com/embed/u9uY9la3zLA?feature=oembed"
+        src="https://www.youtube.com/embed/u9uY9la3zLA?feature=oembed&origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture"
