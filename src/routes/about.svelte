@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Accordion from "$components/accordion.svelte";
+  import Accordion from "$src/lib/components/accordion.svelte";
   export let width = 0;
 </script>
 

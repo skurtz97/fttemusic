@@ -40,9 +40,9 @@
 
   -->
 <script>
-  import Accordion from "$components/accordion.svelte";
-  import ArrowLeft from "$components/icons/arrow-left.svelte";
-  import ArrowRight from "$components/icons/arrow-right.svelte";
+  import Accordion from "$src/lib/components/accordion.svelte";
+  import ArrowLeft from "$src/lib/components/icons/arrow-left.svelte";
+  import ArrowRight from "$src/lib/components/icons/arrow-right.svelte";
 
   // Metadata is automatically received as a prop from the associated song page.
   export let title;

@@ -6,14 +6,14 @@
 </script>
 
 <script lang="ts">
-  import Envelope from "$icons/envelope.svelte";
-  import SpotifyIcon from "$icons/spotify.svelte";
-  import YoutubeIcon from "$icons/youtube.svelte";
-  import InstagramIcon from "$icons/instagram.svelte";
-  import SoundcloudIcon from "$icons/soundcloud.svelte";
-  import FacebookIcon from "$icons/facebook.svelte";
-  import HamburgerIcon from "$icons/hamburger.svelte";
-  import Social from "$components/social.svelte";
+  import Envelope from "$src/lib/components/icons/envelope.svelte";
+  import SpotifyIcon from "$src/lib/components/icons/spotify.svelte";
+  import YoutubeIcon from "$src/lib/components/icons/youtube.svelte";
+  import InstagramIcon from "$src/lib/components/icons/instagram.svelte";
+  import SoundcloudIcon from "$src/lib/components/icons/soundcloud.svelte";
+  import FacebookIcon from "$src/lib/components/icons/facebook.svelte";
+  import HamburgerIcon from "$src/lib/components/icons/hamburger.svelte";
+  import Social from "$src/lib/components/social.svelte";
   import { slide } from "svelte/transition";
   let links: Link[] = [
     { href: "/songs", text: "SONGS" },

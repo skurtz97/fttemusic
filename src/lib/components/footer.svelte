@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Social from "$components/social.svelte";
+  import Social from "$src/lib/components/social.svelte";
 </script>
 
 <footer>

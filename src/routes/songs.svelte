@@ -28,8 +28,8 @@
 </script>
 
 <script lang="ts">
-  import Accordion from "$components/accordion.svelte";
-  import Spinner from "$components/spinner.svelte";
+  import Accordion from "$src/lib/components/accordion.svelte";
+  import Spinner from "$src/lib/components/spinner.svelte";
   export let songs: SongPageMetadata[];
   // if the metadata has an image, use it, otherwise get the image url from the song slug
   const getImagePath = (metadata: SongPageMetadata) => {
