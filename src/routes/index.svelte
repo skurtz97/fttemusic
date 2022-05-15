@@ -5,9 +5,6 @@
 
 <svelte:head>
   <title>Friends To The End</title>
-
-  <link rel="stylesheet" href="node_modules/lite-youtube-embed/src/lite-yt-embed.css" />
-  <script src="node_modules/lite-youtube-embed/src/lite-yt-embed.js"></script>
 </svelte:head>
 <svelte:window bind:innerWidth={width} />
 <img
@@ -36,11 +33,9 @@
   </p>
   <a href="https://found.ee/ftte">Streaming Platform Links</a>
   <div class="videos">
-    <LiteYoutube id="iCaQE-hg93w" noCookie={true} />
-
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/iCaQE-hg93w"
+        src="https://www.youtube-nocookie.com/embed/iCaQE-hg93w?origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -51,7 +46,7 @@
       <iframe
         width="560"
         height="315"
-        src="https://www.youtube-nocookie.com/embed/Mf6hLwoBtTk"
+        src="https://www.youtube-nocookie.com/embed/Mf6hLwoBtTk?origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -60,7 +55,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/h_udJ-gV56E"
+        src="https://www.youtube-nocookie.com/embed/h_udJ-gV56E?origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -69,7 +64,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/Ru-5ls0eQfs"
+        src="https://www.youtube-nocookie.com/embed/Ru-5ls0eQfs?origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -79,7 +74,7 @@
 
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/u9uY9la3zLA"
+        src="https://www.youtube-nocookie.com/embed/u9uY9la3zLA?origin=https://fttemusic.vercel.app"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture"

@@ -9,7 +9,6 @@ specifiers:
   eslint: ^7.32.0
   eslint-config-prettier: ^8.3.0
   eslint-plugin-svelte3: ^3.2.1
-  lite-youtube-embed: ^0.2.0
   mdsvex: ^0.10.5
   prettier: ^2.5.1
   prettier-plugin-svelte: ^2.5.0
@@ -28,7 +27,6 @@ devDependencies:
   eslint: 7.32.0
   eslint-config-prettier: 8.5.0_eslint@7.32.0
   eslint-plugin-svelte3: 3.4.1_6wevxxng4y4ff26nzlndg2wnpa
-  lite-youtube-embed: 0.2.0
   mdsvex: 0.10.5_svelte@3.48.0
   prettier: 2.6.2
   prettier-plugin-svelte: 2.7.0_kkjbqzpydplecjtkxrgomroeru
@@ -1202,10 +1200,6 @@ packages:
     dependencies:
       prelude-ls: 1.2.1
       type-check: 0.4.0
-    dev: true
-
-  /lite-youtube-embed/0.2.0:
-    resolution: {integrity: sha512-XXXAk5sbvtjjwbie3XG+6HppgTm1HTGL/Uk9z9NkJH53o7puZLur434heHzAjkS60hZB3vT4ls25zl5rMiX4EA==}
     dev: true
 
   /lodash.merge/4.6.2:

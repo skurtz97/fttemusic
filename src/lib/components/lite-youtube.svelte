@@ -13,7 +13,7 @@
   export let iframeTitle = "YouTube video.";
   export let imageAltText = "YouTube's thumbnail image for the video.";
   export let isPreconnected = false;
-  export let iframeLoaded = defaultPlay;
+  export let iframeLoaded = true;
 
   let muteParam = mute || defaultPlay ? "1" : "0"; // Default play must be mute
   let queryString;
@@ -39,6 +39,7 @@
   }
 
   onMount(() => {
+    console.log(iframeLoaded);
     iframeLoaded = true;
     muteParam = mute || defaultPlay ? "1" : "0";
     queryString = `autoplay=1&mute=${muteParam}`;
@@ -102,6 +103,8 @@
     background-size: cover;
     cursor: pointer;
   }
+
+  /* gradient */
   .yt-lite::before {
     content: "";
     display: block;
@@ -115,11 +118,24 @@
     width: 100%;
     transition: all 0.2s cubic-bezier(0, 0, 0.2, 1);
   }
+
+  /* responsive iframe with a 16:9 aspect ratio
+  thanks https://css-tricks.com/responsive-iframes/
+*/
   .yt-lite::after {
     content: "";
     display: block;
     padding-bottom: calc(100% / (16 / 9));
   }
+  .yt-lite > iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+
+  /* play button */
   .yt-lite > .lty-playbtn {
     width: 70px;
     height: 46px;
@@ -159,20 +175,6 @@
     pointer-events: none;
   }
 
-  .yt-lite-thumbnail {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    object-fit: cover;
-  }
-  .yt-lite > iframe {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-  }
   .yt-lite-thumbnail {
     position: absolute;
     width: 100%;
