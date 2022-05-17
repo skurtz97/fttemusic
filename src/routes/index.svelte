@@ -35,7 +35,7 @@
   <div class="videos">
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/iCaQE-hg93w?origin=https://fttemusic.vercel.app"
+        src="https://www.youtube-nocookie.com/embed/iCaQE-hg93w?origin=https://friendstotheend.net"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -46,7 +46,7 @@
       <iframe
         width="560"
         height="315"
-        src="https://www.youtube-nocookie.com/embed/Mf6hLwoBtTk?origin=https://fttemusic.vercel.app"
+        src="https://www.youtube-nocookie.com/embed/Mf6hLwoBtTk?origin=https://friendstotheend.net"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -55,7 +55,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/h_udJ-gV56E?origin=https://fttemusic.vercel.app"
+        src="https://www.youtube-nocookie.com/embed/h_udJ-gV56E?origin=https://friendstotheend.net"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -64,7 +64,7 @@
     </div>
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/Ru-5ls0eQfs?origin=https://fttemusic.vercel.app"
+        src="https://www.youtube-nocookie.com/embed/Ru-5ls0eQfs?origin=https://friendstotheend.net"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -74,7 +74,7 @@
 
     <div class="iframe-container">
       <iframe
-        src="https://www.youtube-nocookie.com/embed/u9uY9la3zLA?origin=https://fttemusic.vercel.app"
+        src="https://www.youtube-nocookie.com/embed/u9uY9la3zLA?origin=https://friendstotheend.net"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture"
