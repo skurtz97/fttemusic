@@ -4,14 +4,13 @@
 
 <footer>
   <div class="form">
-    <form>
-      <h4>Sign-up for Friends To The End email news and receive bonus music links.</h4>
-      <label for="name">First Name (Required)</label>
-      <input type="text" name="name" placeholder="Your First Name" />
-      <label for="email">Email Address (Required)</label>
-      <input type="email" name="email" placeholder="Your Email Address" />
-      <button class="btn">Sign up</button>
-    </form>
+    <h4>Sign-up for Friends To The End email news and receive bonus music links.</h4>
+    <iframe
+      class="mailchimp"
+      src="http://eepurl.com/dPmbIj"
+      title="Newsletter signup form"
+      scrolling="no"
+    />
   </div>
 
   <div class="youtube">
@@ -185,10 +184,24 @@
     color: #fff;
     padding-bottom: 1rem;
   }
-  form {
+  .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+  }
+  .form > h4 {
+    padding: 0px 25px 0px 25px;
+  }
+  .mailchimp {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    height: 350px;
+    width: 100%;
+    overflow: hidden;
+    border: none;
   }
   h4 {
     margin: 0;
@@ -226,6 +239,7 @@
     color: #0e63c4;
     text-decoration: underline;
   }
+
   @media (max-width: 1700px) {
     footer {
       padding: 2rem;
@@ -253,6 +267,12 @@
       width: 400px;
       min-width: 400px;
       margin-bottom: 2rem;
+    }
+    .form {
+      margin-right: 50px;
+    }
+    .instagram {
+      margin-right: 15px;
     }
   }
   @media (max-width: 450px) {
