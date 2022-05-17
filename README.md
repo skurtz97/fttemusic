@@ -1,5 +1,8 @@
 # Friends To The End Music Website
 
+# Old Version
+[friendstotheend.net](https://friendstotheend.net)
+
 ## Environment Setup
 ### git
 1. Install the latest version of git. A prebuilt windows version is available [here](https://git-scm.com/download/win).
