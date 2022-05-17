@@ -1,6 +1,6 @@
 # Friends To The End Music Website
 
-# Old Version
+## Old Version
 [friendstotheend.net](https://friendstotheend.net)
 
 ## Environment Setup
