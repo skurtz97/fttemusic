@@ -4,7 +4,32 @@
 </script>
 
 <svelte:head>
-  <title>Friends To The End</title>
+  <title>Friends To The End | Modern soft rock | Sound & Vision collide</title>
+  <meta
+    name="description"
+    content="Modern soft rock where Sound & Vision collide - curiously original music and pointy video mix-ups of joy, whimsy, wisdom and sometimes sorrow."
+  />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:title"
+    content="Friends to the End - Where Sound And Vision Collide - Modern soft rock, curiously original"
+  />
+  <meta
+    property="og:description"
+    content="Where Sound And Vision Collide - Modern soft rock, curiously original music and videos with pointy mash-ups of joy, whimsy, wisdom and sometimes sorrow."
+  />
+  <meta property="og:url" content="https://friendstotheend.net" />
+  <meta property="og:site_name" content="Friends to the End" />
+  <meta name="twitter:card" content="summary" />
+  <meta
+    name="twitter:title"
+    content="Friends to the End - Where Sound And Vision Collide - Modern soft rock, curiously original"
+  />
+  <meta
+    name="twitter:description"
+    content="Where Sound And Vision Collide - Modern soft rock, curiously original music and videos with pointy mash-ups of joy, whimsy, wisdom and sometimes sorrow."
+  />
+  <meta name="google-site-verification" content="o7EEoaXxs6P3Cbyo-DeWPGxlPr9qNkCpp4fT7YHy40o" />
 </svelte:head>
 <svelte:window bind:innerWidth={width} />
 <img
