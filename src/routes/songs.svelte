@@ -28,6 +28,7 @@
 </script>
 
 <script lang="ts">
+  import Head from "$components/head.svelte";
   import Accordion from "$src/lib/components/accordion.svelte";
   import Spinner from "$src/lib/components/spinner.svelte";
   export let songs: SongPageMetadata[];
@@ -41,31 +42,12 @@
   };
 </script>
 
-<svelte:head>
-  <title>SONGS Streams & Lyrics | Friends To The End | Modern soft rock</title>
-  <meta
-    name="description"
-    content="Songs for modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow., including Old Pecan Street, Lady With the Sweetest Song, and Friends To The End [theme]."
-  />
-  <meta
-    property="og:title"
-    content="SONGS Streams & Lyrics | Friends To The End | Modern soft rock"
-  />
-  <meta
-    property="og:description"
-    content="Songs for modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow., including Old Pecan Street, Lady With the Sweetest Song, and Friends To The End [theme]."
-  />
-  <meta property="og:url" content="https://friendstotheend.net/songs" />
-  <meta property="og:site_name" content="Friends to the End" />
-  <meta
-    name="twitter:title"
-    content="SONGS Streams & Lyrics | Friends To The End | Modern soft rock"
-  />
-  <meta
-    name="twitter:description"
-    content="Songs for modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow., including Old Pecan Street, Lady With the Sweetest Song, and Friends To The End [theme]."
-  />
-</svelte:head>
+<Head
+  title="SONGS Streams & Lyrics | Friends To The End | Modern soft rock"
+  description="Songs for modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow., including Old Pecan Street, Lady With the Sweetest Song, and Friends To The End [theme]."
+  slug="songs"
+/>
+
 <div class="banner" />
 <div id="container" class="container">
   <div class="intro">

@@ -1,33 +1,15 @@
 <script lang="ts">
+  import Head from "$components/head.svelte";
   import Accordion from "$src/lib/components/accordion.svelte";
   export let width = 0;
 </script>
 
-<svelte:head>
-  <title>Contact Thom Kurtz about Friends To The End | Sound And Vision Collide</title>
-  <meta
-    name="description"
-    content="Now promoting 2021 drops for digital singles and music videos by Friends To The End (Thom Kurtz band project). Where'd You Put The Baby? Coming this spring."
-  />
-  <meta
-    property="og:title"
-    content="Contact Thom Kurtz about Friends To The End | Sound And Vision Collide"
-  />
-  <meta
-    property="og:description"
-    content="Now promoting 2021 drops for digital singles and music videos by Friends To The End (Thom Kurtz band project). Where'd You Put The Baby? Coming this spring."
-  />
-  <meta property="og:url" content="https://friendstotheend.net/contact" />
-  <meta property="og:site_name" content="Friends to the End" />
-  <meta
-    name="twitter:title"
-    content="Contact Thom Kurtz about Friends To The End | Sound And Vision Collide"
-  />
-  <meta
-    name="twitter:description"
-    content="Now promoting 2021 drops for digital singles and music videos by Friends To The End (Thom Kurtz band project). Where'd You Put The Baby? Coming this spring."
-  />
-</svelte:head>
+<Head
+  title="Contact Thom Kurtz about Friends To The End | Sound And Vision Collide"
+  description="Now promoting 2021 drops for digital singles and music videos by Friends To The End (Thom Kurtz band project). Where'd You Put The Baby? Coming this spring."
+  slug="contact"
+/>
+
 <svelte:window bind:innerWidth={width} />
 <img
   class="banner"

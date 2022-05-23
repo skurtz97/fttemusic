@@ -1,35 +1,15 @@
 <script lang="ts">
+  import Head from "$components/head.svelte";
   import Accordion from "$src/lib/components/accordion.svelte";
   export let width = 0;
 </script>
 
-<svelte:head>
-  <title>About Friends To The End & Thom Kurtz | Sound And Vision Collide</title>
-  <meta
-    name="description"
-    content="Modern soft rock where Sound & Vision collide - curiously original music and pointy video mix-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-  <meta property="og:type" content="website" />
-  <meta
-    property="og:title"
-    content="About Friends To The End & Thom Kurtz | Sound And Vision Collide"
-  />
-  <meta
-    property="og:description"
-    content="Modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-  <meta property="og:url" content="https://friendstotheend.net/about" />
-  <meta property="og:site_name" content="Friends to the End" />
-  <meta name="twitter:card" content="summary" />
-  <meta
-    name="twitter:title"
-    content="Friends to the End - Where Sound And Vision Collide - Modern soft rock, curiously original"
-  />
-  <meta
-    name="twitter:description"
-    content="Modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-</svelte:head>
+<Head
+  title="About Friends To The End & Thom Kurtz | Sound And Vision Collide"
+  description="Modern soft rock where Sound & Vision collide - curiously original music and pointy video mix-ups of joy, whimsy, wisdom and sometimes sorrow."
+  slug="about"
+/>
+
 <svelte:window bind:innerWidth={width} />
 <img
   class="banner"

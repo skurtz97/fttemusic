@@ -1,22 +1,13 @@
-<svelte:head>
-  <title>Press Friends To The End | Where Sound And Vision Collide</title>
-  <meta
-    name="description"
-    content="Modern soft rock, curiously original and pointy mash-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-  <meta property="og:title" content="Press Friends To The End | Where Sound And Vision Collide" />
-  <meta
-    property="og:description"
-    content="Modern soft rock, curiously original and pointy mash-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-  <meta property="og:url" content="https://friendstotheend.net/press" />
-  <meta property="og:site_name" content="Friends to the End" />
-  <meta name="twitter:title" content="Press Friends To The End | Where Sound And Vision Collide" />
-  <meta
-    name="twitter:description"
-    content="Modern soft rock, curiously original and pointy mash-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-</svelte:head>
+<script lang="ts">
+  import Head from "$components/head.svelte";
+</script>
+
+<Head
+  title="Press Friends To The End | Where Sound And Vision Collide"
+  description="Modern soft rock, curiously original and pointy mash-ups of joy, whimsy, wisdom and sometimes sorrow."
+  slug="press"
+/>
+
 <div class="banner" />
 <div class="container">
   <h3>

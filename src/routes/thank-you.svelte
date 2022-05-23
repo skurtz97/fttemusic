@@ -1,28 +1,13 @@
-<svelte:head>
-  <title>THANKYOU! from Friends To The End Where Sound And Vision Collide.</title>
-  <meta
-    name="description"
-    content="THANKYOU! for visiting Where Sound And Vision Collide - Modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-  <meta
-    property="og:title"
-    content="THANKYOU! from Friends To The End Where Sound And Vision Collide."
-  />
-  <meta
-    property="og:description"
-    content="THANKYOU! for visiting Where Sound And Vision Collide - Modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-  <meta property="og:url" content="https://friendstotheend.net/thank-you" />
-  <meta property="og:site_name" content="Friends to the End" />
-  <meta
-    name="twitter:title"
-    content="THANKYOU! from Friends To The End Where Sound And Vision Collide."
-  />
-  <meta
-    name="twitter:description"
-    content="THANKYOU! for visiting Where Sound And Vision Collide - Modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow."
-  />
-</svelte:head>
+<script lang="ts">
+  import Head from "$components/head.svelte";
+</script>
+
+<Head
+  title="THANKYOU! from Friends To The End Where Sound And Vision Collide."
+  description="THANKYOU! for visiting Where Sound And Vision Collide - Modern soft rock, curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow."
+  slug="thank-you"
+/>
+
 <div class="container">
   <h1>THANK YOU!</h1>
   <h3>You should receive an email with a link to unreleased bonus content.</h3>

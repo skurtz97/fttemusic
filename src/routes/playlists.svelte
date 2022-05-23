@@ -1,27 +1,15 @@
 <script lang="ts">
+  import Head from "$components/head.svelte";
   import Accordion from "$src/lib/components/accordion.svelte";
   export let width = 0;
 </script>
 
-<svelte:head>
-  <title>Playlists Friends To The End | On Spotify & Soundcloud</title>
-  <meta
-    name="description"
-    content="Friends To The End track sampler playlists on Soundcloud - Where Sound And Vision Collide. Modern soft rock, curiously original joy, whimsy, wisdom and sometimes sorrow."
-  />
-  <meta property="og:title" content="Playlists Friends To The End | On Spotify & Soundcloud" />
-  <meta
-    property="og:description"
-    content="Friends To The End track sampler playlists on Soundcloud - Where Sound And Vision Collide. Modern soft rock, curiously original joy, whimsy, wisdom and sometimes sorrow."
-  />
-  <meta property="og:url" content="https://friendstotheend.net/playlists" />
-  <meta property="og:site_name" content="Friends to the End" />
-  <meta name="twitter:title" content="Playlists Friends To The End | On Spotify & Soundcloud" />
-  <meta
-    name="twitter:description"
-    content="Friends To The End track sampler playlists on Soundcloud - Where Sound And Vision Collide. Modern soft rock, curiously original joy, whimsy, wisdom and sometimes sorrow."
-  />
-</svelte:head>
+<Head
+  title="Playlists Friends To The End | On Spotify & Soundcloud"
+  description="Friends To The End track sampler playlists on Soundcloud - Where Sound And Vision Collide. Modern soft rock, curiously original joy, whimsy, wisdom and sometimes sorrow."
+  slug="playlists"
+/>
+
 <svelte:window bind:innerWidth={width} />
 <img
   class="banner"
