@@ -1,3 +1,29 @@
+<svelte:head>
+  <title>Friends To The End | Modern soft rock where sound & vision collide</title>
+  <meta
+    name="description"
+    content="Modern soft rock music - Curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow"
+  />
+  <meta
+    property="og:title"
+    content="Friends To The End | Modern soft rock where sound & vision collide"
+  />
+  <meta
+    property="og:description"
+    content="Modern soft rock music - Curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow"
+  />
+  <meta property="og:url" content="https://friendstotheend.net/mailing-list" />
+  <meta property="og:site_name" content="Friends to the End" />
+  <meta
+    name="twitter:title"
+    content="Friends To The End | Modern soft rock where sound & vision collide"
+  />
+  <meta
+    name="twitter:description"
+    content="Modern soft rock music - Curiously original and pointy mix-ups of joy, whimsy, wisdom and sometimes sorrow"
+  />
+</svelte:head>
+
 <div class="container">
   <div class="embed-container">
     <iframe

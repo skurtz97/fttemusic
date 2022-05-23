@@ -1,3 +1,22 @@
+<svelte:head>
+  <title>Friends To The End | Privacy Policy | Modern soft rock</title>
+  <meta
+    name="description"
+    content="We cannot take responsibility for your privacy because it's up to you and the providers."
+  />
+  <meta property="og:title" content="Friends To The End | Privacy Policy | Modern soft rock" />
+  <meta
+    property="og:description"
+    content="We cannot take responsibility for your privacy because it's up to you and the providers."
+  />
+  <meta property="og:url" content="https://friendstotheend.net/privacy-policy" />
+  <meta property="og:site_name" content="Friends to the End" />
+  <meta name="twitter:title" content="Friends To The End | Privacy Policy | Modern soft rock" />
+  <meta
+    name="twitter:description"
+    content="We cannot take responsibility for your privacy because it's up to you and the providers."
+  />
+</svelte:head>
 <div>
   <h2>Who we are and what data is collected on this website</h2>
   <p>
