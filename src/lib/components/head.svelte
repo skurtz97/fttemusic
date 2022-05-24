@@ -2,6 +2,7 @@
   export let title = "";
   export let description = "";
   export let slug = "";
+  export let image = "";
 </script>
 
 <svelte:head>
@@ -15,4 +16,5 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content={title} />
   <meta name="twitter:description" content={description} />
+  <meta property="og:image" content={image} />
 </svelte:head>

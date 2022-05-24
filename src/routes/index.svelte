@@ -21,6 +21,11 @@
     <h1>Modern Soft Rock</h1>
     <h4>Where Sound And Vision Collide</h4>
   </div>
+  <p>
+    Announcing our latest streaming music and music video, <b class="RO">ROBOT ODDiTY</b>, coming June 10, 2022.
+  </p>
+  <a href="https://found.ee/ftteRO">Pre-Save Links Here</a>
+  <p></p>
 
   <iframe
     src="https://open.spotify.com/embed/playlist/59cyAP6DTR7SReJGuXHLSE"
@@ -34,8 +39,7 @@
     Welcome to <b><i>Friends To The End</i></b> where Modern soft rock music collides with videos of
     joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
-  <a href="https://found.ee/ftte">Streaming Platform Links</a>
-  <div class="videos">
+   <div class="videos">
     <div class="iframe-container">
       <iframe
         src="https://www.youtube-nocookie.com/embed/iCaQE-hg93w?origin=https://friendstotheend.net"
@@ -92,6 +96,9 @@
 </div>
 
 <style>
+  br {
+    margin-bottom: .25rem;
+  }
   div {
     width: 70ch;
     margin: 0.5rem auto;
@@ -128,6 +135,9 @@
   .spotify-playlist {
     margin-bottom: 0.5rem;
   }
+.RO { 
+  font-size: larger;
+}
   .videos {
     display: flex;
     flex-direction: column;

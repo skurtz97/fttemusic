@@ -33,7 +33,7 @@ const config = {
     mdsvex({
       extensions: [".svx"],
       layout: {
-        songs: resolve("/src/routes/songs/_song.svelte")
+        songs: resolve("./src/routes/songs/_song.svelte")
       }
     })
   ]
