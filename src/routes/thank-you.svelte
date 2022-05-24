@@ -9,8 +9,19 @@
 />
 
 <div class="container">
-  <h1>THANK YOU!</h1>
-  <h3>You should receive an email with a link to unreleased bonus content.</h3>
+  <h1>THANK YOU! &nbsp; Here's your preview.</h1><p></p>
+    <div class="embed-container">
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube.com/embed/-phPAiOZCUE"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    />
+  </div>
+ <h3>You should receive an email with a link to unreleased bonus content.</h3>
 
   <p>
     What an encouragement to have you with us at <b>Friends To The End!</b> We’ve been charting off
