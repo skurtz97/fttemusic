@@ -26,6 +26,15 @@
   </p>
   <a href="https://found.ee/ftteRO">Pre-Save Links Here</a>
   <p></p>
+  <div class="iframe-container">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/CTYxIrzTmQE?origin=https://friendstotheend.net"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    />
+  </div>
 
   <iframe
     src="https://open.spotify.com/embed/playlist/59cyAP6DTR7SReJGuXHLSE"
@@ -39,7 +48,10 @@
     Welcome to <b><i>Friends To The End</i></b> where Modern soft rock music collides with videos of
     joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
-   <div class="videos">
+  <p>
+    Try the chill music videos released since August 2020: <b>Where'd You Put The Baby?</b>, <b> A World Of Troubles</b>, <b> As Sure As Your Sorrow Is Joy</b>,  and <b> Love On The Rocks (Shipwrecked)</b>.
+  </p>
+  <div class="videos">
     <div class="iframe-container">
       <iframe
         src="https://www.youtube-nocookie.com/embed/iCaQE-hg93w?origin=https://friendstotheend.net"
@@ -78,7 +90,11 @@
         allowfullscreen
       />
     </div>
-
+    <p>
+      Watch this video for a sneak-peak behind the scenes and in front of the camera. And discover
+      lyrics and more streaming samples of Modern soft rock on our <a href="/songs">Songs page.</a>
+    </p>
+  
     <div class="iframe-container">
       <iframe
         src="https://www.youtube-nocookie.com/embed/u9uY9la3zLA?origin=https://friendstotheend.net"
@@ -89,11 +105,7 @@
       />
     </div>
   </div>
-  <p>
-    Watch this video for a sneak-peak behind the scenes and in front of the camera. And discover
-    lyrics and more streaming samples of Modern soft rock on our <a href="/songs">Songs page.</a>
-  </p>
-</div>
+ </div>
 
 <style>
   br {
