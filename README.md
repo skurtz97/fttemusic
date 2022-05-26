@@ -1,8 +1,5 @@
 # Friends To The End Music Website
 
-## Old Version
-[friendstotheend.net](https://friendstotheend.net)
-
 ## Environment Setup
 ### git
 1. Install the latest version of git. A prebuilt windows version is available [here](https://git-scm.com/download/win).
@@ -21,3 +18,7 @@
 
 ## Development
 Clone the repository `git clone https://github.com/skurtz97/fttemusic`, navigate into the directory that was created, and run `pnpm install`. When the install is completed, run `pnpm run dev` to start a development server on port 3000.
+
+## Deployment
+
+Just push to the main branch and it will be deployed automatically. `git push -u origin main` or use the vscode integration I set up.
