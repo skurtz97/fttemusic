@@ -1,5 +1,13 @@
 # Friends To The End Music Website
 
+## Project Structure
+We are using SvelteKit for this website. SvelteKit has a file-based routing system. Every page is a file, and they are all under src/routes.
+
+* src/routes: contains all the pages in the website. Index corresponds to the '/' route/page, all other pages routes are just what the file is named. So the playlists page would be a file src/routes/playlists.svelte and it would be located at friendstotheend.net/playlists.
+* Directories inside of src/routes create subtrees of pages. So the src/routes/songs contains all the songs. An index file at the root of a directory
+indicates the '/' route at the end of the directories above it. So, src/routes/songs/index.svelte would be located at the url friendstothend.net/songs
+and src/routes/songs/a-world-of-troubles.svx would be located at the url friendstotheend.net/songs/a-world-of-troubles.svx.
+
 ## Environment Setup
 ### git
 1. Install the latest version of git. A prebuilt windows version is available [here](https://git-scm.com/download/win).
