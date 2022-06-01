@@ -15,21 +15,15 @@
     <h4>Feedback about our last hit single “Where'd You Put The Baby?”.</h4>
     <p>
       <b>From Bruno Kukaj of playlister.club – </b><i
-        >Cool instrumental , such a nice and rich melody , also the vocal was great !|</i
+        >Cool instrumental , such a nice and rich melody , also the vocal was great ! </i
       >
     </p>
     <p>
-      <b>From divideandconquermusic –</b>
-      <i
-        >Robust and bursts at the seams … These four songs were well produced. The recording quality
-        was impressive especially given the amount of instrumentation.
-        <a
-          href="https://www.divideandconquermusic.com/indie-music-album-reviews/friends-to-the-end-4-track-music-video-series"
-          >Read the review.</a
-        >
-      </i>
+      <b>From Anonymous at playlister.club – </b><i
+        >The lyrics of the song are really interesting, it is a remarkable point. I think that the guitars accompany in a solid way, they sound with a very good color. The singer has a good performance too. Great job!</i
+      >
     </p>
-  </div>  <h3>
+ </div>  <h3>
     <a href="https://happymag.tv/friends-to-the-end-interview/">
       Check out the interview at HappyMag.TV
     </a>
