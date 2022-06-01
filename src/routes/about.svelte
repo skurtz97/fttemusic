@@ -29,7 +29,7 @@
   </p>
   <p>
     <b>ROBOT ODDiTY</b> is the follow-up to the Youtube music video hit
-    <b>Where’d You Put The Baby?</b>, now with over 130K views. This <b>Modern soft rock</b> new wave
+    <b>Where’d You Put The Baby?</b>, now with over 140K views. This <b>Modern soft rock</b> new wave
     satire of a romantic couple questioning their priorities finds them frantically searching the house,
     while what they find becomes more surreal, such as a vastly oversized baby and visions of Abe Lincoln
     and Ruth Bader Ginsberg. The appropriately frantic, guitar-heavy music and accusatory vocals were
@@ -75,7 +75,7 @@
   <p>
     Says Kurtz, “<i
       ><b>Friends To The End</b> sounds like a group of people, but it’s really a group of songs – and
-      each song is one big step in my life.”</i
+      each song is one giant stepping stone.”</i
     >
     Now establishing <b>Friends To The End</b> as a performing band is Kurtz’s next near term
     challenge, in support of the exciting release of <b>ROBOT ODDiTY</b>, the next enchanting step
