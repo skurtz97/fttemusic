@@ -13,7 +13,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube-nocookie.com/embed/hcxFO_caXOQ?origin=https://friendstotheend.net"
+      src="https://www.youtube-nocookie.com/embed/2kYqNSJWUig?origin=https://friendstotheend.net"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

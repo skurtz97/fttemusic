@@ -12,30 +12,17 @@
 <div class="container">
 
   <div class="block">
-    <h4>Feedback about our latest single, “ROBOT ODDiTY”.</h4>
+    <h4>Feedback about our latest single, “ROBOT ODDiTY”</h4>
     <p>
       <b>From our press release package -–</b>
       <i
         >A cerulean blue android spins his regretful victory song on a keyboard odyssey from a bric-a-brac robot factory to a sunny, magic beach town finale, while riding sonic waves of piano, synth and brassy percussion shuffles. ROBOT ODDiTY is the upcoming spring 2022 Modern soft rock track from Friends To The End. The accompanying edgy music video with a psychedelic twist paints the tale of indoctrination and moral discovery by Thom Kurtz, the creator behind his Friends To The End band project, with a near-death experience in a raging fire at a power plant, while living as “wires inside an iron can.”
       </i>
     </p>
-    <p>
-      <b>From Kevin Hugger at mp3hugger – </b>
-      <i
-        >Nice name for an act and what a progressive rock opening you have imagined here. . . . an
-        individual performance that is breathtaking.
-      </i>
-    </p>
-    <p>
-      <b>From KOALA at playlister.club – </b>
-      <i
-        >Amazing style and mood, very talented and professional. Clearly you are a skillful artist. Great combination of sounds. Keep this way.
-      </i>
-    </p>
   </div>
 
   <div class="block">
-    <h4>Feedback about our last hit single “Where'd You Put The Baby?”.</h4>
+    <h4>Feedback about our last hit single “Where'd You Put The Baby?”</h4>
     <p>
       <b>From Bruno Kukaj of playlister.club – </b><i
         >Cool instrumental , such a nice and rich melody , also the vocal was great ! </i
@@ -74,7 +61,7 @@
     </a>
   </h3>
   <div class="block">
-    <h4>Feedback about our hopeful anthem, “A World Of Troubles”.</h4>
+    <h4>Feedback about our hopeful anthem, “A World Of Troubles”</h4>
      <p>
       <b>From Anonymous at playlister.club – </b>
       <i
@@ -83,7 +70,7 @@
     </p>
   </div>
  <div class="block">
-    <h4>Feedback about our hit debut follow-up “As Sure As Your Sorrow Is Joy”.</h4>
+    <h4>Feedback about our hit debut follow-up “As Sure As Your Sorrow Is Joy”</h4>
     <p>
       <b>From Music Glory at playlister.club – </b><i
         >Joy and sorrow and inseparable, together they come. Congrats on a masterful song 👏</i
@@ -112,7 +99,7 @@
     </p>
  </div>
   <div class="block">
-    <h4>Feedback about our debut single, “Love On The Rocks (Shipwrecked)”.</h4>
+    <h4>Feedback about our debut single, “Love On The Rocks (Shipwrecked)”</h4>
     <p>
       <b>From Niko at Indie Music Center –</b>
       <i
