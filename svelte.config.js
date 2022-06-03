@@ -1,4 +1,4 @@
-import adapter from "@sveltejs/adapter-auto";
+import vercel from "@sveltejs/adapter-vercel";
 import preprocess from "svelte-preprocess";
 import { resolve } from "path";
 import { mdsvex } from "mdsvex";
@@ -25,7 +25,7 @@ const config = {
         }
       }
     },
-    adapter: adapter()
+    adapter: vercel()
   },
   extensions: [".svelte", ".svx"],
   preprocess: [
