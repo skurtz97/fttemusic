@@ -287,11 +287,11 @@
   }
 
   a {
-    color: #0157b9;
+    color: #42a1e0;
     text-decoration: none;
   }
   a:hover {
-    color: #0e63c4;
+    color: #4391eb;
     text-decoration: underline;
   }
 
