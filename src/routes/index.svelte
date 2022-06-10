@@ -129,9 +129,6 @@
 </div>
 
 <style>
-  br {
-    margin-bottom: 0.25rem;
-  }
   div {
     width: 70ch;
     margin: 0.5rem auto;
