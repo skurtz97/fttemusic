@@ -263,11 +263,22 @@
   #mc_embed_signup {
     width: 100%;
   }
+  #mc_embed_signup .button {
+    background-color: #a2a4a9;
+    font-weight: 500;
+  }
+  #mc_embed_signup .button:hover {
+    background-color: rgb(190, 190, 190);
+  }
+
   #mc-embedded-subscribe-form {
     background-color: #000000;
     color: #fefefe;
     padding: 0;
     width: 100%;
+  }
+  #mc-embedded-subscribe {
+    background-color: #a2a4a9;
   }
 
   h4 {
