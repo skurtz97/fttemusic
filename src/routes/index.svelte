@@ -22,10 +22,11 @@
     <h4>Where Sound And Vision Collide</h4>
   </div>
   <p>
-    Announcing our latest streaming music and music video, <b class="RO">ROBOT ODDiTY</b>, coming June 10, 2022.
+    Announcing our latest streaming music and music video, <b class="RO">ROBOT ODDiTY</b>, coming
+    June 10, 2022.
   </p>
   <a href="https://found.ee/ftteRO">Pre-Save Links Here</a>
-  <p></p>
+  <p />
   <div class="iframe-container">
     <iframe
       src="https://www.youtube-nocookie.com/embed/CPFG6Sm1trY?origin=https://friendstotheend.net"
@@ -35,7 +36,7 @@
       allowfullscreen
     />
   </div>
- <div class="iframe-container">
+  <div class="iframe-container">
     <iframe
       src="https://www.youtube-nocookie.com/embed/hi2aOLmzWnY?origin=https://friendstotheend.net"
       title="YouTube video player"
@@ -67,7 +68,9 @@
     joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
   <p>
-    Try the chill music videos released since August 2020: <b>Where'd You Put The Baby?</b>, <b> A World Of Troubles</b>, <b> As Sure As Your Sorrow Is Joy</b>,  and <b> Love On The Rocks (Shipwrecked)</b>.
+    Try the chill music videos released since August 2020: <b>Where'd You Put The Baby?</b>,
+    <b> A World Of Troubles</b>, <b> As Sure As Your Sorrow Is Joy</b>, and
+    <b> Love On The Rocks (Shipwrecked)</b>.
   </p>
   <div class="videos">
     <div class="iframe-container">
@@ -112,7 +115,7 @@
       Watch this video for a sneak-peak behind the scenes and in front of the camera. And discover
       lyrics and more streaming samples of Modern soft rock on our <a href="/songs">Songs page.</a>
     </p>
-  
+
     <div class="iframe-container">
       <iframe
         src="https://www.youtube-nocookie.com/embed/u9uY9la3zLA?origin=https://friendstotheend.net"
@@ -123,11 +126,11 @@
       />
     </div>
   </div>
- </div>
+</div>
 
 <style>
   br {
-    margin-bottom: .25rem;
+    margin-bottom: 0.25rem;
   }
   div {
     width: 70ch;
@@ -165,9 +168,9 @@
   .spotify-playlist {
     margin-bottom: 0.5rem;
   }
-.RO { 
-  font-size: larger;
-}
+  .RO {
+    font-size: larger;
+  }
   .videos {
     display: flex;
     flex-direction: column;

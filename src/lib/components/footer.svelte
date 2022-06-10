@@ -213,6 +213,7 @@
             (@<a
               href="https://www.instagram.com/friendstotheendmusic/?utm_source=ig_embed&amp;utm_campaign=loading"
               style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;"
+              name="ig-embed-0"
               target="_blank">friendstotheendmusic</a
             >) • Instagram photos and videos
           </p>

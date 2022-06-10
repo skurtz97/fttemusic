@@ -23,7 +23,7 @@
 </aside>
 <nav class="navbar open">
   <a href="/">{brand}</a>
-  <button class:open on:click={() => (open = !open)}>
+  <button class:open on:click={() => (open = !open)} name="burger">
     <svg width="32" height="24" fill="currentColor">
       <line id="top" x1="0" y1="2" x2="32" y2="2" />
       <line id="middle" x1="0" y1="12" x2="32" y2="12" />
@@ -33,7 +33,7 @@
 
   <ul>
     {#each links as link}
-      <a href={link.href}>{link.text}</a>
+      <a name={link.text} href={link.href}>{link.text}</a>
     {/each}
     <a href="/mailing-list">
       <div class="envelope">
