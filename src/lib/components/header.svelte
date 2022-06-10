@@ -43,7 +43,7 @@
   <nav class="nav" class:open>
     <a href="/">{brand}</a>
     {#if current === "opened" || width < 900}
-      <button class="burger" class:open on:click={toggleOpen}>
+      <button name="burger" class="burger" class:open on:click={toggleOpen}>
         <svg width="32" height="24" fill="currentColor">
           <line id="top" x1="0" y1="2" x2="32" y2="2" />
           <line id="middle" x1="0" y1="12" x2="32" y2="12" />
