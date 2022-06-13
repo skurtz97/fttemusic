@@ -20,12 +20,11 @@
   <p>
     A cerulean blue android spins his regretful victory song on a keyboard odyssey from a
     bric-a-brac robot factory to a sunny, magic beach town finale, while riding sonic waves of
-    piano, synth and brassy percussion shuffles. <b>ROBOT ODDiTY </b>is the upcoming spring 2022
+    piano, synth and brassy percussion shuffles. <b>ROBOT ODDiTY </b>is the summer 2022
     <b>Modern soft rock</b> track from <b>Friends To The End</b>. The accompanying edgy music video
-    with a psychedelic twist paints the tale of indoctrination and moral discovery by
-    <b>Thom Kurtz</b>, the creator behind his
-    <b>Friends To The End</b> band project, with a near-death experience in a raging fire at a power
-    plant, while living as “wires inside an iron can.”
+    with a psychedelic twist paints a tale of indoctrination and moral discovery by
+    <b>Thom Kurtz</b>, the creator behind his <b>Friends To The End</b> band project, with a near-death
+    experience in a raging fire at a power plant, while living as “wires inside an iron can.”
   </p>
   <p>
     <b>ROBOT ODDiTY</b> is the follow-up to the Youtube music video hit

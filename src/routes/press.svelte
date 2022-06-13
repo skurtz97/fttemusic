@@ -10,13 +10,29 @@
 
 <div class="banner" />
 <div class="container">
-
   <div class="block">
     <h4>Feedback about our latest single, “ROBOT ODDiTY”</h4>
     <p>
       <b>From our press release package -–</b>
       <i
-        >A cerulean blue android spins his regretful victory song on a keyboard odyssey from a bric-a-brac robot factory to a sunny, magic beach town finale, while riding sonic waves of piano, synth and brassy percussion shuffles. ROBOT ODDiTY is the upcoming spring 2022 Modern soft rock track from Friends To The End. The accompanying edgy music video with a psychedelic twist paints the tale of indoctrination and moral discovery by Thom Kurtz, the creator behind his Friends To The End band project, with a near-death experience in a raging fire at a power plant, while living as “wires inside an iron can.”
+        >A cerulean blue android spins his regretful victory song on a keyboard odyssey from a
+        bric-a-brac robot factory to a sunny, magic beach town finale, while riding sonic waves of
+        piano, synth and brassy percussion shuffles. ROBOT ODDiTY is the upcoming spring 2022 Modern
+        soft rock track from Friends To The End. The accompanying edgy music video with a
+        psychedelic twist paints the tale of indoctrination and moral discovery by Thom Kurtz, the
+        creator behind his Friends To The End band project, with a near-death experience in a raging
+        fire at a power plant, while living as “wires inside an iron can.”
+      </i>
+    </p>
+    <p>
+      <b>
+        ( <a href="https://roadie-music.com/friends-to-the-end-lancado-o-novo-single-robot-oddity/">
+          From Leandro Vianna at Roadie Music
+        </a>) -–</b
+      >
+      <i
+        >"Traveling between Indie and Psychedelic Rock, it delivers dense, strong and striking
+        music, with great arrangements and melodies.” (translated from the Portuguese)
       </i>
     </p>
   </div>
@@ -25,15 +41,18 @@
     <h4>Feedback about our last hit single “Where'd You Put The Baby?”</h4>
     <p>
       <b>From Bruno Kukaj of playlister.club – </b><i
-        >Cool instrumental , such a nice and rich melody , also the vocal was great ! </i
-      >
+        >Cool instrumental , such a nice and rich melody , also the vocal was great !
+      </i>
     </p>
     <p>
       <b>From Anonymous at playlister.club – </b><i
-        >The lyrics of the song are really interesting, it is a remarkable point. I think that the guitars accompany in a solid way, they sound with a very good color. The singer has a good performance too. Great job!</i
+        >The lyrics of the song are really interesting, it is a remarkable point. I think that the
+        guitars accompany in a solid way, they sound with a very good color. The singer has a good
+        performance too. Great job!</i
       >
     </p>
- </div>  <h3>
+  </div>
+  <h3>
     <a href="https://happymag.tv/friends-to-the-end-interview/">
       Check out the interview at HappyMag.TV
     </a>
@@ -62,14 +81,15 @@
   </h3>
   <div class="block">
     <h4>Feedback about our hopeful anthem, “A World Of Troubles”</h4>
-     <p>
+    <p>
       <b>From Anonymous at playlister.club – </b>
       <i
-        >The song has a really engaging style, the sound design sounds very colorful and creates an enjoyable atmosphere. The vocals sound compelling. Very good work!
+        >The song has a really engaging style, the sound design sounds very colorful and creates an
+        enjoyable atmosphere. The vocals sound compelling. Very good work!
       </i>
     </p>
   </div>
- <div class="block">
+  <div class="block">
     <h4>Feedback about our hit debut follow-up “As Sure As Your Sorrow Is Joy”</h4>
     <p>
       <b>From Music Glory at playlister.club – </b><i
@@ -94,10 +114,12 @@
     </p>
     <p>
       <b>From LORD VINCENT at playlister.club – </b><i
-        >this song is perfect for my classic playlist, I like the instruments chosen for the arrangement by the artist, I especially like the violins. The song has intense meaning and well written lyrics, overall it's a good job that I'm happy to add to my playlist.</i
+        >this song is perfect for my classic playlist, I like the instruments chosen for the
+        arrangement by the artist, I especially like the violins. The song has intense meaning and
+        well written lyrics, overall it's a good job that I'm happy to add to my playlist.</i
       >
     </p>
- </div>
+  </div>
   <div class="block">
     <h4>Feedback about our debut single, “Love On The Rocks (Shipwrecked)”</h4>
     <p>
@@ -118,7 +140,8 @@
     <p>
       <b>From KOALA at playlister.club – </b>
       <i
-        >Amazing style and mood, very talented and professional. Clearly you are a skillful artist. Great combination of sounds. Keep this way.
+        >Amazing style and mood, very talented and professional. Clearly you are a skillful artist.
+        Great combination of sounds. Keep this way.
       </i>
     </p>
   </div>
