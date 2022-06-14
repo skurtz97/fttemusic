@@ -13,6 +13,13 @@
   <div class="block">
     <h4>Feedback about our latest single, “ROBOT ODDiTY”</h4>
     <p>
+      <b>From Nataliia Do (Spotify playlister) -–</b>
+      <i
+        >Something incredible the keyboard playing is irresistible. And the voice is beautiful,
+        strong and pleasing to the ear. This is a very high quality and beautifully crafted song.
+      </i>
+    </p>
+    <p>
       <b>From our press release package -–</b>
       <i
         >A cerulean blue android spins his regretful victory song on a keyboard odyssey from a
