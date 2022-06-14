@@ -13,6 +13,14 @@
   <div class="block">
     <h4>Feedback about our latest single, “ROBOT ODDiTY”</h4>
     <p>
+      <b>From Music On The Moon (Spotify playlister) -–</b>
+      <i
+        >Unique sound. Cool synth sounds. Avant-garde arrangement and melody lines. Quirky. Strong
+        vocals. Quick flowing arrangement. Plenty of push and pull to the energy. Imaginative
+        lyricism that paints an immersive world. Well crafted.
+      </i>
+    </p>
+    <p>
       <b>From Nataliia Do (Spotify playlister) -–</b>
       <i
         >Something incredible the keyboard playing is irresistible. And the voice is beautiful,
