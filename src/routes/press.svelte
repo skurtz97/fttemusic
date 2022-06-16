@@ -13,6 +13,24 @@
   <div class="block">
     <h4>Feedback about our latest single, “ROBOT ODDiTY”</h4>
     <p>
+      <b>From UNXIGNED blogsite -–</b>
+      <i
+        >Curious, lush, and inventive vibe here. The track blends lo-fi rock and psychedelic pop
+        textures that make for a classic-flavored, contemplative, and grounded character that’s easy
+        to jam along to. Recalls the likes of The Beatles, The Shins, Pink Floyd, David Bowie, etc.
+        Clearly the style combines these genres. Appreciate the spacious feel as well as the suiting
+        vocal work.
+      </i>
+    </p>
+    <p>
+      <b>From Alpas Records -–</b>
+      <i
+        >Indeed a pretty original song, the layered melodies are quite pleasing to listen to . . .
+        Pleasing feel . . . pronounced keys and percussive elements. A bit of Frank Zappa and a slow
+        paced Abba mixed with some jazzy instrumentals.
+      </i>
+    </p>
+    <p>
       <b>From Music On The Moon (Spotify playlister) -–</b>
       <i
         >Unique sound. Cool synth sounds. Avant-garde arrangement and melody lines. Quirky. Strong
