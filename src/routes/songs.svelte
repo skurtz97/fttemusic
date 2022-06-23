@@ -76,7 +76,7 @@
     </p>
     <p>
       Music & lyrics by Thom Kurtz. Published by Friends to the End Music (ASCAP). Sound recordings
-      ℗ 2016-2020 by Thom Kurtz.
+      ℗ 2016-2022 by Thom Kurtz.
     </p>
     <p>
       “At the Matinee” image: Douglass, Neal. Christmas Lights on Congress Avenue, photograph,
