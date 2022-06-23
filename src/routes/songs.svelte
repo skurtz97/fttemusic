@@ -70,8 +70,9 @@
       an unpredictable brass arrangement.
     </p>
     <p>
-      All songs written, produced and arranged by Thom Kurtz. Sound engineering and mix by Tim
-      Dolbear.
+      All songs written, produced and arranged by Thom Kurtz. Co-produced by Tim Dolbear on all
+      tracks except Poetry Pop and ROBOT ODDiTY. Sound engineering, mix and mastering by Tim
+      Dolbear, Eclectica Studios, Nashville on all tracks.
     </p>
     <p>
       Music & lyrics by Thom Kurtz. Published by Friends to the End Music (ASCAP). Sound recordings
