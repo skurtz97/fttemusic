@@ -25,7 +25,7 @@
     Announcing our latest streaming music and music video, <b class="RO">ROBOT ODDiTY</b>, coming
     June 10, 2022.
   </p>
-  <a href="https://found.ee/ftteRO">Pre-Save Links Here</a>
+  <a href="https://found.ee/ftteRO">Streaming and other Links Here</a>
   <p />
   <div class="iframe-container">
     <iframe
