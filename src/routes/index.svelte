@@ -22,32 +22,14 @@
     <h4>Where Sound And Vision Collide</h4>
   </div>
   <p>
-    Announcing our latest streaming music and music video, <b class="RO">ROBOT ODDiTY</b>, coming
-    June 10, 2022.
+    Enjoy our latest streaming music and music video, <b class="RO">ROBOT ODDiTY</b>, for summer
+    2022.
   </p>
   <a href="https://found.ee/ftteRO">Streaming and other Links Here</a>
   <p />
   <div class="iframe-container">
     <iframe
-      src="https://www.youtube-nocookie.com/embed/CPFG6Sm1trY?origin=https://friendstotheend.net"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-    />
-  </div>
-  <div class="iframe-container">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/hi2aOLmzWnY?origin=https://friendstotheend.net"
-      title="YouTube video player"
-      frameborder="0"
-      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-    />
-  </div>
-  <div class="iframe-container">
-    <iframe
-      src="https://www.youtube-nocookie.com/embed/CTYxIrzTmQE?origin=https://friendstotheend.net"
+      src="https://www.youtube-nocookie.com/embed/-phPAiOZCUE?origin=https://friendstotheend.net"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -58,7 +40,7 @@
   <iframe
     src="https://open.spotify.com/embed/playlist/59cyAP6DTR7SReJGuXHLSE"
     width="100%"
-    height="290px"
+    height="400px"
     frameborder="0"
     title="Spotify Playlist Embed"
     class="spotify-playlist"
