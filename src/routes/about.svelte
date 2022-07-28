@@ -51,7 +51,7 @@
     brightens the
     <b>Modern soft rock ballad</b> with a hopeful glimmer as Julia surveys other ships along the
     bay. Viewership for the <b>Friends To The End</b> music channel tops 2,000 subscribers with more
-    than 700K total views, for three more recent single releases through 2021, and also including promo
+    than 800K total views, for three more recent single releases through 2021, and also including promo
     and demo videos released since 2016, such as “Ameri-Cat Idol.”
   </p>
   <p>
