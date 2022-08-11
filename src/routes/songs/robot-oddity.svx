@@ -10,6 +10,13 @@ embeds:
  - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1177856479&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
+<div slot="intro">
+
+Friends To The End's summer and fall 2022 keyboard odyssey of sound and vision by the indoctrinated robot.
+
+[ROBOT ODDiTY Press Release \[pdf\]](https://drive.google.com/file/d/1LRciEY7BiBWKErGQjnibJBNR_jJbMzyS/view?usp=sharing)
+</div>
+
 I was born and raised in a robot factory.  
 I run on oxygen and a lifetime warranty.  
 They taught us everything we might need to know.  
