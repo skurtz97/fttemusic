@@ -1,0 +1,70 @@
+---
+slug: "chinese-underground"
+title: "Chinese Underground"
+subtitle: "( Your friends won't find you. )"
+date: "2023-03-31"
+next: "top-of-the-world"
+previous: "robot-oddity"
+embeds: 
+ - "https://www.youtube.com/embed/sXEdYtdBTsg"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1312171138%3Fsecret_token%3Ds-xyQZWY23dtG&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
+---
+
+<div slot="intro">
+
+1st release by Friends To The End for 2023 pokes fun at your friendly neighborhood party leaders.
+
+[Chinese Underground Press Release \[pdf\]](https://drive.google.com/file/d/1k_uy_m20G5zhHkTFfkAS3MKmK_vcGMlQ/view?usp=sharing)
+</div>
+
+I thought Mao Zedong was dead and buried, the
+Kind of man who never married
+Now that he’s back up on his throne. You
+Better watch out or he’ll break your bones. He
+
+Climbed back up from the Chinese Underground
+Chinese Underground
+Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!
+
+I don’t wanna see you with a beard. And
+Tell those girls, “Don’cha dress so weird.” You
+Don’t wanna live where it’s cold and damp. And
+There’s plenty of room in the training camp. You’ll
+
+Find yourself in the Chinese Underground,
+Chinese Underground
+Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!
+(Marimba solo verse)
+Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!
+
+Chinese Underground
+Chinese underground
+
+You don’t wanna be caught with a cross. They
+Don’t want Jesus to be the boss.
+Now that he’s back up in his room
+Never again in the fam’ly tomb, but you’ll
+
+Rise right up from the Chinese Underground
+Chinese underground.
+Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!
+
+I thought Mao Zedong was dead and buried, the
+Kind of man who never wearied, for
+Now that he’s back out on the roam. You
+Better watch out ‘cause he’s not alone. But your
+
+Friends won’t find you in the Chinese Underground
+Chinese Underground
+Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!  
+
+
+
+<div slot="credits">
+      <p>Cover artwork:  <a href="https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%BC%95%E7%8E%89%E8%A1%A3_%E7%8B%AE%E5%AD%90%E5%B1%B1%E6%B1%89%E5%A2%93.jpg">Jade Shroud Sewn with Gold Threads。1995</a></p>
+      <p>Programming by Thom Kurtz and percussion programming by Tim Dolbear and Thom Kurtz. Produced by Thom Kurtz.</p>
+      <p>Erhus played and recorded by Erwen Erhu. </p>
+      <p>Mix and master by Tim Dolbear for Eclectica Studios, Nashville.</p>
+      <p>Copyright © 2022 Lyrics and Music by Thomas Kurtz (ASCAP 4732692 / IPI 818383223) ISWC: T9313951223 ISRC: QZESK2200109</p>
+      <p>Friends to the End Music Publishing (ASCAP 818383615) All rights reserved. For licensing, fttemusic@gmail.com</p>
+</div>

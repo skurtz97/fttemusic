@@ -224,7 +224,7 @@
     <Social display={false} />
   </div>
 </footer>
-<p class="copyright">© 2020-2022 Friends To The End</p>
+<p class="copyright">© 2020-2023 Friends To The End</p>
 
 <style>
   footer {
