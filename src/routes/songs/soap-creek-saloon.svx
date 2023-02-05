@@ -1,7 +1,7 @@
 ---
 slug: "soap-creek-saloon"
 title: "SOAP CREEK SALOON"
-subtitle: "( Why act like you're so immune ? )"
+subtitle: "(Why act like you're so immune?)"
 date: "2018-01-31"
 next: "old-pecan-street"
 previous: "at-the-matinee"

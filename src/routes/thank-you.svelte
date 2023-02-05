@@ -9,30 +9,32 @@
 />
 
 <div class="container">
-  <h1>THANK YOU! &nbsp; Here's your preview.</h1><p></p>
-    <div class="embed-container">
+  <h1>THANK YOU! &nbsp; Here's your preview.</h1>
+  <p />
+  <div class="embed-container">
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube-nocookie.com/embed/-phPAiOZCUE?origin=https://friendstotheend.net"
+      src="https://www.youtube-nocookie.com/embed/sXEdYtdBTsg?origin=https://friendstotheend.net"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
     />
   </div>
- <h3>You should receive an email with a link to unreleased bonus content.</h3>
+  <h3>You should receive an email with a link to unreleased bonus content.</h3>
 
   <p>
     What an encouragement to have you with us at <b>Friends To The End!</b> We’ve been charting off
     to infinity and beyond, with your continued support. Be sure to hear our recent releases
+    <b>ROBOT ODDiTY</b>,
     <b>Where’d You Put The Baby?</b>
     and <b>A World Of Troubles</b> at our <a href="/songs">our Songs page</a> or any digital streaming
     platform (DSP) like Apple Music, Spotify or Amazon Music.
   </p>
   <p>
-    To show our appreciation, have yourself an advance screening of our unreleased new music video
-    for <b>ROBOT ODDiTY</b>, coming to all the DSPs on June 1, 2022.
+    To show our appreciation, have yourself an advance screening of our unreleased new lyric music
+    video for <b>Chinese Underground</b>, coming to all the DSPs in spring, 2023.
   </p>
 </div>
 

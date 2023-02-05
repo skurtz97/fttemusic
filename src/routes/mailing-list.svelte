@@ -13,7 +13,7 @@
     <iframe
       width="560"
       height="315"
-      src="https://www.youtube-nocookie.com/embed/2kYqNSJWUig?origin=https://friendstotheend.net"
+      src="https://www.youtube-nocookie.com/embed/sXEdYtdBTsg?origin=https://friendstotheend.net"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -29,12 +29,12 @@
       <button class="btn">Sign up</button>
     </form>
   </div>
-  <h2>The Indie music video event of 2022!</h2>
+  <h2>Chinese Underground - the Indie lyric music video event of 2023!</h2>
   <p class="outro-text">
     Sign up for all the news and avoid FOMO Modern soft rock music by Friends To The End, creator of
-    2021 hits "Where'd You Put The Baby?" and "A World Of Troubles." Sign-up for Friends To The End
-    email news for advance screening of our upcoming release, ROBOT ODDiTY, plus a bonus track link
-    in mail box.
+    2022 hit "ROBOT ODDiTY", and 2021 hits "Where'd You Put The Baby?" and "A World Of Troubles."
+    Sign-up for Friends To The End email news for advance screening of our upcoming release, ROBOT
+    ODDiTY, plus a bonus track link in mail box.
   </p>
 </div>
 

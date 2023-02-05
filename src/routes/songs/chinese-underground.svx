@@ -58,6 +58,7 @@ Friends won’t find you in the Chinese Underground
 Chinese Underground
 Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!  
 
+***There are some anecdotes I could tell.***
 
 
 <div slot="credits">
