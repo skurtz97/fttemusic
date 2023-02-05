@@ -3,7 +3,7 @@ slug: "robot-oddity"
 title: "ROBOT ODDiTY"
 subtitle: "( And they called me the Magic Man )"
 date: "2022-04-04"
-next: "top-of-the-world"
+next: "chinese-underground"
 previous: "whered-you-put-the-baby"
 embeds: 
  - "https://www.youtube.com/embed/-phPAiOZCUE"
