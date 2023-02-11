@@ -21,13 +21,68 @@
     />
   </div>
   <div class="form">
-    <form>
-      <label for="name">First Name (Required)</label>
-      <input type="text" name="name" placeholder="Your First Name" />
-      <label for="email">Email Address (Required)</label>
-      <input type="email" name="email" placeholder="Your Email Address" />
-      <button class="btn">Sign up</button>
-    </form>
+    <div id="mc_embed_signup">
+      <form
+        action="https://friendstotheend.us15.list-manage.com/subscribe/post?u=88cbadfcb52a89a0a655bf0d6&amp;id=af29feb557"
+        method="post"
+        id="mc-embedded-subscribe-form"
+        name="mc-embedded-subscribe-form"
+        class="validate"
+        target="_blank"
+        novalidate
+      >
+        <div id="mc_embed_signup_scroll">
+          <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+          <div class="mc-field-group">
+            <label for="mce-EMAIL">Email Address (Required) <span class="asterisk">*</span> </label>
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" />
+          </div>
+          <div class="mc-field-group">
+            <label for="mce-FNAME">First Name (Required) </label>
+            <input type="text" value="" name="FNAME" class="" id="mce-FNAME" />
+          </div>
+          <div id="mce-responses" class="clear foot">
+            <div class="response" id="mce-error-response" style="display:none" />
+            <div class="response" id="mce-success-response" style="display:none" />
+          </div>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+            <input
+              type="text"
+              name="b_88cbadfcb52a89a0a655bf0d6_af29feb557"
+              tabindex="-1"
+              value=""
+            />
+          </div>
+          <div class="optionalParent">
+            <div class="clear foot">
+              <input
+                type="submit"
+                value="Subscribe"
+                name="subscribe"
+                id="mc-embedded-subscribe"
+                class="button"
+              />
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+    <script
+      type="text/javascript"
+      src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"
+    ></script><script type="text/javascript">
+      (function ($) {
+        window.fnames = new Array();
+        window.ftypes = new Array();
+        fnames[0] = "EMAIL";
+        ftypes[0] = "email";
+        fnames[3] = "FNAME";
+        ftypes[3] = "text";
+      })(jQuery);
+      var $mcj = jQuery.noConflict(true);
+    </script>
+    <!--End mc_embed_signup-->
   </div>
   <h2>Chinese Underground - the Indie lyric music video event of 2023!</h2>
   <p class="outro-text">
@@ -81,19 +136,6 @@
   label {
     margin-bottom: 0.25rem;
     text-align: left;
-  }
-  button {
-    font-size: 12pt;
-    padding: 0.5rem;
-    border-radius: 4px;
-    background-color: #333333;
-    color: white;
-    border: none;
-    margin-top: 1rem;
-  }
-  button:hover {
-    background-color: #4d4d4d;
-    cursor: pointer;
   }
   input {
     font-size: 12pt;
