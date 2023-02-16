@@ -6,7 +6,7 @@ date: "2023-03-31"
 next: "top-of-the-world"
 previous: "robot-oddity"
 embeds: 
- - "https://www.youtube.com/embed/sXEdYtdBTsg"
+ - "https://www.youtube.com/embed/iik_LghBTiw"
  - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1312171138%3Fsecret_token%3Ds-xyQZWY23dtG&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
@@ -65,8 +65,11 @@ Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!
 
 <div slot="credits">
       <p>Cover artwork:  <a href="https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%BC%95%E7%8E%89%E8%A1%A3_%E7%8B%AE%E5%AD%90%E5%B1%B1%E6%B1%89%E5%A2%93.jpg">Jade Shroud Sewn with Gold Threads。1995</a></p>
-      <p>Programming by Thom Kurtz and percussion programming by Tim Dolbear and Thom Kurtz. Produced by Thom Kurtz.</p>
-      <p>Erhus played and recorded by Erwen Erhu. </p>
+      <p>Lead vocals and programming by Thom Kurtz</p>
+      <p>Percussion programming by Tim Dolbear and Thom Kurtz.</p>
+      <p>Produced by Thom Kurtz.</p>
+      <p>Erhus played and recorded by Erwen Erhu.</p>
+      <p>Backing vocals by Lonnie Trevino Jr., Julia Courtney, Kelly X. Chen, and Thom Kurtz. Vocals recorded by Dante De Paoli at Warm Audio Studios, except Lonnie Trevino Jr. and Kelly X. Chen recorded by Kevin Chen for Northshore Media Productions.</p>  
       <p>Mix and master by Tim Dolbear for Eclectica Studios, Nashville.</p>
       <p>Copyright © 2022 Lyrics and Music by Thomas Kurtz (ASCAP 4732692 / IPI 818383223) ISWC: T9313951223 ISRC: QZESK2200109</p>
       <p>Friends to the End Music Publishing (ASCAP 818383615) All rights reserved. For licensing, fttemusic@gmail.com</p>

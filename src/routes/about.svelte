@@ -51,9 +51,9 @@
     shipwrecked on the rocks of another broken romance. A shimmering, Chopin-inspired piano riff
     brightens the
     <b>Modern soft rock ballad</b> with a hopeful glimmer as Julia surveys other ships along the
-    bay. Viewership for the <b>Friends To The End</b> music channel tops 2,000 subscribers with more
-    than 800K total views, for three more recent single releases through 2021, and also including promo
-    and demo videos released since 2016, such as “Ameri-Cat Idol.”
+    bay. Viewership for the <b>Friends To The End</b> music channel tops 2,200 subscribers with more
+    than 1 Million total views, for three more recent single releases through 2021, and also including
+    promo and demo videos released since 2016, such as “Ameri-Cat Idol.”
   </p>
   <p>
     The lovely <b>Susanna Lee</b> sings the breezy Pacific coast vocals for the hopeful anthem,
