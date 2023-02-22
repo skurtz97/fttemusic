@@ -7,7 +7,8 @@ next: "top-of-the-world"
 previous: "robot-oddity"
 embeds: 
  - "https://www.youtube.com/embed/iik_LghBTiw"
- - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1312171138%3Fsecret_token%3Ds-xyQZWY23dtG&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1312171138%3Fsecret_token%3Ds-xyQZWY23dtG&amp;color=%23d21900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1394315710%3Fsecret_token%3Ds-fZiD8lQuSA5&amp;color=%23d21900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
 <div slot="intro">
@@ -64,8 +65,8 @@ Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!
 
 
 <div slot="credits">
-      <p>Cover artwork:  <a href="https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%BC%95%E7%8E%89%E8%A1%A3_%E7%8B%AE%E5%AD%90%E5%B1%B1%E6%B1%89%E5%A2%93.jpg">Jade Shroud Sewn with Gold Threads。1995</a></p>
-      <p>Lead vocals and programming by Thom Kurtz</p>
+      <p>Cover artwork:  <a href="https://commons.wikimedia.org/wiki/File:%E9%87%91%E7%BC%95%E7%8E%89%E8%A1%A3_%E7%8B%AE%E5%AD%90%E5%B1%B1%E6%B1%89%E5%A2%93.jpg">Jade Shroud Sewn with Gold Threads。1995</a> Creative Commons Attribution-Share Alike 4.0 International license, original image cropped, rotated, and borders and text added.</p>
+      <p>Lead vocals and programming by Thom Kurtz.</p>
       <p>Percussion programming by Tim Dolbear and Thom Kurtz.</p>
       <p>Produced by Thom Kurtz.</p>
       <p>Erhus played and recorded by Erwen Erhu.</p>
