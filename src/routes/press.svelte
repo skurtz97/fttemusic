@@ -11,7 +11,10 @@
 <div class="banner" />
 <div class="container">
   <div class="block">
-    <h4>Feedback about our latest single, “ROBOT ODDiTY”</h4>
+    <h4>
+      Feedback on the way for our upcoming 2023 alt rock, the sensational “Chinese Underground”
+    </h4>
+    <h4>Feedback about our summer 2022 psychedelic hit, “ROBOT ODDiTY”</h4>
     <p>
       <b>From UNXIGNED blogsite -–</b>
       <i
@@ -71,7 +74,7 @@
   </div>
 
   <div class="block">
-    <h4>Feedback about our last hit single “Where'd You Put The Baby?”</h4>
+    <h4>Feedback about our Modern soft rock new wave hit single “Where'd You Put The Baby?”</h4>
     <p>
       <b>From Bruno Kukaj of playlister.club – </b><i
         >Cool instrumental , such a nice and rich melody , also the vocal was great !
@@ -105,15 +108,10 @@
     title="KWVH Radio Interview - Embed"
     class="playlist-embed"
   />
-  <h3>
-    <a
-      href="https://www.divideandconquermusic.com/indie-music-album-reviews/friends-to-the-end-4-track-music-video-series"
-    >
-      Try the review at Divide and Conquer Music.
-    </a>
-  </h3>
   <div class="block">
-    <h4>Feedback about our hopeful anthem, “A World Of Troubles”</h4>
+    <h4>
+      Feedback about our hopeful anthem, “A World Of Troubles” feat. Susanna Lee on lead vocal
+    </h4>
     <p>
       <b>From Anonymous at playlister.club – </b>
       <i
@@ -139,10 +137,6 @@
       <i
         >Robust and bursts at the seams … These four songs were well produced. The recording quality
         was impressive especially given the amount of instrumentation.
-        <a
-          href="https://www.divideandconquermusic.com/indie-music-album-reviews/friends-to-the-end-4-track-music-video-series"
-          >Read the review.</a
-        >
       </i>
     </p>
     <p>
@@ -154,7 +148,10 @@
     </p>
   </div>
   <div class="block">
-    <h4>Feedback about our debut single, “Love On The Rocks (Shipwrecked)”</h4>
+    <h4>
+      Feedback about our debut single, “Love On The Rocks (Shipwrecked)” feat. Julia Courtney on
+      lead vocal
+    </h4>
     <p>
       <b>From Niko at Indie Music Center –</b>
       <i
