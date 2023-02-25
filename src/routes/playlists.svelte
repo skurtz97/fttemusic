@@ -24,11 +24,21 @@
   </Accordion>
   <iframe
     class="playlist-embed"
+    src="https://open.spotify.com/embed/playlist/59XV57RJyLqyyAy6B0tkyb"
+    allowtransparency={true}
+    allow="encrypted-media"
+    width="100%"
+    height="360"
+    frameborder="0"
+    title="Modern Soft Rock Psychedelics"
+  />
+  <iframe
+    class="playlist-embed"
     src="https://open.spotify.com/embed/playlist/59cyAP6DTR7SReJGuXHLSE"
     allowtransparency={true}
     allow="encrypted-media"
     width="100%"
-    height="290px"
+    height="360"
     frameborder="0"
     title="Friends To The End Radio - Spotify Embed"
   />
@@ -48,19 +58,19 @@
     allow="autoplay"
     src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/806573073&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"
     width="100%"
-    height="450"
+    height="360"
     frameborder="0"
     title="Soap Creek Saloon - Soundcloud Embed"
   />
   <iframe
     class="playlist-embed"
-    src="https://open.spotify.com/embed/playlist/54c5s2DBsAsal2uylmkyI5"
+    src="https://open.spotify.com/embed/playlist/0WsNR26baUXTzU9p5159KD"
     allowtransparency={true}
     allow="encrypted-media"
     width="100%"
-    height="380"
+    height="360"
     frameborder="0"
-    title="The Modern soft rock pioneers - Spotify Embed"
+    title="Modern Soft Rock Power"
   />
 </div>
 

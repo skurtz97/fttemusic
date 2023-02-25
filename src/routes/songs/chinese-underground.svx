@@ -13,9 +13,9 @@ embeds:
 
 <div slot="intro">
 
-1st release by Friends To The End for 2023 pokes fun at your friendly neighborhood party leaders.
+1st release by Friends To The End for April 28, 2023 pokes fun at your friendly neighborhood party leaders.
 
-[Chinese Underground Press Release \[pdf\]](https://drive.google.com/file/d/1GLGzAIPo0EUYauapa7hwtE3l7K_zzifM/view?usp=share_link)
+[Chinese Underground Press Release \[pdf\]](https://drive.google.com/file/d/1R5DsU7uDHv7FntTg5AWXg0mb-8Je1GZo/view?usp=share_link)
 </div>
 
 I thought Mao Zedong was dead and buried, the

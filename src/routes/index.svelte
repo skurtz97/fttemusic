@@ -22,15 +22,15 @@
     <h4>Where Sound And Vision Collide</h4>
   </div>
   <p>
-    Enjoy the lyric music video for our soon to be released new song, <b class="RO"
+    Enjoy the kinetic lyric music video preview for our soon to be released new song, <b class="RO"
       >Chinese Underground</b
-    >, for spring 2023.
+    >, for April 28, 2023.
   </p>
   <!-- <a href="https://found.ee/ftteRO">Streaming and other Links Here</a> -->
   <p />
   <div class="iframe-container">
     <iframe
-      src="https://www.youtube-nocookie.com/embed/sXEdYtdBTsg?origin=https://friendstotheend.net"
+      src="https://www.youtube-nocookie.com/embed/iik_LghBTiw?origin=https://friendstotheend.net"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
