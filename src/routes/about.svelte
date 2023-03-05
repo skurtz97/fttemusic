@@ -17,23 +17,34 @@
   alt="home banner"
 />
 <div class="container">
-  <p><b>Coming soon for spring 2023 - Chinese Underground by Friends To The End</b></p>
+  <p><b>Coming April 28, 2023 - Chinese Underground by Friends To The End</b></p>
   <p>
-    A cerulean blue android spins his regretful victory song on a keyboard odyssey from a
-    bric-a-brac robot factory to a sunny, magic beach town finale, while riding sonic waves of
-    piano, synth and brassy percussion shuffles. <b>ROBOT ODDiTY </b>is the summer 2022
-    <b>Modern soft rock</b> track from <b>Friends To The End</b>. The accompanying edgy music video
-    with a psychedelic twist paints a tale of indoctrination and moral discovery by
-    <b>Thom Kurtz</b>, the creator behind his <b>Friends To The End</b> band project, with a near-death
-    experience in a raging fire at a power plant, while living as “wires inside an iron can.”
+    Marching Chinese marimbas, pining erhu players, and guzheng samples are the orchestral flairs
+    that <b>Thom Kurtz</b> mixes with his lyrical witticisms in <b>Friends To The End</b>’s new
+    single, <b>Chinese Underground</b>. The upbeat and playful ballad takes sardonic stabs at
+    authoritarian attitudes, with killer lines like:<br />
+    <i>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I thought Mao Zedong was dead and buried / the kind of man who
+      never married.”<br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“Now that he’s back up on his throne / you better watch out or he’ll
+      break your bones.</i
+    ><br /><br />
+    At first, the song seems to be mocking Mao, but the focal point is that some ideas never wither,
+    wilt, or waver. Even though they ebb, they will resurface later.
   </p>
   <p>
-    <b>ROBOT ODDiTY</b> is the follow-up to the Youtube music video hit
-    <b>Where’d You Put The Baby?</b>, now with over 140K views. This <b>Modern soft rock</b> new wave
-    satire of a romantic couple questioning their priorities finds them frantically searching the house,
-    while what they find becomes msore surreal, such as a vastly oversized baby and visions of Abe Lincoln
-    and Ruth Bader Ginsberg. The appropriately frantic, guitar-heavy music and accusatory vocals were
-    obviously inspired by David Byrnes’ subversive lyrics and the early days of Talking Heads.
+    <b>ROBOT ODDiTY</b> was the summer 2022 psychedelic <b>Modern soft rock</b> hit from
+    <b>Friends To The End</b>, riding sonic waves of piano, synth and brassy percussion shuffles.
+    The accompanying edgy music video with a psychedelic twist paints a tale of indoctrination and
+    moral discovery by <b>Thom Kurtz</b>, the creator behind his <b>Friends To The End</b> band project,
+    with a near-death experience in a raging fire at a power plant, while living as “wires inside an
+    iron can.”
+  </p>
+  <p>
+    Previously our summer 2021 <b>Modern soft rock</b> new wave Youtube music video hit was
+    <b>Where’d You Put The Baby?</b>, now with over 140K views. The appropriately frantic,
+    guitar-heavy music and accusatory vocals were obviously inspired by David Byrne's subversive
+    lyrics and the early days of Talking Heads.
   </p>
   <p>
     Kurtz’s trademark creative artistry, propelled by his arsenal of experimental theatre pop
@@ -45,28 +56,24 @@
     and prog rock.
   </p>
   <p>
-    <b>Friends To The End</b> was first launched to the DSPs like Spotify and Apple Music in August
-    2020, with the debut in audio and music video of <b>Love On The Rocks (Shipwrecked)</b>
-    featuring vocal melancholy by young <b>Julia Courtney</b>, against a dark and dreary sky
-    shipwrecked on the rocks of another broken romance. A shimmering, Chopin-inspired piano riff
-    brightens the
-    <b>Modern soft rock ballad</b> with a hopeful glimmer as Julia surveys other ships along the
-    bay. Viewership for the <b>Friends To The End</b> music channel tops 2,200 subscribers with more
-    than 1 Million total views, for three more recent single releases through 2021, and also including
-    promo and demo videos released since 2016, such as “Ameri-Cat Idol.”
-  </p>
-  <p>
     The lovely <b>Susanna Lee</b> sings the breezy Pacific coast vocals for the hopeful anthem,
     <b>A World Of Troubles</b>
     featuring peppy “Penny Lane”-meets-Haydn trumpet fanfares and a lyrical study of everlasting parts
     of life and the earth, such as air in the sky, salts in the sea, and the wind on the ocean.
   </p>
   <p>
+    <b>Friends To The End</b> first launched to DSPs like Spotify and Apple Music in August 2020,
+    with the debut of <b>Love On The Rocks (Shipwrecked)</b> featuring top-notch vocals by young
+    <b>Julia Courtney</b>, against a dark and dreary sky shipwrecked on the rocks of another broken
+    romance. Viewership for the <b>Friends To The End</b> music channel tops 2,300 subscribers with more
+    than 1 Million total views.
+  </p>
+  <p>
     Kurtz mixes the inner voice of his lyrics with imaginative visions of emotional illustrations,
-    unleashing the deep power of wisdoms of ‘humanhood’ and punctuated by musical touches of whimsy,
-    joy and sometimes sorrow, where the sound and vision collide. What’s specially poignant is how
-    each song is a destination on life’s journey, as well as a journey through the
-    <b> Friends To The End </b> song catalog.
+    unleashing the deep power of ‘humanhood’ wisdoms, punctuated by whimsy, joy and sometimes
+    sorrow, where the sound and vision collide. What’s specially poignant is how each song is a
+    destination on life’s journey, as well as a journey through the <b> Friends To The End </b> song
+    catalog.
     <b>Thom Kurtz</b> produced roughly two dozen song masters over two and a half years using his background
     in literature, art and film as a guide to the musical arrangements and collaboration with over three
     dozen session musicians.
@@ -77,9 +84,9 @@
       ><b>Friends To The End</b> sounds like a group of people, but it’s really a group of songs – and
       each song is one giant stepping stone.”</i
     >
-    Now establishing <b>Friends To The End</b> as a performing band is Kurtz’s next near term
-    challenge, in support of the exciting release of <b>ROBOT ODDiTY</b>, the next enchanting step
-    on the path to bring all these friends of his to the public.
+    Now establishing <b>Friends To The End</b> as a performing band is Kurtz’s next challenge, in
+    support of the exciting spring 2023 release of <b>Chinese Underground</b>, the next enchanting
+    introduction of these friends of his to the public.
   </p>
 
   <div class="container-photos">
