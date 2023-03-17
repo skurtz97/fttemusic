@@ -26,6 +26,17 @@
       >Chinese Underground</b
     >, for April 28, 2023.
   </p>
+  <p>
+    Marching Chinese marimbas, pining erhu players, and guzheng samples are the orchestral flairs
+    that Thom Kurtz mixes with his lyrical witticisms in <b class="RO">Friends To The End</b>’s new
+    single, <b class="RO">Chinese Underground</b>. <br /><br />The upbeat and playful ballad takes
+    sardonic stabs at authoritarian attitudes, with killer lines like,
+    <i
+      >“I thought MZ was dead and buried / The kind of man who never married / Now that he’s back up
+      on his throne / You better watch out or he’ll break your bones."</i
+    > <br /><br />At first, the song seems to be mocking Mao, but the focal point is that some ideas
+    never wither, wilt, or waver. Even though they ebb, they will resurface later.
+  </p>
   <!-- <a href="https://found.ee/ftteRO">Streaming and other Links Here</a> -->
   <p />
   <div class="iframe-container">
