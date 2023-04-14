@@ -11,9 +11,15 @@
 <div class="banner" />
 <div class="container">
   <div class="block">
-    <h4>
-      Feedback on the way for our upcoming 2023 alt rock, the sensational “Chinese Underground”
-    </h4>
+    <h4>Feedback starting to come in for our upcoming 2023 alt-rock “Chinese Underground”</h4>
+    <p>
+      <b>From Obscure Sound blogsite -–</b>
+      <i
+        >Fondly reminding me of Talking Heads and XTC with the confidently melodic vocals and
+        playful lyrics. Enjoyed the sophisti-pop added vocal . . ."Plenty of room in the training
+        camp," playing well amidst the Chinese marimba. . . . Enjoyed the creative sound overall.
+      </i>
+    </p>
     <h4>Feedback about our summer 2022 psychedelic hit, “ROBOT ODDiTY”</h4>
     <p>
       <b>From UNXIGNED blogsite -–</b>
