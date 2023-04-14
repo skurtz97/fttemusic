@@ -17,7 +17,7 @@
       <i
         >Fondly reminding me of Talking Heads and XTC with the confidently melodic vocals and
         playful lyrics. Enjoyed the sophisti-pop added vocal . . ."Plenty of room in the training
-        camp," playing well amidst the Chinese marimba. . . . Enjoyed the creative sound overall.
+        camp," playing well amidst the Chinese marimba . . . Enjoyed the creative sound overall.
       </i>
     </p>
     <h4>Feedback about our summer 2022 psychedelic hit, “ROBOT ODDiTY”</h4>
