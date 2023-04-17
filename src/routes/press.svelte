@@ -68,9 +68,11 @@
     </p>
     <p>
       <b>
-        ( <a href="https://roadie-music.com/friends-to-the-end-lancado-o-novo-single-robot-oddity/">
-          From Leandro Vianna at Roadie Music
-        </a>) -–</b
+        From Leandro Vianna at <a
+          href="https://roadie-music.com/friends-to-the-end-lancado-o-novo-single-robot-oddity/"
+        >
+          Roadie Music
+        </a> -–</b
       >
       <i
         >"Traveling between Indie and Psychedelic Rock, it delivers dense, strong and striking
