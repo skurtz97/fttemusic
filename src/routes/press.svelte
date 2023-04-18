@@ -11,13 +11,40 @@
 <div class="banner" />
 <div class="container">
   <div class="block">
-    <h4>Feedback starting to come in for our upcoming 2023 alt-rock “Chinese Underground”</h4>
+    <h4>
+      Feedback starting to come in for our upcoming 2023 alt-rock, art rock “Chinese Underground”
+    </h4>
+    <p>
+      <b>From Columna Musical blogsite -–</b>
+      <i
+        >Rich sonic layers and clear Zappa influences, especially creative use of Chinese
+        instruments adding unique colors to the tune. Noteworthy lyrics as well.
+      </i>
+    </p>
+    <p>
+      <b>From Phonograph Me blogsite -–</b>
+      <i
+        >Well-crafted, lively and vibrant, with energetic instrumentation and dynamic harmonies,
+        quite fond of the intricate textures . . Everything sounds so effortless.
+      </i>
+    </p>
     <p>
       <b>From Obscure Sound blogsite -–</b>
       <i
         >Fondly reminding me of Talking Heads and XTC with the confidently melodic vocals and
         playful lyrics. Enjoyed the sophisti-pop added vocal . . ."Plenty of room in the training
         camp," playing well amidst the Chinese marimba . . . Enjoyed the creative sound overall.
+      </i>
+    </p>
+    <p>
+      <b>From Various Small Flames blogsite -–</b>
+      <i>The ambition and invention of the track are fantastic, making for an engaging mood. </i>
+    </p>
+    <p>
+      <b>From The Slow Music Movement blogsite -–</b>
+      <i
+        >Cool, catchy piece of pop music with a pleasingly subversive, Talking Heads sort of vibe -
+        lots of good going on here.
       </i>
     </p>
     <h4>Feedback about our summer 2022 psychedelic hit, “ROBOT ODDiTY”</h4>
