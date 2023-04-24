@@ -20,9 +20,9 @@
   <p><b>Coming April 28, 2023 - Chinese Underground by Friends To The End</b></p>
   <p>
     Marching Chinese marimbas, pining erhu players, and guzheng samples are the orchestral flairs
-    that <b>Thom Kurtz</b> mixes with his lyrical witticisms in <b>Friends To The End</b>’s new
-    single, <b>Chinese Underground</b>. The upbeat and playful ballad takes sardonic stabs at
-    authoritarian attitudes, with killer lines like:<br />
+    that Austin, TX-based <b>Thom Kurtz</b> mixes with his lyrical witticisms in
+    <b>Friends To The End</b>’s new single, <b>Chinese Underground</b>. The upbeat and playful
+    ballad takes sardonic stabs at authoritarian attitudes, with killer lines like:<br />
     <i>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“I thought Mao Zedong was dead and buried / the kind of man who
       never married.”<br />
@@ -36,9 +36,9 @@
     <b>ROBOT ODDiTY</b> was the summer 2022 psychedelic <b>Modern soft rock</b> hit from
     <b>Friends To The End</b>, riding sonic waves of piano, synth and brassy percussion shuffles.
     The accompanying edgy music video with a psychedelic twist paints a tale of indoctrination and
-    moral discovery by <b>Thom Kurtz</b>, the creator behind his <b>Friends To The End</b> band project,
-    with a near-death experience in a raging fire at a power plant, while living as “wires inside an
-    iron can.”
+    moral discovery by <b>Thom Kurtz</b>, the creator behind his
+    <b>Friends To The End</b> band project, with a near-death experience in a raging fire at a power
+    plant, while living as “wires inside an iron can.”
   </p>
   <p>
     Previously our summer 2021 <b>Modern soft rock</b> new wave Youtube music video hit was
