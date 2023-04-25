@@ -27,6 +27,12 @@
     >, for April 28, 2023.
   </p>
   <p>
+    <a href="https://kutx.org/song-of-the-day"><b class="RO">kutx.org</b></a> - the Austin Music
+    Connection -
+    <b class="RO">Song Of The Day</b>, Wednesday, April 26, 2023,
+    <b class="RO">Chinese Underground</b>.
+  </p>
+  <p>
     Marching Chinese marimbas, pining erhu players, and guzheng samples are the orchestral flairs
     that Thom Kurtz mixes with his lyrical witticisms in <b class="RO">Friends To The End</b>’s new
     single, <b class="RO">Chinese Underground</b>. <br /><br />The upbeat and playful ballad takes
