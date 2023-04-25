@@ -12,8 +12,15 @@
 <div class="container">
   <div class="block">
     <h4>
-      Feedback starting to come in for our upcoming 2023 alt-rock, art rock “Chinese Underground”
+      Nice feedback has been rolling in for our upcoming April 28, 2023 Modern soft alt-rock, art
+      rock “Chinese Underground”
     </h4>
+    <p>
+      <a href="https://kutx.org/song-of-the-day"><b class="RO">kutx.org</b></a> - the Austin Music
+      Connection -
+      <b class="RO">Song Of The Day</b>, Wednesday, April 26, 2023,
+      <b class="RO">Chinese Underground</b>.
+    </p>
     <p>
       <b>From Columna Musical blogsite -–</b>
       <i
