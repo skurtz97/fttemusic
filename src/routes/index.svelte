@@ -22,9 +22,13 @@
     <h4>Where Sound And Vision Collide</h4>
   </div>
   <p>
-    Enjoy the kinetic lyric music video preview for our soon to be released new song, <b class="RO"
+    Welcome to <b class="RO"><i>Friends To The End</i></b>, where Modern soft rock music collides
+    with videos of joy, whimsy, wisdom, and sometimes, sorrow.
+  </p>
+  <p>
+    Enjoy the kinetic lyric music video below for our first single release for 2023, <b class="RO"
       >Chinese Underground</b
-    >, for April 28, 2023.
+    > (April 28, 2023).
   </p>
   <p>
     <a href="https://kutx.org/song-of-the-day"><b class="RO">kutx.org</b></a> - the Austin Music
@@ -43,11 +47,11 @@
     > <br /><br />At first, the song seems to be mocking Mao, but the focal point is that some ideas
     never wither, wilt, or waver. Even though they ebb, they will resurface later.<br /><br />
   </p>
-  <a href="https://found.ee/ftteCU">Streaming, Pre-Save, Press Release and other Links Here</a>
+  <a href="https://found.ee/ftteCU">Streaming, Music Videos, Press Release and other Links Here</a>
   <p />
   <div class="iframe-container">
     <iframe
-      src="https://www.youtube-nocookie.com/embed/iik_LghBTiw?origin=https://friendstotheend.net"
+      src="https://www.youtube-nocookie.com/embed/sXEdYtdBTsg?origin=https://friendstotheend.net"
       title="YouTube video player"
       frameborder="0"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -63,10 +67,6 @@
     title="Spotify Playlist Embed"
     class="spotify-playlist"
   />
-  <p>
-    Welcome to <b><i>Friends To The End</i></b>, where Modern soft rock music collides with videos
-    of joy, whimsy, wisdom, and sometimes, sorrow.
-  </p>
   <p>
     Try the chill music videos released since August 2020: <b>ROBOT ODDiTY</b>,
     <b>Where'd You Put The Baby?</b>,
