@@ -17,7 +17,12 @@
   alt="home banner"
 />
 <div class="container">
-  <p><b>Coming April 28, 2023 - Chinese Underground by Friends To The End</b></p>
+  <p>
+    <b
+      >Released April 28, 2023 - Chinese Underground by Friends To The End - now getting traction on
+      Spotify playlists with listeners from around the world</b
+    >
+  </p>
   <p>
     Marching Chinese marimbas, pining erhu players, and guzheng samples are the orchestral flairs
     that Austin, TX-based <b>Thom Kurtz</b> mixes with his lyrical witticisms in
