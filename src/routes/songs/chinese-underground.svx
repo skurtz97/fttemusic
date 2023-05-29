@@ -6,7 +6,8 @@ date: "2023-03-31"
 next: "top-of-the-world"
 previous: "robot-oddity"
 embeds: 
- - "https://www.youtube.com/embed/iik_LghBTiw"
+ - "https://www.youtube.com/embed/sXEdYtdBTsg"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1501017508%3Fsecret_token%3Ds-xyQZWY23dtG&amp;color=%23d21900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
  - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1312171138%3Fsecret_token%3Ds-xyQZWY23dtG&amp;color=%23d21900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
  - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1394315710%3Fsecret_token%3Ds-fZiD8lQuSA5&amp;color=%23d21900&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
