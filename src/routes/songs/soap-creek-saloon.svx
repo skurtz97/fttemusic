@@ -6,8 +6,8 @@ date: "2018-01-31"
 next: "old-pecan-street"
 previous: "at-the-matinee"
 embeds: 
- - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/592353351&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
- - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/545179806&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/545178906%3Fsecret_token%3Ds-A7xSE&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/592305450%3Fsecret_token%3Ds-FZBH9&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
 
 
@@ -57,9 +57,9 @@ At the Soap Creek Saloon?
 
 ***Then the hard part began as I searched for months to find just the right singer: with a great range, great harmonies, and able to have just the right blend of youthful exuberance and charm to take on the part of Jenny.  Kimberly Zielnicki was the perfect fit, a recent UT Austin grad from the Butler School of Music, who not only sings, but also plays an amazing fiddle.***
 
-***I had intended to have Kimberly also play fiddle on an instrumental version, but her fiddling partner and leader in Chalkboard Poets, Chris Peterson, came to the studio first.  This one-time Arkansas state fiddling champ played enough fiddle one afternoon that I never needed to bring Kimberley back.***
+***I had intended to have Kimberly also play fiddle on an instrumental version, but her fiddling partner and leader in Chalkboard Poets, Everett Wren, came to the studio first.  This one-time Arkansas state fiddling champ played enough fiddle one afternoon that I never needed to bring Kimberley back.***
 
-***The resulting two tracks — instrumental and vocal group — are two of the tracks I most enjoy hearing on my own, and most excited about considering all the amazing collaborative touches brought in by the six virtuosos – Paul, Chris, Geoff, Roger, David, and the marvelous Kimberly.***
+***The resulting two tracks — instrumental and vocal group — are two of the tracks I most enjoy hearing on my own, and most excited about considering all the amazing collaborative touches brought in by the six virtuosos – Paul, Everett, Geoff, Roger, David, and the marvelous Kimberly.***
 
 
 
@@ -71,7 +71,7 @@ Copyright © 1982, 2018   Music & lyrics by Thom Kurtz.
 
 Published by Friends to the End Music (ASCAP).    
 
-Sound recording ℗ 2018 by Thom Kurtz     
+Sound recording ℗ 2018 by Thom Kurtz.     
 
 Produced and arranged by Thom Kurtz. Co-produced by Tim Dolbear.
 
@@ -84,6 +84,8 @@ Mandolin – Paul Glasse.       Pedal steel guitar – Geoff Queen.
 Acoustic & electric bass – David Carroll.   Drums – Roger Glenn.
 
 Backing vocals – Thom, Kimberly Zielnicki, Julia Courtney. 
+
+Fiddle (instrumental version) - Everett Wren.
 
 Sound recording and mixing by Tim Dolbear, Eclectica Studios (Austin).
 </div>
