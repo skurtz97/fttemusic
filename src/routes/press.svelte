@@ -12,14 +12,24 @@
 <div class="container">
   <div class="block">
     <h4>
-      Nice feedback has been rolling in for our upcoming April 28, 2023 Modern soft alt-rock, art
-      rock “Chinese Underground”
+      Nice feedback has been rolling in for our spring 2023, Modern soft rock, alt-rock, art-rock
+      “Chinese Underground” release
     </h4>
     <p>
-      <a href="https://kutx.org/song-of-the-day"><b class="RO">kutx.org</b></a> - the Austin Music
-      Connection -
-      <b class="RO">Song Of The Day</b>, Wednesday, April 26, 2023,
+      <a href="https://kutx.org/song-of-the-day/friends-to-the-end-chinese-underground-premiere"
+        ><b class="RO">kutx FM98.9 Song of the Day Premiere</b></a
+      >
+      <b class="RO">- the Austin Music Connection - Song Of The Day</b>, Wednesday, April 26, 2023,
       <b class="RO">Chinese Underground</b>.
+    </p>
+    <p>
+      <b>From Analogue Trash blogsite -–</b>
+      <i
+        >Chinese Underground sees Kurtz examine authoritarianism in his trademark wry style. . . .
+        Chinese Underground has an air of the 80s about it, with Kurtz’s vocals in particular
+        echoing the plaintive yet melodic tones of XTC’s Andy Partridge. Zappa and Talking Heads
+        influence can be heard in the brisk, angular, and expansive influences of the arrangement.
+      </i>
     </p>
     <p>
       <b>From Columna Musical blogsite -–</b>
