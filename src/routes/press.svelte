@@ -19,7 +19,7 @@
       <a href="https://kutx.org/song-of-the-day/friends-to-the-end-chinese-underground-premiere"
         ><b class="RO">kutx FM98.9 Song of the Day Premiere</b></a
       >
-      <b class="RO">- the Austin Music Connection - Song Of The Day</b>, Wednesday, April 26, 2023,
+      <b class="RO">- the Austin Music Experience - Song Of The Day</b>, Wednesday, April 26, 2023,
       <b class="RO">Chinese Underground</b>.
     </p>
     <p>
