@@ -2,14 +2,20 @@
 slug: "soap-creek-saloon"
 title: "SOAP CREEK SALOON"
 subtitle: "(Why act like you're so immune?)"
-date: "2018-01-31"
-next: "old-pecan-street"
-previous: "at-the-matinee"
+date: "2023-08-25"
+next: "top-of-the-world"
+previous: "chinese-underground"
 embeds: 
+ - "https://www.youtube.com/embed/Tvg_fUe1DAw"
  - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/545178906%3Fsecret_token%3Ds-A7xSE&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
  - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/592305450%3Fsecret_token%3Ds-FZBH9&amp;color=%23ff5500&ampauto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
 ---
+<div slot="intro">
 
+Summer 2023 release by <b>Friends To The End</b> on August 25: <b>Time Travel & Twang</b> passes you back to the days of the iconic cosmic cowboy venue <b>Soap Creek Saloon</b>.
+
+[Soap Creek Saloon Press Release \[pdf\]](https://drive.google.com/file/d/1M3I3n3CPiKpjgcJgKIh-4okDqAzzInzB/view?usp=sharing)
+</div>
 
 Jenny saw plenty of action,  
 A mutual attraction with most of the men she knew,  

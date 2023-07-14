@@ -66,7 +66,7 @@
     <p>Friends To The End Founder</p>
   </div>
   <Accordion title="Photo Credit">
-    <p>Press photo by Kevin Chin, Northshore Media Productions, Round Rock, TX.</p>
+    <p><a href="https://nicolagell.com"><b>Press photo by Nicola Gell, Austin, TX. </b></a></p>
   </Accordion>
 </div>
 

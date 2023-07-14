@@ -10,12 +10,6 @@ embeds:
  - "https://open.spotify.com/embed/track/6rZwRmlB6TBgDqNa0spUix?utm_source=generator"
 ---
 
-
-
-
-
-
-
 <div slot="intro">
 
 Our sophomore release is essentially a neo-classical, modern soft rock world-fusion track with a surprisingly ghostly theme. The ethereal piano-viola duet and enchanting flute haunt provocative lyrics about passing from the material world.

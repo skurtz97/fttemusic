@@ -2,8 +2,8 @@
 slug: "chinese-underground"
 title: "Chinese Underground"
 subtitle: "( Your friends won't find you. )"
-date: "2023-03-31"
-next: "top-of-the-world"
+date: "2023-04-27"
+next: "soap-creek-saloon"
 previous: "robot-oddity"
 embeds: 
  - "https://www.youtube.com/embed/sXEdYtdBTsg"

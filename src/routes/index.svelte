@@ -26,19 +26,33 @@
     with videos of joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
   <p>
+    <b>COMING SOON!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).
+  </p>
+  <div class="iframe-container">
+    <iframe
+      src="https://www.youtube-nocookie.com/embed/Tvg_fUe1DAw?origin=https://friendstotheend.net"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen
+    />
+  </div>
+  <p>
     Enjoy the kinetic lyric music video below for our first single release for 2023, <b class="RO"
       >Chinese Underground</b
     > (April 28, 2023).
   </p>
   <p>
-    <a href="https://kutx.org/song-of-the-day"><b class="RO">kutx.org</b></a> - the Austin Music
-    Connection -
+    <a href="https://kutx.org/song-of-the-day/friends-to-the-end-chinese-underground-premiere"
+      ><b class="RO">kutx.org</b></a
+    >
+    - the Austin Music Connection -
     <b class="RO">Song Of The Day</b>, Wednesday, April 26, 2023,
     <b class="RO">Chinese Underground</b>.
   </p>
   <p>
     Marching Chinese marimbas, pining erhu players, and guzheng samples are the orchestral flairs
-    that Thom Kurtz mixes with his lyrical witticisms in <b class="RO">Friends To The End</b>’s new
+    that Thom Kurtz mixes with his lyrical witticisms in <b class="RO">Friends To The End</b>’s
     single, <b class="RO">Chinese Underground</b>. <br /><br />The upbeat and playful ballad takes
     sardonic stabs at authoritarian attitudes, with killer lines like,
     <i

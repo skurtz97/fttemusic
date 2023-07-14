@@ -18,10 +18,11 @@
 />
 <div class="container">
   <p>
-    <b
-      >Released April 28, 2023 - Chinese Underground by Friends To The End - now getting traction on
-      Spotify playlists with listeners from around the world</b
-    >
+    <b>COMING SOON!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).
+  </p>
+  <p>
+    Released April 28, 2023 - <b>Chinese Underground</b> by <b>Friends To The End</b> - now getting traction
+    on Spotify playlists with listeners from around the world.
   </p>
   <p>
     Marching Chinese marimbas, pining erhu players, and guzheng samples are the orchestral flairs
@@ -95,13 +96,8 @@
   </p>
 
   <div class="container-photos">
-    <div class="photos">
-      <img src="/images/about-artist-1.jpg" alt="Thom Kurtz" />
-      <img src="/images/about-artist-2.jpg" alt="Thom Kurtz" />
-    </div>
-
-    <Accordion title="Photo Credits">
-      Photos by Kevin Chin for Northshore Productions, Round Rock, TX
+    <Accordion title="Photo Credit">
+      <p><a href="https://nicolagell.com"><b>Press photo by Nicola Gell, Austin, TX. </b></a></p>
     </Accordion>
   </div>
 </div>

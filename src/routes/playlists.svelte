@@ -20,7 +20,7 @@
 />
 <div>
   <Accordion title="PLAYLISTS Photo Credit">
-    Press photo by Kevin Chin, Northshore Media Productions, Round Rock, TX.
+    <p><a href="https://nicolagell.com"><b>Press photo by Nicola Gell, Austin, TX. </b></a></p>
   </Accordion>
   <iframe
     class="playlist-embed"
