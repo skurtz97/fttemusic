@@ -2,7 +2,7 @@
 slug: "robot-oddity"
 title: "ROBOT ODDiTY"
 subtitle: "( And they called me the Magic Man )"
-date: "2022-04-04"
+date: "2022-06-10"
 next: "chinese-underground"
 previous: "whered-you-put-the-baby"
 embeds: 

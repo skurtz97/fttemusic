@@ -4,7 +4,7 @@ title: "LOVE ON THE ROCKS (Shipwrecked)"
 feature: "[feat. Julia Courtney]"
 subtitle: "( Why must I always make the same mistakes? )"
 date: "2020-08-28"
-next: "as-sure-as-your-sorrow-is-joy"
+next: "top-of-the-world"
 previous: "poetry-pop"
 embeds: 
  - "https://www.youtube.com/embed/Ru-5ls0eQfs?feature=oembed"

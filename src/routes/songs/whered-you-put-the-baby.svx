@@ -2,7 +2,7 @@
 slug: "whered-you-put-the-baby"
 title: "Where'd You Put The Baby?"
 subtitle: "( You threw out the bath water.)"
-date: "2022-04-03"
+date: "2021-06-0113"
 next:  "robot-oddity"
 previous: "a-world-of-troubles"
 embeds: 

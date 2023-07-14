@@ -3,7 +3,7 @@ slug: "a-world-of-troubles"
 title: "A World Of Troubles"
 feature: "[feat. Susanna Lee]"
 subtitle: "( A trumpet calls a nation to heal. )"
-date: "2020-12-29"
+date: "2021-01-15"
 previous: "as-sure-as-your-sorrow-is-joy"
 next: "whered-you-put-the-baby"
 embeds: 
