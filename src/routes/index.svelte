@@ -26,7 +26,10 @@
     with videos of joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
   <p>
-    <b>COMING SOON!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).
+    <b>COMING SOON!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).<br
+    /><br />
+    <a href="https://found.ee/ftteSCS"> Soap Creek Saloon pre-save links</a><br />
+    <a href="https://found.ee/pr-scs"> Soap Creek Saloon Press Release [pdf]</a>
   </p>
   <div class="iframe-container">
     <iframe
