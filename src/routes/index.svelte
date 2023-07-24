@@ -26,8 +26,8 @@
     with videos of joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
   <p>
-    <b>COMING SOON!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).<br
-    /><br />
+    <b>COMING SOON!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).
+    <b>Time Travel & Twang back to the iconic cosmic cowboy venue.</b> <br /><br />
     <a href="https://found.ee/ftteSCS"> Soap Creek Saloon pre-save links</a><br />
     <a href="https://found.ee/pr-scs"> Soap Creek Saloon Press Release [pdf]</a>
   </p>
