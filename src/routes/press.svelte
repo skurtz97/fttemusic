@@ -12,8 +12,48 @@
 <div class="container">
   <div class="block">
     <h4>
-      Nice feedback has been rolling in for our spring 2023, Modern soft rock, alt-rock, art-rock
-      “Chinese Underground” release
+      Nice feedback has been rolling in for our summer/fall 2023, Modern soft country rock Americana
+      “Soap Creek Saloon” release
+    </h4>
+    <p>
+      <b
+        >From <a
+          href="https://indiepulsemusic.com/2023/08/25/soap-creek-saloon-by-friends-to-the-end/"
+          ><b class="RO">Indie Pulse Music</b></a
+        > -–</b
+      >
+      <i
+        >Kurtz delights in strong rhymes and understated wordplay that holds the listener’s
+        attention. Ostentatious language is absent from the composition, yet it crackles with
+        obvious intelligence. . . . “Soap Creek Saloon” benefits, as well, from its brisk pace. It
+        doesn’t speed past listeners, glossing over nuance, but Friends to the End doesn’t waste
+        your time with the extraneous. It comes across as a song with a clear conception from the
+        outset rather than a meandering or overcooked composition. Kurtz and his collaborators
+        understood their mandate going in and achieve it with tasteful yet deeply felt artistry. . .
+        . The instrumental interplay struck in both versions relies on thoughtful attention to the
+        song’s demands and an absence of ego. Kurtz and the other musicians involved are intent on
+        serving the track first without any regard for personal glories. It’s as fine an expression
+        of traditional country music as you’ll hear in 2023, but don’t mistake it for loving
+        pastiche or the musical equivalent of a butterfly pinned under glass. It’s vibrant and
+        alive.
+      </i>
+    </p>
+    <p>
+      <b
+        >From <a
+          href="https://www.radiocastor.com/index.php/friends-to-the-end-sort-un-nouveau-single-western-hommage-a-austin-soap-creek-saloon/"
+          ><b class="RO">The Radio Castor</b></a
+        > -–</b
+      >
+      [English Translation]
+      <i
+        >What's particularly poignant is how each song is a destination on life's journey, as well
+        as a journey through the Friends To The End catalog of songs.
+      </i>
+    </p>
+    <h4>
+      Feedback about our spring 2023, Modern soft rock, alt-rock, art-rock “Chinese Underground”
+      release
     </h4>
     <p>
       <a href="https://kutx.org/song-of-the-day/friends-to-the-end-chinese-underground-premiere"
