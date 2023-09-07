@@ -51,6 +51,30 @@
         as a journey through the Friends To The End catalog of songs.
       </i>
     </p>
+    <p>
+      <b>Playlister comments - Awake -–</b><i
+        >Beautiful production and such beautiful vibes! Perfect for my playlist!</i
+      >
+      <b>Folk Rock Alchemist - </b><i
+        >I was totally feeling the vocals and instrumentals in this track. They were freaking
+        awesome!</i
+      >
+      <b>Supreme Playlists - </b><i
+        >The exceptional melody and well-crafted lyrics definitely caught my attention.</i
+      >
+      <b>U N Indie Folk Music - </b><i
+        >Tuneful, groovy and upbeat. The lyrics are so creative and poetic.</i
+      >
+      <b>Bristol Funk - </b><i
+        >Good harmonies and the tempo and pace of the record was incredible.</i
+      >
+      <b>Mustangs & Mavericks - </b><i>Very cool tune..fun and engaging...dug the artwork too!</i>
+      <b>SLNB - </b><i
+        >The instruments had a really upbeat vibe, and the melody was pretty catchy. The vocals were
+        really energetic, and the lyrics were interesting too.</i
+      >
+      <b>Visioner - </b><i>Beautiful work here.</i>
+    </p>
     <h4>
       Feedback about our spring 2023, Modern soft rock, alt-rock, art-rock “Chinese Underground”
       release
