@@ -18,7 +18,13 @@
 />
 <div class="container">
   <p>
-    <b>COMING SOON!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).
+    <b>Dropped!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).
+    <br /><br />
+    Another poignant commentary, this time turning the musical clock back to the legendary Austin cosmic
+    cowboy era. The ensemble's creative powerhouse, Thom Kurtz, presents his latest single,
+    <b>Soap Creek Saloon</b>, a twangy western swing that is a distinct departure from his previous
+    Frank Zappa-inspired hit, with a twangy pop Americana western swing & a brilliant Animé American
+    music video by Max McDermott.
   </p>
   <p>
     Released April 28, 2023 - <b>Chinese Underground</b> by <b>Friends To The End</b> - now getting traction
