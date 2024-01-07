@@ -29,7 +29,7 @@
     Our summer release for 2023, <b>Soap Creek Saloon</b> dropped August 25, 2023.
     <b>Time Travel & Twang</b> back to the
     <b>iconic cosmic cowboy venue with music and Animé Americana video.</b> <br /><br />
-    <a href="https://found.ee/ftteSCS"> Soap Creek Saloon pre-save links</a><br />
+    <a href="https://found.ee/ftteSCS"> Links to all Soap Creek Saloon content</a><br />
     <a href="https://found.ee/pr-scs"> Soap Creek Saloon Press Release [pdf]</a>
   </p>
   <div class="iframe-container">

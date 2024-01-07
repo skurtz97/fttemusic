@@ -66,17 +66,19 @@
   </div>
   <Accordion title="Song Credits">
     <p>
-      “Old Pecan Street” is rhythmic blues piano rock dynamite that features the Fantasma Horns on
-      an unpredictable brass arrangement.
+      “Old Pecan Street” is a dynamite rhythmic blues piano rock track that features the Fantasma
+      Horns (Grupo Fantasma) with an especially exciting brass arrangement.
     </p>
     <p>
       All songs written, produced and arranged by Thom Kurtz. Co-produced by Tim Dolbear on all
       tracks except Poetry Pop and ROBOT ODDiTY. Sound engineering, mix and mastering by Tim
-      Dolbear, Eclectica Studios, Nashville on all tracks.
+      Dolbear, Eclectica Studios, Nashville on all tracks. <a
+        href="https://www.instagram.com/tim.dolbear/">instagram.com/tim.dolbear/</a
+      >
     </p>
     <p>
       Music & lyrics by Thom Kurtz. Published by Friends to the End Music (ASCAP). Sound recordings
-      ℗ 2016-2022 by Thom Kurtz.
+      ℗ 2016-2023 by Thom Kurtz.
     </p>
     <p>
       “At the Matinee” image: Douglass, Neal. Christmas Lights on Congress Avenue, photograph,
@@ -92,12 +94,20 @@
       >
     </p>
     <p>
-      Song icon original art by Max McDermott (“Club Iguana,” “Lady With the Sweetest Song,”
-      “Amelia,” “Soap Creek Saloon,” “A World of Troubles”, “Poetry Pop”, and “Top of the World”)
+      Song icon original art by Max McDermott <a href="https://www.instagram.com/maxthedermott/"
+        >instagram.com/maxthedermott/
+      </a>(“Club Iguana,” “Lady With the Sweetest Song,” “Amelia,” “Soap Creek Saloon,” “Poetry
+      Pop”, and “Top of the World”)
     </p>
     <p>
-      “As Sure As Your Sorrow Is Joy” painting by Vincent Van Gogh from 1889 and often titled
-      “Rising Moon and Haycocks.”
+      "As Sure As Your Sorrow Is Joy" original art by Ramón Paredes <a
+        href="https://www.instagram.com/ramonparedes64/">instagram.com/ramonparedes64/</a
+      >
+    </p>
+    <p>
+      "A World Of Troubles" original art by Fulton Hobbes <a
+        href="https://www.instagram.com/fultonhobbs/">instagram.com/fultonhobbs/</a
+      >
     </p>
   </Accordion>
 </div>

@@ -64,8 +64,8 @@
       </div>
       <script
         type="text/javascript"
-        src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script
-        type="text/javascript">
+        src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"
+      ></script><script type="text/javascript">
         (function ($) {
           window.fnames = new Array();
           window.ftypes = new Array();
@@ -224,7 +224,7 @@
     <Social display={false} />
   </div>
 </footer>
-<p class="copyright">© 2020-2023 Friends To The End</p>
+<p class="copyright">© 2020-2024 Friends To The End</p>
 
 <style>
   footer {
