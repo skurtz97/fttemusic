@@ -96,9 +96,6 @@
       ><b>Friends To The End</b> sounds like a group of people, but it’s really a group of songs – and
       each song is one giant stepping stone.”</i
     >
-    Now establishing <b>Friends To The End</b> as a performing band is Kurtz’s next challenge, in
-    support of the exciting spring 2023 release of <b>Chinese Underground</b>, the next enchanting
-    introduction of these friends of his to the public.
   </p>
 
   <div class="container-photos">
