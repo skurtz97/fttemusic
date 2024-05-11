@@ -62,6 +62,10 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
 
 
 <div slot="credits">
+Original art song icon by <a href="https://www.instagram.com/sigfusofsweden/">
+      @sigfusofsweden on Instagram</a
+    >.
+
 Keyboards & lead vocals – Thom Kurtz.
 
 All guitars & bass – Tim Dolbear.

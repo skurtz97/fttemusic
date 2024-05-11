@@ -57,7 +57,9 @@ Top of the world to me and you.
 ***No amount of time or expense was considered spared when we decided to build vintage 80s’ orchestra hits from scratch using our dependable orchestra players like Alex Browne on double-bass, Sarah Jane Hargis on flute and piccolo, Sean Kurtz on trumpet, and Matthew Armbruster on cello, to name a few.   The syncopated orchestra hits play a key but subtle part of the sonic recipe — with special percussion, harpsichord, and some synth bits — and create a truly unique sound with a lyric and message worth studying.***
 
 <div slot="credits">
-Original art song icon by Max McDermott.
+Original art song icon by <a href="https://www.instagram.com/sigfusofsweden/">
+      @sigfusofsweden on Instagram</a
+    >.
 
 Copyright © 1989, 2018    Music & lyrics by Thom Kurtz.    Published by Friends to the End Music (ASCAP).   Sound recording ℗ 2018 by Thom Kurtz.
 
