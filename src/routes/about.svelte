@@ -23,8 +23,8 @@
     Another poignant commentary, this time turning the musical clock back to the legendary Austin cosmic
     cowboy era. The ensemble's creative powerhouse, <b>Thom Kurtz</b>, presents his latest single,
     <b>Soap Creek Saloon</b>, a twangy western swing that is a distinct departure from his previous
-    Frank Zappa-inspired hit, with a twangy pop Americana western swing & a brilliant Animé American
-    music video by <b>Max McDermott</b>.
+    Frank Zappa-inspired hit, with a twangy pop Americana western swing & a brilliant Animé
+    Americana music video by <b>Max McDermott</b>.
   </p>
   <p>
     Released April 28, 2023 - <b>Chinese Underground</b> by <b>Friends To The End</b> - now getting traction

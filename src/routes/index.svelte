@@ -26,6 +26,12 @@
     with videos of joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
   <p>
+    Something new is in the works for 2024. Stay tuned and come back later for more news. Link over
+    to the <a href="https://found.ee/ftterad">
+      Link over to the Friends To The End Radio playlist</a
+    > on Spotify for Spotify streamers.
+  </p>
+  <p>
     Our summer release for 2023, <b>Soap Creek Saloon</b> dropped August 25, 2023.
     <b>Time Travel & Twang</b> back to the
     <b>iconic cosmic cowboy venue with music and Animé Americana video.</b> <br /><br />
