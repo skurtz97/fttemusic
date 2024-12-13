@@ -221,7 +221,7 @@
       </blockquote>
       <script async src="//www.instagram.com/embed.js"></script>
     </div>
-    <Social display={false} />
+    <Social display={true} />
   </div>
 </footer>
 <p class="copyright">© 2020-2024 Friends To The End</p>
