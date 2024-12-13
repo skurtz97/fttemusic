@@ -130,7 +130,7 @@
               </div>
             </div>
             <div style="padding: 19% 0;" />
-            <div style="display:block; height:50px; margin:0 auto 12px; width:50px;">
+            <div style="display:table-column; height:50px; margin:0 auto 12px; width:50px;">
               <svg
                 width="50px"
                 height="50px"
@@ -221,7 +221,7 @@
       </blockquote>
       <script async src="//www.instagram.com/embed.js"></script>
     </div>
-    <Social display={true} />
+    <Social display={false} />
   </div>
 </footer>
 <p class="copyright">© 2020-2024 Friends To The End</p>
