@@ -8,7 +8,9 @@
       "$utils/*": ["src/utils/*"],
       "$styles/*": ["src/styles/*"],
       "$util/*": ["src/util/*"],
-      "$src/*": ["src/*"]
+      "$src/*": ["src/*"],
+      "$lib":["src/lib"],
+      "$lib/*":["src/lib/*"]
     },
     "allowJs": false,
     "checkJs": false,
