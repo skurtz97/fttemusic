@@ -26,11 +26,9 @@
     with videos of joy, whimsy, wisdom, and sometimes, sorrow.
   </p>
   <p>
-    New music and video productions and promotion are mostly on hold at present. I do have at least
-    4 great songs I would love to record for CD releases to complete the set when resources become
-    available. Stay tuned and come back later for more news. Link over to the <a
-      href="https://found.ee/ftterad"
-    >
+    Music production and promotion is mostly on hold at present. I do have at least 4 great songs I
+    would love to record for CD releases to complete the set when resources become available. Stay
+    tuned and come back later for more news. Link over to the <a href="https://found.ee/ftterad">
       Link over to the Friends To The End Radio playlist</a
     > on Spotify for Spotify streamers.
   </p>
