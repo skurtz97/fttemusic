@@ -96,7 +96,7 @@
   {/if}
 </header>
 {#if current === "opened"}
-  <nav id="drawer" class="drawer" transition:slide={{ duration: 200 }}>
+  <nav id="drawer" class="drawer" transition:slide|global={{ duration: 200 }}>
     {#each links as link}
       <a href={link.href} on:click={() => toggleOpen()}>{link.text}</a>
     {/each}

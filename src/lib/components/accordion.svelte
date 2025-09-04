@@ -23,7 +23,7 @@
     {title}
   </div>
   {#if open}
-    <div class="content" transition:slide={{ duration: 300 }}>
+    <div class="content" transition:slide|global={{ duration: 300 }}>
       <slot />
     </div>
   {/if}
