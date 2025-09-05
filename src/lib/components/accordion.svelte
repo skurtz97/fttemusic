@@ -1,14 +1,19 @@
 <script lang="ts">
   import { slide } from "svelte/transition";
-  export let title: string = "Title";
-  export let open = false;
+  interface Props {
+    title?: string;
+    open?: boolean;
+    children?: import('svelte').Snippet;
+  }
+
+  let { title = "Title", open = $bindable(false), children }: Props = $props();
   function click() {
     open = !open;
   }
 </script>
 
 <div class="accordion">
-  <div class="header" on:click={click}>
+  <div class="header" onclick={click}>
     <svg
       class:open
       xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +29,7 @@
   </div>
   {#if open}
     <div class="content" transition:slide|global={{ duration: 300 }}>
-      <slot />
+      {@render children?.()}
     </div>
   {/if}
 </div>

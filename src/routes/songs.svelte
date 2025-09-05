@@ -1,4 +1,4 @@
-<script lang="ts" context="module">
+<script lang="ts" module>
   export interface SongPageMetadata {
     slug: string;
     title: string;
@@ -31,7 +31,11 @@
   import Head from "$components/head.svelte";
   import Accordion from "$src/lib/components/accordion.svelte";
   import Spinner from "$src/lib/components/spinner.svelte";
-  export let songs: SongPageMetadata[];
+  interface Props {
+    songs: SongPageMetadata[];
+  }
+
+  let { songs }: Props = $props();
   // if the metadata has an image, use it, otherwise get the image url from the song slug
   const getImagePath = (metadata: SongPageMetadata) => {
     if (metadata.image) {
@@ -48,7 +52,7 @@
   slug="songs"
 />
 
-<div class="banner" />
+<div class="banner"></div>
 <div id="container" class="container">
   <div class="intro">
     <h1>Modern Soft Rock</h1>

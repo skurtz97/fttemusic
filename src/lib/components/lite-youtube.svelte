@@ -1,33 +1,52 @@
 <script lang="ts">
   import { onMount } from "svelte";
-  export let id: string;
-  export let defaultPlay = false;
-  export let adLinksPreconnect = true;
-  export let isPlaylist = false;
-  export let noCookie = true;
-  export let mute = true;
-  export let isMobile = false;
-  export let mobileResolution = "hqdefault";
-  export let desktopResolution = "maxresdefault";
-  export let lazyImage = false;
-  export let iframeTitle = "YouTube video.";
-  export let imageAltText = "YouTube's thumbnail image for the video.";
-  export let isPreconnected = false;
-  export let iframeLoaded = true;
+  interface Props {
+    id: string;
+    defaultPlay?: boolean;
+    adLinksPreconnect?: boolean;
+    isPlaylist?: boolean;
+    noCookie?: boolean;
+    mute?: boolean;
+    isMobile?: boolean;
+    mobileResolution?: string;
+    desktopResolution?: string;
+    lazyImage?: boolean;
+    iframeTitle?: string;
+    imageAltText?: string;
+    isPreconnected?: boolean;
+    iframeLoaded?: boolean;
+  }
+
+  let {
+    id,
+    defaultPlay = false,
+    adLinksPreconnect = true,
+    isPlaylist = false,
+    noCookie = true,
+    mute = true,
+    isMobile = false,
+    mobileResolution = "hqdefault",
+    desktopResolution = "maxresdefault",
+    lazyImage = false,
+    iframeTitle = "YouTube video.",
+    imageAltText = "YouTube's thumbnail image for the video.",
+    isPreconnected = $bindable(false),
+    iframeLoaded = $bindable(true)
+  }: Props = $props();
 
   let muteParam = mute || defaultPlay ? "1" : "0"; // Default play must be mute
   let queryString;
   let defaultPosterUrl = isMobile
     ? `https://i.ytimg.com/vi_webp/${id}/${mobileResolution}.webp`
     : `https://i.ytimg.com/vi_webp/${id}/${desktopResolution}.webp`;
-  let posterUrl = defaultPosterUrl;
+  let posterUrl = $state(defaultPosterUrl);
   let fallbackPosterUrl = isMobile
     ? `https://i.ytimg.com/vi/${id}/${mobileResolution}.jpg`
     : `https://i.ytimg.com/vi/${id}/${desktopResolution}.jpg`;
-  let ytUrl = noCookie ? "https://www.youtube-nocookie.com" : "https://www.youtube.com";
-  let iframeSrc = isPlaylist
+  let ytUrl = $state(noCookie ? "https://www.youtube-nocookie.com" : "https://www.youtube.com");
+  let iframeSrc = $state(isPlaylist
     ? `${ytUrl}/embed/videoseries?list=${id}`
-    : `${ytUrl}/embed/${id}?${queryString}`; // * Lo, the youtube placeholder image!  (aka the thumbnail, poster image, etc)
+    : `${ytUrl}/embed/${id}?${queryString}`); // * Lo, the youtube placeholder image!  (aka the thumbnail, poster image, etc)
 
   function warmConnections() {
     if (isPreconnected) return;
@@ -68,8 +87,8 @@
   <link rel="preconnect" href="https://googleads.g.doubleclick.net" />
 {/if}
 <div
-  on:click={loadIframeFunc}
-  on:pointerover={warmConnections}
+  onclick={loadIframeFunc}
+  onpointerover={warmConnections}
   class={`yt-lite ${iframeLoaded ? "lyt-activated" : false}`}
   data-testid="lite-yt-embed"
 >
@@ -79,7 +98,7 @@
     loading={lazyImage ? "lazy" : undefined}
     alt={imageAltText}
   />
-  <div class="lty-playbtn" />
+  <div class="lty-playbtn"></div>
   {#if iframeLoaded}
     <iframe
       width="560"
@@ -89,7 +108,7 @@
       allowfullscreen
       title={iframeTitle}
       src={iframeSrc}
-    />
+></iframe>
   {/if}
 </div>
 

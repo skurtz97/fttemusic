@@ -1,6 +1,6 @@
 <script lang="ts">
-  let nameVal = "";
-  let emailVal = "";
+  let nameVal = $state("");
+  let emailVal = $state("");
 </script>
 
 <form>

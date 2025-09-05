@@ -1,7 +1,11 @@
 <script lang="ts">
   import Head from "$components/head.svelte";
   import Accordion from "$src/lib/components/accordion.svelte";
-  export let width = 0;
+  interface Props {
+    width?: number;
+  }
+
+  let { width = $bindable(0) }: Props = $props();
 </script>
 
 <Head

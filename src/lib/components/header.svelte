@@ -1,4 +1,4 @@
-<script lang="ts" context="module">
+<script lang="ts" module>
   export interface Link {
     href: string;
     text?: string;
@@ -23,9 +23,9 @@
     { href: "/contact", text: "CONTACT" }
   ];
   let brand = "FRIENDS TO THE END";
-  let current: "opened" | "closed" = "closed";
-  let open: boolean = false;
-  let width: number = 0;
+  let current: "opened" | "closed" = $state("closed");
+  let open: boolean = $state(false);
+  let width: number = $state(0);
 
   function toggleOpen() {
     if (current === "opened") {
@@ -43,7 +43,7 @@
   <nav class="nav" class:open>
     <a href="/">{brand}</a>
     {#if current === "opened" || width < 900}
-      <button name="burger" class="burger" class:open on:click={toggleOpen}>
+      <button name="burger" class="burger" class:open onclick={toggleOpen}>
         <svg width="32" height="24" fill="currentColor">
           <line id="top" x1="0" y1="2" x2="32" y2="2" />
           <line id="middle" x1="0" y1="12" x2="32" y2="12" />
@@ -98,9 +98,9 @@
 {#if current === "opened"}
   <nav id="drawer" class="drawer" transition:slide|global={{ duration: 200 }}>
     {#each links as link}
-      <a href={link.href} on:click={() => toggleOpen()}>{link.text}</a>
+      <a href={link.href} onclick={() => toggleOpen()}>{link.text}</a>
     {/each}
-    <a href="/mailing-list" on:click={() => toggleOpen()}>MAILING LIST </a>
+    <a href="/mailing-list" onclick={() => toggleOpen()}>MAILING LIST </a>
     <Social />
   </nav>
 {/if}

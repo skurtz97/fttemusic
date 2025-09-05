@@ -8,7 +8,7 @@
   slug="press"
 />
 
-<div class="banner" />
+<div class="banner"></div>
 <div class="container">
   <div class="block">
     <h4>
@@ -223,7 +223,7 @@
     frameborder="no"
     title="KWVH Radio Interview - Embed"
     class="playlist-embed"
-  />
+></iframe>
   <div class="block">
     <h4>
       Feedback about our hopeful anthem, “A World Of Troubles” feat. Susanna Lee on lead vocal

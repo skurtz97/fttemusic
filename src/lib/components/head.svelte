@@ -1,8 +1,17 @@
 <script lang="ts">
-  export let title = "";
-  export let description = "";
-  export let slug = "";
-  export let image = "";
+  interface Props {
+    title?: string;
+    description?: string;
+    slug?: string;
+    image?: string;
+  }
+
+  let {
+    title = "",
+    description = "",
+    slug = "",
+    image = ""
+  }: Props = $props();
 </script>
 
 <svelte:head>

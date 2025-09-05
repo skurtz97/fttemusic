@@ -1,5 +1,6 @@
 <script>
-  export let hover = false;
+  /** @type {{hover?: boolean}} */
+  let { hover = false } = $props();
 </script>
 
 <svg

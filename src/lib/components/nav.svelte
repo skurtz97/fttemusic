@@ -1,4 +1,4 @@
-<script lang="ts" context="module">
+<script lang="ts" module>
   export interface Link {
     href: string;
     text?: string;
@@ -7,13 +7,17 @@
 
 <script lang="ts">
   import Envelope from "./icons/envelope.svelte";
-  export let brand = "My Brand";
-  export let links: Link[] = [
+  interface Props {
+    brand?: string;
+    links?: Link[];
+    open?: boolean;
+  }
+
+  let { brand = "My Brand", links = [
     { href: "/about", text: "About" },
     { href: "/press", text: "Press" },
     { href: "/contact", text: "Contact" }
-  ];
-  export let open = false;
+  ], open = $bindable(false) }: Props = $props();
 </script>
 
 <aside class:open>
@@ -23,7 +27,7 @@
 </aside>
 <nav class="navbar open">
   <a href="/">{brand}</a>
-  <button class:open on:click={() => (open = !open)} name="burger">
+  <button class:open onclick={() => (open = !open)} name="burger">
     <svg width="32" height="24" fill="currentColor">
       <line id="top" x1="0" y1="2" x2="32" y2="2" />
       <line id="middle" x1="0" y1="12" x2="32" y2="12" />

@@ -10,7 +10,7 @@
 
 <div class="container">
   <h1>THANK YOU! &nbsp; Here's your preview.</h1>
-  <p />
+  <p></p>
   <div class="embed-container">
     <iframe
       width="560"
@@ -20,7 +20,7 @@
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
-    />
+></iframe>
   </div>
   <h3>You should receive an email with a link to unreleased bonus content.</h3>
 

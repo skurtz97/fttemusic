@@ -4,7 +4,11 @@
   import InstagramIcon from "./icons/instagram.svelte";
   import SoundcloudIcon from "./icons/soundcloud.svelte";
   import FacebookIcon from "./icons/facebook.svelte";
-  export let display = true;
+  interface Props {
+    display?: boolean;
+  }
+
+  let { display = true }: Props = $props();
 </script>
 
 <ul class={`socials ${display ? "" : "none"}`}>

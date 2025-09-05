@@ -1,7 +1,11 @@
 <script lang="ts">
   import Head from "$components/head.svelte";
 
-  export let width = 0;
+  interface Props {
+    width?: number;
+  }
+
+  let { width = $bindable(0) }: Props = $props();
 </script>
 
 <Head
@@ -45,7 +49,7 @@
       frameborder="0"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
-    />
+></iframe>
   </div>
   <p>
     Enjoy the kinetic lyric music video below for our first single release for 2023, <b class="RO"
@@ -72,7 +76,7 @@
     never wither, wilt, or waver. Even though they ebb, they will resurface later.<br /><br />
   </p>
   <a href="https://found.ee/ftteCU">Streaming, Music Videos, Press Release and other Links Here</a>
-  <p />
+  <p></p>
   <div class="iframe-container">
     <iframe
       src="https://www.youtube-nocookie.com/embed/sXEdYtdBTsg?origin=https://friendstotheend.net"
@@ -80,7 +84,7 @@
       frameborder="0"
       allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen
-    />
+></iframe>
   </div>
 
   <iframe
@@ -90,7 +94,7 @@
     frameborder="0"
     title="Spotify Playlist Embed"
     class="spotify-playlist"
-  />
+></iframe>
   <p>
     Try the chill music videos released since August 2020: <b>ROBOT ODDiTY</b>,
     <b>Where'd You Put The Baby?</b>,
@@ -105,7 +109,7 @@
         frameborder="0"
         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
-      />
+></iframe>
     </div>
     <div class="iframe-container">
       <iframe
@@ -114,7 +118,7 @@
         frameborder="0"
         allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
-      />
+></iframe>
     </div>
     <div class="iframe-container">
       <iframe
@@ -125,7 +129,7 @@
         frameborder="0"
         allow="accelerometer;  clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
-      />
+></iframe>
     </div>
     <div class="iframe-container">
       <iframe
@@ -134,7 +138,7 @@
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
-      />
+></iframe>
     </div>
     <div class="iframe-container">
       <iframe
@@ -143,7 +147,7 @@
         frameborder="0"
         allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
-      />
+></iframe>
     </div>
     <p>
       Watch this video for a sneak-peak behind the scenes and in front of the camera. And discover
@@ -157,7 +161,7 @@
         frameborder="0"
         allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
-      />
+></iframe>
     </div>
   </div>
 </div>

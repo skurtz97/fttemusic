@@ -1,9 +1,13 @@
 <script lang="ts">
-  export let color = "#ffffff";
-  export let size = "60px";
+  interface Props {
+    color?: string;
+    size?: string;
+  }
+
+  let { color = "#ffffff", size = "60px" }: Props = $props();
 </script>
 
-<div class="spinner" style="--size: {size}; --color: {color};" />
+<div class="spinner" style="--size: {size}; --color: {color};"></div>
 
 <style>
   .spinner {

@@ -45,16 +45,22 @@
   import ArrowRight from "$src/lib/components/icons/arrow-right.svelte";
 
   // Metadata is automatically received as a prop from the associated song page.
-  export let title;
-  export let feature;
-  export let subtitle;
-  export let next;
-  export let previous;
-  export let embeds;
+  /** @type {{title: any, feature: any, subtitle: any, next: any, previous: any, embeds: any, intro?: import('svelte').Snippet, children?: import('svelte').Snippet, credits?: import('svelte').Snippet}} */
+  let {
+    title,
+    feature,
+    subtitle,
+    next,
+    previous,
+    embeds,
+    intro,
+    children,
+    credits
+  } = $props();
 
   console.log(embeds);
-  let hoverLeft = false;
-  let hoverRight = false;
+  let hoverLeft = $state(false);
+  let hoverRight = $state(false);
 
   /**
    * Converts a slug into a title. e.g. "hello-world" -> "Hello World"
@@ -124,7 +130,7 @@
 
 <div class="container">
   <div class="intro">
-    <slot name="intro" />
+    {@render intro?.()}
   </div>
   <div class="content">
     <section class="text">
@@ -133,7 +139,7 @@
         <h3 class="feature">{feature}</h3>
       {/if}
       <p class="subtitle">{subtitle}</p>
-      <slot />
+      {@render children?.()}
     </section>
 
     {#if numInstagramEmbeds() <= 1}
@@ -147,7 +153,7 @@
                 height="315"
                 width="475"
                 frameborder="0"
-              />
+></iframe>
             </div>
           {:else if embed.includes("spotify")}
             <div class="embed-container-spotify">
@@ -158,7 +164,7 @@
                 frameborder="0"
                 title="Spotify embed"
                 class="spotify-embed"
-              />
+></iframe>
             </div>
           {:else if embed.includes("soundcloud")}
             <div class="embed-container" id="embed-container">
@@ -169,7 +175,7 @@
                 width="475"
                 frameborder="no"
                 title="Soundcloud embed"
-              />
+></iframe>
             </div>
           {:else if embed.includes("instagram")}
             <div class="insta-container">
@@ -182,7 +188,7 @@
                 scrolling="no"
                 frameborder="0"
                 title="Instagram Embed"
-              />
+></iframe>
             </div>
           {/if}
         {/each}
@@ -197,7 +203,7 @@
             width="475"
             frameborder="no"
             title="Soundcloud embed"
-          />
+></iframe>
         </div>
         <div class="multiple-instagram-container">
           {#each instagramEmbeds() as embed, index}
@@ -212,7 +218,7 @@
                   scrolling="no"
                   frameborder="0"
                   title="Instagram Embed"
-                />
+></iframe>
               </div>
             {/if}
           {/each}
@@ -223,14 +229,14 @@
 
   <div class="credits">
     <Accordion title="Credits">
-      <slot name="credits" />
+      {@render credits?.()}
     </Accordion>
   </div>
   <div class="links">
     <a
       href={next}
-      on:mouseenter={() => (hoverLeft = true)}
-      on:mouseleave={() => (hoverLeft = false)}
+      onmouseenter={() => (hoverLeft = true)}
+      onmouseleave={() => (hoverLeft = false)}
     >
       <ArrowLeft hover={hoverLeft} />
       {slugToTitle(next)}
@@ -238,10 +244,10 @@
     <a href="/songs">Songs</a>
     <a
       href={previous}
-      on:mouseenter={() => (hoverRight = true)}
-      on:mouseleave={() => (hoverRight = false)}
+      onmouseenter={() => (hoverRight = true)}
+      onmouseleave={() => (hoverRight = false)}
     >
-      <p />
+      <p></p>
       {slugToTitle(previous)}
       <ArrowRight hover={hoverRight} />
     </a>
