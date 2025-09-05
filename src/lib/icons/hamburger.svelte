@@ -1,12 +1,8 @@
 <script lang="ts">
-  interface Props {
-    open?: boolean;
-  }
-
-  let { open = $bindable(false) }: Props = $props();
+  export let open = false;
 </script>
 
-<button class:open onclick={() => (open = !open)}>
+<button class:open on:click={() => (open = !open)}>
   <svg width="22" height="22" fill="currentColor">
     <line id="top" x1="0" y1="2" x2="32" y2="2" />
     <line id="middle" x1="0" y1="12" x2="22" y2="12" />

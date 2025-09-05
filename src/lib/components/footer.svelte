@@ -1,5 +1,5 @@
 <script lang="ts">
-  import Social from "$src/lib/components/social.svelte";
+  import Social from "./social.svelte";
 </script>
 
 <svelte:head>
@@ -92,7 +92,7 @@
         width="100%"
         frameborder="0"
         title="Youtube Subscribe Embed"
-></iframe>
+      ></iframe>
     </div>
     <div class="privacy">
       <h4>Who we are and what data is collected on this website</h4>
@@ -117,16 +117,16 @@
             <div style=" display: flex; flex-direction: row; align-items: center;">
               <div
                 style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"
-></div>
+              ></div>
               <div
                 style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"
               >
                 <div
                   style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"
-></div>
+                ></div>
                 <div
                   style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"
-></div>
+                ></div>
               </div>
             </div>
             <div style="padding: 19% 0;"></div>
@@ -163,32 +163,32 @@
               <div>
                 <div
                   style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"
-></div>
+                ></div>
                 <div
                   style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"
-></div>
+                ></div>
                 <div
                   style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"
-></div>
+                ></div>
               </div>
               <div style="margin-left: 8px;">
                 <div
                   style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"
-></div>
+                ></div>
                 <div
                   style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"
-></div>
+                ></div>
               </div>
               <div style="margin-left: auto;">
                 <div
                   style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"
-></div>
+                ></div>
                 <div
                   style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"
-></div>
+                ></div>
                 <div
                   style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"
-></div>
+                ></div>
               </div>
             </div>
             <div
@@ -196,10 +196,10 @@
             >
               <div
                 style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"
-></div>
+              ></div>
               <div
                 style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"
-></div>
+              ></div>
             </div></a
           >
           <p

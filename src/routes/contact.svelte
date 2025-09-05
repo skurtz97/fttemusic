@@ -1,6 +1,6 @@
 <script lang="ts">
   import Head from "$components/head.svelte";
-  import Accordion from "$src/lib/components/accordion.svelte";
+  import Accordion from "../lib/components/accordion.svelte";
   interface Props {
     width?: number;
   }

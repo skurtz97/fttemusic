@@ -29,8 +29,8 @@
 
 <script lang="ts">
   import Head from "$components/head.svelte";
-  import Accordion from "$src/lib/components/accordion.svelte";
-  import Spinner from "$src/lib/components/spinner.svelte";
+  import Accordion from "../lib/components/accordion.svelte";
+  import Spinner from "../lib/components/spinner.svelte";
   interface Props {
     songs: SongPageMetadata[];
   }

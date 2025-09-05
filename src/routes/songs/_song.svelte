@@ -40,23 +40,13 @@
 
   -->
 <script>
-  import Accordion from "$src/lib/components/accordion.svelte";
-  import ArrowLeft from "$src/lib/components/icons/arrow-left.svelte";
-  import ArrowRight from "$src/lib/components/icons/arrow-right.svelte";
+  import Accordion from "../lib/components/accordion.svelte";
+  import ArrowLeft from "../icons/arrow-left.svelte";
+  import ArrowRight from "../icons/arrow-right.svelte";
 
   // Metadata is automatically received as a prop from the associated song page.
   /** @type {{title: any, feature: any, subtitle: any, next: any, previous: any, embeds: any, intro?: import('svelte').Snippet, children?: import('svelte').Snippet, credits?: import('svelte').Snippet}} */
-  let {
-    title,
-    feature,
-    subtitle,
-    next,
-    previous,
-    embeds,
-    intro,
-    children,
-    credits
-  } = $props();
+  let { title, feature, subtitle, next, previous, embeds, intro, children, credits } = $props();
 
   console.log(embeds);
   let hoverLeft = $state(false);
@@ -153,7 +143,7 @@
                 height="315"
                 width="475"
                 frameborder="0"
-></iframe>
+              ></iframe>
             </div>
           {:else if embed.includes("spotify")}
             <div class="embed-container-spotify">
@@ -164,7 +154,7 @@
                 frameborder="0"
                 title="Spotify embed"
                 class="spotify-embed"
-></iframe>
+              ></iframe>
             </div>
           {:else if embed.includes("soundcloud")}
             <div class="embed-container" id="embed-container">
@@ -175,7 +165,7 @@
                 width="475"
                 frameborder="no"
                 title="Soundcloud embed"
-></iframe>
+              ></iframe>
             </div>
           {:else if embed.includes("instagram")}
             <div class="insta-container">
@@ -188,7 +178,7 @@
                 scrolling="no"
                 frameborder="0"
                 title="Instagram Embed"
-></iframe>
+              ></iframe>
             </div>
           {/if}
         {/each}
@@ -203,7 +193,7 @@
             width="475"
             frameborder="no"
             title="Soundcloud embed"
-></iframe>
+          ></iframe>
         </div>
         <div class="multiple-instagram-container">
           {#each instagramEmbeds() as embed, index}
@@ -218,7 +208,7 @@
                   scrolling="no"
                   frameborder="0"
                   title="Instagram Embed"
-></iframe>
+                ></iframe>
               </div>
             {/if}
           {/each}
@@ -233,11 +223,7 @@
     </Accordion>
   </div>
   <div class="links">
-    <a
-      href={next}
-      onmouseenter={() => (hoverLeft = true)}
-      onmouseleave={() => (hoverLeft = false)}
-    >
+    <a href={next} onmouseenter={() => (hoverLeft = true)} onmouseleave={() => (hoverLeft = false)}>
       <ArrowLeft hover={hoverLeft} />
       {slugToTitle(next)}
     </a>

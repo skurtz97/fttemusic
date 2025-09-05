@@ -1,6 +1,6 @@
 <script lang="ts">
   import Head from "$components/head.svelte";
-  import Accordion from "$src/lib/components/accordion.svelte";
+  import Accordion from "../lib/components/accordion.svelte";
   interface Props {
     width?: number;
   }
@@ -35,7 +35,7 @@
     height="360"
     frameborder="0"
     title="Modern Soft Rock Psychedelics"
-></iframe>
+  ></iframe>
   <iframe
     class="playlist-embed"
     src="https://open.spotify.com/embed/playlist/59cyAP6DTR7SReJGuXHLSE"
@@ -45,7 +45,7 @@
     height="360"
     frameborder="0"
     title="Friends To The End Radio - Spotify Embed"
-></iframe>
+  ></iframe>
   <iframe
     class="playlist-embed"
     scrolling="no"
@@ -55,7 +55,7 @@
     height="450"
     frameborder="0"
     title="Club Iguana - Soundcloud Embed"
-></iframe>
+  ></iframe>
   <iframe
     class="playlist-embed"
     scrolling="no"
@@ -65,7 +65,7 @@
     height="360"
     frameborder="0"
     title="Soap Creek Saloon - Soundcloud Embed"
-></iframe>
+  ></iframe>
   <iframe
     class="playlist-embed"
     src="https://open.spotify.com/embed/playlist/0WsNR26baUXTzU9p5159KD"
@@ -75,7 +75,7 @@
     height="360"
     frameborder="0"
     title="Modern Soft Rock Power"
-></iframe>
+  ></iframe>
 </div>
 
 <style>

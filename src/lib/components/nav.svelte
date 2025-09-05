@@ -6,7 +6,7 @@
 </script>
 
 <script lang="ts">
-  import Envelope from "./icons/envelope.svelte";
+  import Envelope from "../icons/envelope.svelte";
   interface Props {
     brand?: string;
     links?: Link[];

@@ -1,9 +1,9 @@
 <script lang="ts">
-  import SpotifyIcon from "./icons/spotify.svelte";
-  import YoutubeIcon from "./icons/youtube.svelte";
-  import InstagramIcon from "./icons/instagram.svelte";
-  import SoundcloudIcon from "./icons/soundcloud.svelte";
-  import FacebookIcon from "./icons/facebook.svelte";
+  import SpotifyIcon from "../icons/spotify.svelte";
+  import YoutubeIcon from "../icons/youtube.svelte";
+  import InstagramIcon from "../icons/instagram.svelte";
+  import SoundcloudIcon from "../icons/soundcloud.svelte";
+  import FacebookIcon from "../icons/facebook.svelte";
   interface Props {
     display?: boolean;
   }
