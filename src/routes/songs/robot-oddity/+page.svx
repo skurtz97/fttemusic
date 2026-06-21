@@ -1,0 +1,63 @@
+---
+slug: "robot-oddity"
+title: "ROBOT ODDiTY"
+subtitle: "( And they called me the Magic Man )"
+date: "2022-06-10"
+next: "chinese-underground"
+previous: "whered-you-put-the-baby"
+embeds: 
+ - "https://www.youtube.com/embed/-phPAiOZCUE"
+ - "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1177856479&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"
+---
+
+<div slot="intro">
+
+Friends To The End's summer and fall 2022 keyboard odyssey of sound and vision by the indoctrinated robot.
+
+[ROBOT ODDiTY Press Release \[pdf\]](https://drive.google.com/file/d/1LRciEY7BiBWKErGQjnibJBNR_jJbMzyS/view?usp=sharing)
+</div>
+
+I was born and raised in a robot factory.  
+I run on oxygen and a lifetime warranty.  
+They taught us everything we might need to know.  
+I learned my lessons well. They put me in the show.  
+And they called me the Magic Man  
+‘Cause I was more than wires inside an iron can.  
+
+A blackout fire broke out down at the power plant.  
+They fried just like fat in frying pans.  
+Somehow I made it through the raging fire.  
+Am I the only survivor to inquire?  
+And they called me the Magic Man  
+‘Cause I was more than wires inside an iron can.  
+La la la la la la, la la la  
+
+I saw her running round to find some shelter, la la la la.  
+I never really found the time to help her,  
+Help her, but it’s you.  
+
+Robots aren’t supposed to cry.  
+It must have been an oil leak in my eye.  
+I don’t know. I don’t care. I can’t understand  
+How I’ll ever make it here in such an effed up land.  
+And they called me the Magic Man  
+‘Cause I was more than wires inside an iron can.  
+La la la la la la la, la la la  
+
+I never thought I’d ever love another, la la la la.  
+I never thought I’d ever need a lover,  
+A lover, but it’s you.I was born and raised in a robot factory.   
+I run on oxygen and an eternal guarantee.   
+If you ever knew me, you know I’d never let you down.   
+So let’s get away for awhile to Magic Town.   
+And they called me the Magic Man   
+Warm and wild inside an iron can.   
+
+
+
+<div slot="credits">
+      <p>Makeup art by Meredith Johns for Hawgfly Productions.</p>
+      <p>Vocals, keys, programming and recording – Thom Kurtz.</p>
+      <p>Drums – Zach Ballard. Mixing and drum recording by Tim Dolbear, Eclectica Studios.</p>
+      <p>Written, Arranged & Produced by Thom Kurtz.  Copyright © 1978, 2021 Lyrics and Music by Thomas Kurtz  Sound recording ℗ 2021 by Friends to the End Music  All rights reserved. For licensing, <a href="mailto:fttemusic@gmail.com" target="_blank" rel="noopener">fttemusic@gmail.com</a></p>
+</div>
