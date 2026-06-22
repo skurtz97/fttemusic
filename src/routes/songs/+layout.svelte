@@ -45,14 +45,18 @@
   import ArrowRight from "$lib/components/icons/ArrowRight.svelte";
 
   // Metadata is automatically received as a prop from the associated song page.
-  export let title;
-  export let feature;
-  export let subtitle;
-  export let next;
-  export let previous;
-  export let embeds;
+  // eslint-disable-next-line svelte/valid-prop-names-in-kit-pages
+  export let title = '';
+  // eslint-disable-next-line svelte/valid-prop-names-in-kit-pages
+  export let feature = '';
+  // eslint-disable-next-line svelte/valid-prop-names-in-kit-pages
+  export let subtitle = '';
+  // eslint-disable-next-line svelte/valid-prop-names-in-kit-pages
+  export let next = '';
+  // eslint-disable-next-line svelte/valid-prop-names-in-kit-pages
+  export let previous = '';
+  export let embeds = [];
 
-  console.log(embeds);
   let hoverLeft = false;
   let hoverRight = false;
 
@@ -119,90 +123,63 @@
 </script>
 
 <svelte:head>
-  <title>{title}</title>
+  <title>{title || 'Songs'}</title>
 </svelte:head>
 
 <div class="container">
   <div class="intro">
     <slot name="intro" />
   </div>
-  <div class="content">
-    <section class="text">
-      <h1 class="title">{title}</h1>
-      {#if feature}
-        <h3 class="feature">{feature}</h3>
-      {/if}
-      <p class="subtitle">{subtitle}</p>
-      <slot />
-    </section>
+  
+  {#if title}
+    <!-- Individual song page layout -->
+    <div class="content">
+      <section class="text">
+        <h1 class="title">{title}</h1>
+        {#if feature}
+          <h3 class="feature">{feature}</h3>
+        {/if}
+        <p class="subtitle">{subtitle}</p>
+        <slot />
+      </section>
 
-    {#if numInstagramEmbeds() <= 1}
-      <div class="embeds">
-        {#each embeds as embed}
-          {#if embed.includes("youtube")}
-            <div class="embed-container">
-              <iframe
-                src={embed}
-                title="YouTube video player"
-                height="315"
-                width="475"
-                frameborder="0"
-              ></iframe>
-            </div>
-          {:else if embed.includes("spotify")}
-            <div class="embed-container-spotify">
-              <iframe
-                src={embed}
-                width=" 531"
-                height="300"
-                frameborder="0"
-                title="Spotify embed"
-                class="spotify-embed"
-              ></iframe>
-            </div>
-          {:else if embed.includes("soundcloud")}
-            <div class="embed-container" id="embed-container">
-              <iframe
-                scrolling="no"
-                src={embed}
-                height="315"
-                width="475"
-                frameborder="no"
-                title="Soundcloud embed"
-              ></iframe>
-            </div>
-          {:else if embed.includes("instagram")}
-            <div class="insta-container">
-              <iframe
-                class="instagram-media instagram-media-rendered"
-                src={embed}
-                allowtransparency="true"
-                allowfullscreen="true"
-                data-instgrm-payload-id="instagram-media-payload-0"
-                scrolling="no"
-                frameborder="0"
-                title="Instagram Embed"
+      {#if numInstagramEmbeds() <= 1}
+        <div class="embeds">
+          {#each embeds as embed}
+            {#if embed.includes("youtube")}
+              <div class="embed-container">
+                <iframe
+                  src={embed}
+                  title="YouTube video player"
+                  height="315"
+                  width="475"
+                  frameborder="0"
                 ></iframe>
-            </div>
-          {/if}
-        {/each}
-      </div>
-    {:else if title === "Falling for the Flash"}
-      <div class="embeds">
-        <div class="embed-container" id="embed-container">
-          <iframe
-            scrolling="no"
-            src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F466540035&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165&amp;secret_token=s-rT9Gz"
-            height="315"
-            width="475"
-            frameborder="no"
-            title="Soundcloud embed"
-          ></iframe>
-        </div>
-        <div class="multiple-instagram-container">S
-          {#each instagramEmbeds() as embed, index}
-            {#if embed.includes("instagram")}
-              <div class={`instagram-container ${indexToOrdinal(index)}`}>
+              </div>
+            {:else if embed.includes("spotify")}
+              <div class="embed-container-spotify">
+                <iframe
+                  src={embed}
+                  width=" 531"
+                  height="300"
+                  frameborder="0"
+                  title="Spotify embed"
+                  class="spotify-embed"
+                ></iframe>
+              </div>
+            {:else if embed.includes("soundcloud")}
+              <div class="embed-container" id="embed-container">
+                <iframe
+                  scrolling="no"
+                  src={embed}
+                  height="315"
+                  width="475"
+                  frameborder="no"
+                  title="Soundcloud embed"
+                ></iframe>
+              </div>
+            {:else if embed.includes("instagram")}
+              <div class="insta-container">
                 <iframe
                   class="instagram-media instagram-media-rendered"
                   src={embed}
@@ -212,40 +189,74 @@
                   scrolling="no"
                   frameborder="0"
                   title="Instagram Embed"
-                ></iframe>
+                  ></iframe>
               </div>
             {/if}
           {/each}
         </div>
-      </div>
-    {/if}
-  </div>
+      {:else if title === "Falling for the Flash"}
+        <div class="embeds">
+          <div class="embed-container" id="embed-container">
+            <iframe
+              scrolling="no"
+              src="https://w.soundcloud.com/player/?visual=true&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F466540035&amp;show_artwork=true&amp;maxheight=1000&amp;maxwidth=1165&amp;secret_token=s-rT9Gz"
+              height="315"
+              width="475"
+              frameborder="no"
+              title="Soundcloud embed"
+            ></iframe>
+          </div>
+          <div class="multiple-instagram-container">S
+            {#each instagramEmbeds() as embed, index}
+              {#if embed.includes("instagram")}
+                <div class={`instagram-container ${indexToOrdinal(index)}`}>
+                  <iframe
+                    class="instagram-media instagram-media-rendered"
+                    src={embed}
+                    allowtransparency="true"
+                    allowfullscreen="true"
+                    data-instgrm-payload-id="instagram-media-payload-0"
+                    scrolling="no"
+                    frameborder="0"
+                    title="Instagram Embed"
+                  ></iframe>
+                </div>
+              {/if}
+            {/each}
+          </div>
+        </div>
+      {/if}
+    </div>
 
-  <div class="credits">
-    <Accordion title="Credits">
-      <slot name="credits" />
-    </Accordion>
-  </div>
-  <div class="links">
-    <a
-      href={next}
-      on:mouseenter={() => (hoverLeft = true)}
-      on:mouseleave={() => (hoverLeft = false)}
-    >
-      <ArrowLeft hover={hoverLeft} />
-      {slugToTitle(next)}
-    </a>
-    <a href="/songs">Songs</a>
-    <a
-      href={previous}
-      on:mouseenter={() => (hoverRight = true)}
-      on:mouseleave={() => (hoverRight = false)}
-    >
-      <p></p>
-      {slugToTitle(previous)}
-      <ArrowRight hover={hoverRight} />
-    </a>
-  </div>
+    <div class="credits">
+      <Accordion title="Credits">
+        <slot name="credits" />
+      </Accordion>
+    </div>
+    <div class="links">
+      <a
+        href={next}
+        on:mouseenter={() => (hoverLeft = true)}
+        on:mouseleave={() => (hoverLeft = false)}
+      >
+        <ArrowLeft hover={hoverLeft} />
+        {slugToTitle(next)}
+      </a>
+      <a href="/songs">Songs</a>
+      <a
+        href={previous}
+        on:mouseenter={() => (hoverRight = true)}
+        on:mouseleave={() => (hoverRight = false)}
+      >
+        <p></p>
+        {slugToTitle(previous)}
+        <ArrowRight hover={hoverRight} />
+      </a>
+    </div>
+  {:else}
+    <!-- Songs grid page layout -->
+    <slot />
+  {/if}
 </div>
 
 <style>

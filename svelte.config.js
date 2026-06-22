@@ -1,6 +1,6 @@
 import { mdsvex } from 'mdsvex';
 import adapter from '@sveltejs/adapter-vercel';
-
+import { resolve } from 'path';
 
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -9,7 +9,12 @@ const config = {
 		adapter: adapter() 
 	},
 	preprocess: [
-		mdsvex()
+		mdsvex({
+			extensions: ['.svx'],
+			layout: {
+				songs: resolve('./src/routes/songs/+layout.svelte')
+			}
+		})
 	],
 	extensions: [
 		'.svelte', 

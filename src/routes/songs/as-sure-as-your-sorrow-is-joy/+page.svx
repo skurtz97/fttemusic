@@ -54,7 +54,7 @@ As sure as your sorrow is joy.
 
 
 <div slot="credits">
-  <p>Cover artwork / thumbnail by Ramón Paredes  <a href="https://www.instagram.com/ramonparedes64/">https://www.instagram.com/ramonparedes64/</a><p>
+  <p>Cover artwork / thumbnail by Ramón Paredes  <a href="https://www.instagram.com/ramonparedes64/">https://www.instagram.com/ramonparedes64/</a></p>
   <p>(Original background painting by Vincent Van Gogh from 1889 and often titled Rising Moon and Haycocks.  Art animation by Jean-Ernst Voigt available on request.)</p>
   <p>Copyright © 1980, 2016    Music & lyrics by Thom Kurtz.    Published by Friends to the End Music (ASCAP).   Sound recording ℗ 2018 by Thom Kurtz.</p>
   <p>Produced & arranged by Thom Kurtz. Co-produced by Tim Dolbear.</p>
