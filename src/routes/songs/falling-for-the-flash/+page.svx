@@ -62,9 +62,7 @@ Falling for the Flash, Falling for the Flash, Falling for the Flash!
 
 
 <div slot="credits">
-Original art song icon by <a href="https://www.instagram.com/sigfusofsweden/">
-      @sigfusofsweden on Instagram</a
-    >.
+Original art song icon by Sigfus of Sweden.
 
 Keyboards & lead vocals – Thom Kurtz.
 

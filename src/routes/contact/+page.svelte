@@ -50,9 +50,8 @@
 		bonus catalog.
 	</p>
 	<h4>Visit us on all our social media platforms.</h4>
-	<a class="foundee-link" href="found.ee/ftte" target="_blank" rel="noopener"
-		>Streaming Platform Links</a
-	>
+	<a class="foundee-link" href="https://found.ee/ftte" target="_blank" rel="noopener"
+		>Streaming Platform Links</a>
 	<p>
 		<strong
 			>FROM THE FOUNDER AND PRODUCER OF EVERY SORT OF DIY THING FOR FRIENDS TO THE END

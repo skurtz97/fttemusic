@@ -53,9 +53,7 @@ Friends to the end, to the end.
 
 
 <div slot="credits">
-Original art song icon by <a href="https://www.instagram.com/sigfusofsweden/">
-      @sigfusofsweden on Instagram</a
-    >.
+Original art song icon by Sigfus of Sweden.
 
 Copyright © 1980, 2016  
 

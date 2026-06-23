@@ -21,17 +21,21 @@
 
 <div class="container">
 	<p>
-		<b>Dropped!! </b> Our summer release for 2023, <b>Soap Creek Saloon</b> (August 25, 2023).
-		<br /><br />
-		Another poignant commentary, this time turning the musical clock back to the legendary Austin cosmic
+		<b>ON HOLD!! </b>
+		Although this project is presently on hold, I am diligently working on keeping the flames alive and trying to plan for future resources to produce and record 5 more tracks, 
+		and then do some full-fledged album releases, when enough great material will be available for 3 collections. (Feel free to donate for this worthy effort at my Paypal link you will find on 
+		the <a href="https://friendstotheend.net/contact"><b>Contact page</b></a>.)
+	</p>
+	<p>
+		Released August 25,2023, <b>Soap Creek Saloon</b> (August 25, 2023), another poignant commentary, this time turning the musical clock back to the legendary Austin cosmic
 		cowboy era. The ensemble's creative powerhouse, <b>Thom Kurtz</b>, presents his latest single,
 		<b>Soap Creek Saloon</b>, a twangy western swing that is a distinct departure from his previous
 		Frank Zappa-inspired hit, with a twangy pop Americana western swing & a brilliant Animé
 		Americana music video by <b>Max McDermott</b>.
 	</p>
 	<p>
-		Released April 28, 2023 - <b>Chinese Underground</b> by <b>Friends To The End</b> - now getting traction
-		on Spotify playlists with listeners from around the world.
+		Released April 28, 2023 - <b>Chinese Underground</b> by <b>Friends To The End</b> - has been getting traction
+		on Spotify playlists with listeners from around the world since spring, 2023.
 	</p>
 	<p>
 		Marching Chinese marimbas, pining erhu players, and guzheng samples are the orchestral flairs

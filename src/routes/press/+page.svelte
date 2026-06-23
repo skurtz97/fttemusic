@@ -11,9 +11,12 @@
 <div class="banner"></div>
 <div class="container">
 	<div class="block">
+		<p>
+			I am hopeful we will get more chances to impress with new tracks and albums in the future, Friends! - TK
+		</p>
 		<h4>
-			Nice feedback has been rolling in for our summer/fall 2023, Modern soft country rock Americana
-			“Soap Creek Saloon” release
+			Nice feedback rolled in for our summer/fall 2023, Modern soft country rock Americana
+			“Soap Creek Saloon” release!
 		</h4>
 		<p>
 			<b

@@ -56,9 +56,7 @@ How I long for the lady with the sweetest song, song!
 
 
 <div slot="credits">
-Original art song icon by  <a href="https://www.instagram.com/sigfusofsweden/">
-      @sigfusofsweden on Instagram</a
-    >.
+Original art song icon by Sigfus of Sweden.
 
 Copyright © 1985, 2016 Music & lyrics by Thom Kurtz.
 

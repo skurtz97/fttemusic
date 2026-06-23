@@ -80,7 +80,7 @@ Poetry, pop, music, what’s goin’ on? What’s goin’ on?
 
 
 <div slot="credits">
-Original art song icon by Max McDermott.  
+Original art song icon by <a href="https://instagram.com/maxthedermott"><b>Max McDermott</b></a>. 
 
 Copyright © 2019 Music & lyrics by Thom Kurtz. Published by Friends to the End Music (ASCAP). Sound recording ℗ 2019 by Thom Kurtz.  
 

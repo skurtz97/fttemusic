@@ -54,12 +54,12 @@ As sure as your sorrow is joy.
 
 
 <div slot="credits">
-  <p>Cover artwork / thumbnail by Ramón Paredes  <a href="https://www.instagram.com/ramonparedes64/">https://www.instagram.com/ramonparedes64/</a></p>
+  <p>Cover artwork / thumbnail by <a href="https://www.instagram.com/ramonparedes64/">Ramón Paredes</a></p>
   <p>(Original background painting by Vincent Van Gogh from 1889 and often titled Rising Moon and Haycocks.  Art animation by Jean-Ernst Voigt available on request.)</p>
   <p>Copyright © 1980, 2016    Music & lyrics by Thom Kurtz.    Published by Friends to the End Music (ASCAP).   Sound recording ℗ 2018 by Thom Kurtz.</p>
   <p>Produced & arranged by Thom Kurtz. Co-produced by Tim Dolbear.</p>
   
-  Viola extraordinaire – Hailey Walterman.
+  Viola extraordinaire – <a href="https://www.instagram.com/haileywaltermanviola/">Hailey Walterman</a>.
 
   Lead vocals and programming – Thom Kurtz.
 
@@ -71,5 +71,5 @@ As sure as your sorrow is joy.
 
   Backing vocals – Lonnie Trevino Jr.
   
-  Mixed and recorded by Tim Dolbear, Eclectica Studios.
+  Mixed and recorded by <a href="https://www.timdolbear.com/">Tim Dolbear, Eclectica Studios</a>.
 </div>

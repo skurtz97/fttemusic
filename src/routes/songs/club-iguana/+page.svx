@@ -70,7 +70,7 @@ Everybody, calm down, play the Iguana Club.
 
 
 <div slot="credits">
-Original art song icon and animation by Max McDermott.
+Original art song icon by <a href="https://instagram.com/maxthedermott"><b>Max McDermott</b></a>.
 
 Copyright © 1985, 2016    Music & lyrics by Thom Kurtz.    Published by Friends to the End Music (ASCAP).   Sound recordings ℗ 2016, 2018 by Thom Kurtz.
 
