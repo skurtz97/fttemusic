@@ -70,7 +70,7 @@ Oh-oh-oh-oh-oh, Oh-oh-oh-oh-oh!
       <p>Lead vocals and programming by Thom Kurtz.</p>
       <p>Percussion programming by Tim Dolbear and Thom Kurtz.</p>
       <p>Produced by Thom Kurtz.</p>
-      <p>Erhus played and recorded by Erwen Erhu.</p>
+      <p>Erhus played and recorded by <a href="https://open.spotify.com/artist/2xaQj3XFzKt7u4g3eIXVTE">Erwen Erhu</a>.</p>
       <p>Backing vocals by <a href="https://instagram.com/lonnietj">Lonnie Trevino Jr.</a>, Julia Courtney, Kelly X. Chen, and Thom Kurtz. Vocals recorded by Dante De Paoli at <a href="https://instagram.com/warmstudiosofficial">Warm Audio Studios</a>.
 , except Lonnie Trevino Jr. and Kelly X. Chen recorded by <a href="https://instagram.com/atxmediakevin">Kevin Chin at Northshore Media Productions</a>.</p>  
       <p>Mix and master by <a href="https://www.timdolbear.com/">Tim Dolbear, Eclectica Studios</a>, Nashville.</p>
