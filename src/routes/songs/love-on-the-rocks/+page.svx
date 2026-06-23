@@ -62,12 +62,12 @@ Oh, my love, on the rocks before my eyes!
 
 
 <div slot="credits">
-<p>Artwork by Evan Bozarth for AIRSHP.</p>
+<p>Artwork by Evan Bozarth for <a href="https://instagram.com/airshp">AIRSHP</a>.</p>
 <p>Copyright © 1984, 2016 Lyrics and Music by Thomas Kurtz. Published by Friends to the End Music Publishing (ASCAP). Sound recording  ℗ 2017 by Thom Kurtz.</p>
 <p>Written, Arranged and Produced by Thom Kurtz. Co-produced by Tim Dolbear.</p>
 <p>Lead & backing vocals – Julia Courtney.</p>
 <p>Backing vocals and programming – Thom Kurtz.</p>
-<p>Guitar solo – Bill Browder, recorded by Layton DePenning at Elmo’s Lab, Buda, TX.</p>
+<p>Guitar solo – <a href="https://facebook.com/bill.browder.50">Bill Browder </a> (Denim, Lost Austin Band), recorded by Layton DePenning at Elmo’s Lab, Buda, TX.</p>
 <p>Drums & percussion – Eddie Cantu, recorded at Austin Music Producers.</p>
-<p>Mix, vocal recordings and programming by Tim Dolbear at Eclectica Studios.</p>
+<p>Mix, vocal recordings and programming by <a href="https://www.timdolbear.com/">Tim Dolbear, Eclectica Studios</a>.</p>
 </div>
