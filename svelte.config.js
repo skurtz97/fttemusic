@@ -6,7 +6,9 @@ import { resolve } from 'path';
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	kit: { 
-		adapter: adapter() 
+		adapter: adapter({
+			runtime: 'nodejs24.x'
+		}),
 	},
 	preprocess: [
 		mdsvex({
