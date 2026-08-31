@@ -1,5 +1,4 @@
 <script>
-	import Envelope from './icons/Envelope.svelte';
 	import Spotify from './icons/Spotify.svelte';
 	import Youtube from './icons/Youtube.svelte';
 	import Instagram from './icons/Instagram.svelte';
@@ -51,11 +50,6 @@
         {#each links as link}
           <a href={link.href}>{link.text}</a>
         {/each}
-        <a href="/mailing-list">
-          <div class="envelope">
-            <Envelope />
-          </div>
-        </a>
       </ul>
     {/if}
   </nav>
@@ -121,10 +115,6 @@
     width: 100%;
     justify-content: space-between;
   }
-  .envelope {
-    margin-top: 5px;
-  }
-
   .drawer {
     display: flex;
     flex-direction: column;
@@ -182,12 +172,6 @@
     margin-left: 1rem;
     align-items: center;
   }
-  .envelope {
-    width: 22px;
-    height: 22px;
-    padding-bottom: 5px;
-  }
-
   /* Hamburger */
   .burger {
     background-color: #000;
