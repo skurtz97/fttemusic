@@ -14,7 +14,6 @@
 		{ href: '/playlists', text: 'PLAYLISTS' },
 		{ href: '/about', text: 'ABOUT' },
 		{ href: '/press', text: 'PRESS' },
-		{ href: '/contact', text: 'CONTACT' }
 	];
     let brand = "FRIENDS TO THE END";
     let current = "closed";
